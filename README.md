@@ -21,7 +21,7 @@
   </a>
 </div>
 
-<div align="right">
+<div align="left">
   <a href="https://github.com/D4vRAM369/D4vRAM369/blob/main/README_en.md">🇬🇧 English Version</a>
 </div>
 
