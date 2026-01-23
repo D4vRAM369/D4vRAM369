@@ -46,7 +46,7 @@ _**Constancia, ganas, vocación, disciplina y perseverancia son llaves que abren
 - 🔭 **Actualmente trabajando en**: `AhorrApp`, `GranCanMatch_bot` y `PsychoLogger` (proyectos públicos), en cuanto a proyectos no subidos aún varios de ellos que prefiero no nombrar ni dar _spoilers_, hasta el git push origin main a su repositorio correspondiente. Solo entonces hablaré sobre esos proyectos abiertamente por aquí.
 - 🌱 **Aprendiendo**: Formación autodidacta enfocada en construir proyectos reales, entender el “por qué” del código y documentar todo el proceso. Mi método es híbrido: teoría cuando hace falta, práctica constante y la IA como guía personalizada.
 - ⚡ **Filosofía**: _"One day at a time"_ (2Pac).
-- 🐧 **OS**: Linux & Android Custom ROMs. Windows próximamente.
+- 🐧 **OS**: GNU/Linux & Android. Windows próximamente.
 
 ---
 
