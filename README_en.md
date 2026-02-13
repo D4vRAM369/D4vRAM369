@@ -44,7 +44,7 @@ _**Perseverance, enthusiasm, dedication, discipline, and perseverance are the ke
 
 ---
 
-- 🔭 **Currently working on**: `GranCanMatch_bot` and `PsychoLogger` (public projects), as well as several projects that have not yet been uploaded, which I prefer not to name or give spoilers about until they are git push origin main to their corresponding repository. Only then will I talk about those projects openly here.
+- 🔭 **Currently working on**: `GranCanMatch_bot` and `PsychoLogger` (public projects). As for projects that haven't been uploaded yet, I'm using, iterating, and perfecting PillMate, Cronoctutime, TrackerTung, RecordCrypt, and a few other projects and ideas that are still simmering in the crucible of my mindlab. It's been a very productive and enriching start to 2026 in terms of learning, as well as turning several ideas into something tangible based on code. Every day I am more convinced that I am on the right track, so I am going full steam ahead with this 💥
 - 🌱 **Learning**: Self-taught training focused on building real projects, understanding the “why” of code, and documenting the entire process. My method is hybrid: theory when needed, constant practice, and AI as a personalized guide.
 - ⚡ **Philosophy**: “One day at a time” (2Pac).
 - 🐧 **OS**: Linux & Android Custom ROMs. Windows coming soon.
