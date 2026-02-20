@@ -22,7 +22,7 @@
 </div>
 
 <div align="right">
-  <a href="https://github.com/D4vRAM369/D4vRAM369/blob/main/README.md">🇪🇸 Versión en Español</a>
+  <a href="https://github.com/D4vRAM369/D4vRAM369/blob/main/README_spanish.md">🇪🇸 Versión en Español</a>
 </div>
 
 
