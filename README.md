@@ -79,7 +79,7 @@ Here is my activity log. **Real code for real problems.**
 ![Android](https://img.shields.io/badge/Android-Hybrid-000000?style=flat-square&logo=android&logoColor=00FF41) ![HTML5](https://img.shields.io/badge/HTML5-Structure-000000?style=flat-square&logo=html5&logoColor=00FF41) ![CSS3](https://img.shields.io/badge/CSS3-Style-000000?style=flat-square&logo=css3&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41) ![Security](https://img.shields.io/badge/Security-Encrypted-000000?style=flat-square&logo=lock&logoColor=00FF41)
 > Private logbook for Android that allows you to track and record experiences with psychoactive substances, doses, *set & setting*, and personal notes. It features **local encryption**, a calendar, statistics, and harm reduction resources. Everything is 100% offline and no data is sent to any server.
 
-#### 🌿 [**CBDcounter**](https://github.com/D4vRAM369/CBDcounter/blob/main/README_english-version.md)
+#### 🌿 [**CBDcounter**](https://github.com/D4vRAM369/CBDcounter/blob/main/README.md)
 ![Android](https://img.shields.io/badge/Android-Kotlin-000000?style=flat-square&logo=kotlin&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41)
 > Minimalist application to track CBD consumption. Daily notes, history (daily/weekly/monthly), and CSV export and import capabilities. 100% offline, just like PsychoLogger.
 
