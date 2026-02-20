@@ -75,7 +75,7 @@ Here is my activity log. **Real code for real problems.**
 >
 > This is a project I've wanted to do for a while. **GranCanMatch_bot** (or [t.me/CitasEnLasPalmas_bot](https://t.me/CitasEnLasPalmas_bot)) aims to become a new way to meet people in Gran Canaria 🇮🇨, far from Tinder's obscure algorithms that commodify relationships. No need to pay to see who likes you. If it works, it will spread to other islands.
 
-#### 🧠 [**PsychoLogger - Psychonautic Log**](https://github.com/D4vRAM369/PsychoLogger/blob/main/README_English-version.md)
+#### 🧠 [**PsychoLogger - Psychonautic Log**](https://github.com/D4vRAM369/PsychoLogger/blob/main/README.md)
 ![Android](https://img.shields.io/badge/Android-Hybrid-000000?style=flat-square&logo=android&logoColor=00FF41) ![HTML5](https://img.shields.io/badge/HTML5-Structure-000000?style=flat-square&logo=html5&logoColor=00FF41) ![CSS3](https://img.shields.io/badge/CSS3-Style-000000?style=flat-square&logo=css3&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41) ![Security](https://img.shields.io/badge/Security-Encrypted-000000?style=flat-square&logo=lock&logoColor=00FF41)
 > Private logbook for Android that allows you to track and record experiences with psychoactive substances, doses, *set & setting*, and personal notes. It features **local encryption**, a calendar, statistics, and harm reduction resources. Everything is 100% offline and no data is sent to any server.
 
@@ -87,7 +87,7 @@ Here is my activity log. **Real code for real problems.**
 ![Python](https://img.shields.io/badge/Python-Script-000000?style=flat-square&logo=python&logoColor=00FF41) ![Chaquopy](https://img.shields.io/badge/Python-Chaquopy-000000?style=flat-square&logo=python&logoColor=00FF41) ![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41) ![Root](https://img.shields.io/badge/Root-Required-000000?style=flat-square&logo=magisk&logoColor=00FF41)
 > Exports playback history (*Android System Intelligence*) from Google Pixel devices to CSV and adds a feature to automatically download songs via `yt-dlp`. Due to the method used to extract this file, **this application is only compatible with rooted phones**. The download feature from the generated file did not work the last time I tested it on a rooted device, due to stricter restrictions from Google and YouTube. I invite anyone to fork or propose an improvement for the project, if they are also interested in becoming a **contributor**.
 
-#### 🔊 [**WhatsMicFix**](https://github.com/D4vRAM369/WhatsMicFix/blob/main/README_english-version.md)
+#### 🔊 [**WhatsMicFix**](https://github.com/D4vRAM369/WhatsMicFix/blob/main/README.md)
 ![Android](https://img.shields.io/badge/Android-LSPosed-000000?style=flat-square&logo=android&logoColor=00FF41) ![Root](https://img.shields.io/badge/Root-Module-000000?style=flat-square&logo=magisk&logoColor=00FF41) ![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41)
 > **LSPosed** module to improve WhatsApp audio quality by applying a configurable pre-boost to the microphone (tested on Pixel 8, Android 16). Created to solve the low audio problem on some Pixel devices.
 
