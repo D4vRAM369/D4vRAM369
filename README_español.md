@@ -9,7 +9,7 @@
   </a>
 
   <p style="font-family: monospace; color: #00FF41;">
-    <b>Android Developer | Python Scripter | Linux Enthusiast | Open-Source Builder | Vibe Coder</b>
+    <b>Android Developer | Python Scripter | Linux Enthusiast | Open-Source Builder | Vibe Coder </b>
   </p>
 
   <!-- Redes Sociales -->
@@ -21,39 +21,38 @@
   </a>
 </div>
 
-<div align="right">
-  <a href="https://github.com/D4vRAM369/D4vRAM369/blob/main/README.md">🇪🇸 Versión en Español</a>
+<div align="left">
+  <a href="https://github.com/D4vRAM369/D4vRAM369/blob/main/README_en.md">🇬🇧 English Version</a>
 </div>
 
+---
+
+### 👨‍💻 System Status (Sobre mí)
+
+> *"Soy una mente neurodivergente aprendiendo continuamente, mientras creo proyectos útiles para la comunidad y para mi día a día."*
+
+Soy un desarrollador apasionado por el **Aprendizaje Basado en Proyectos (ABP)**, o **Project-Based Learning (PBL)** como se le conoce en inglés.
+Mi enfoque es práctico: si veo un problema, codifico una solución.
+
+Mi mente suele ser un Ferrari a 200km/h en ideas, creatividad y posibles apps o parches para cosas que considero útiles o con potencial.
+Convierto problemas cotidianos en código, y ese código en herramientas reales: APKs, scripts o pequeños programas que solucionan o facilitan algo concreto.
+
+Desde bots de Telegram para conectar personas (GranCanMatch_bot) hasta módulos de Magisk para mejorar la grabación de audio en WhatsApp (WhatsMicFix), que fue mi primer proyecto subido y tuvo una acogida espectacular. Eso me motivó aún más a seguir el camino en el que ya estaba avanzando con firmeza y con decisión.
+
+_**Constancia, ganas, vocación, disciplina y perseverancia son llaves que abren puertas de éxito.**_
 
 ---
 
-### 👨‍💻 System Status (About me)
-
-*“I am a neurodivergent mind who is constantly learning, while creating useful projects for the community and for my daily life.”*
-
-I am a developer passionate about **Project-Based Learning (PBL)**.
-My approach is practical: if I see a problem, I code a solution.
-
-My mind is often like a Ferrari racing at 200 km/h with ideas, creativity, and possible apps or patches for things I consider useful or have potential.
-I turn everyday problems into code, and that code into real tools: APKs, scripts, or small programs that solve or facilitate something specific.
-
-From Telegram bots to connect people (GranCanMatch_bot) to Magisk modules to improve audio recording on WhatsApp (WhatsMicFix), which was my first uploaded project and was very well received. That motivated me even more to continue on the path I was already firmly and decisively pursuing.
-
-_**Perseverance, enthusiasm, dedication, discipline, and perseverance are the keys that open the doors to success.**_
+- 🔭 **Actualmente trabajando en**: `AhorrApp`, `GranCanMatch_bot` y `PsychoLogger` (proyectos públicos). En cuanto a proyectos no subidos estoy usando e iterando y pèrfeccionando PillMate, Cronoctutime, TrackerTung, RecordCrypt, y algunos cuantos proyectos más e ideas que aún están en el crisol de mi mindlab a fuego lento. Está siendo un inicio de 2026 muy productivo y enriquecedor a la hora del aprendizaje además de convertir varias ideas en algo tangible a base de código. Cada día más convencido de que estoy en el camino correcto, voy con esto a full 💥
+- 🌱 **Aprendiendo**: Formación autodidacta enfocada en construir proyectos reales, entender el “por qué” del código y documentar todo el proceso. Mi método es híbrido: teoría cuando hace falta, práctica constante y la IA como guía personalizada.
+- ⚡ **Filosofía**: _"One day at a time"_ (2Pac).
+- 🐧 **OS**: GNU/Linux & Android. Windows próximamente.
 
 ---
 
-- 🔭 **Currently working on**: `GranCanMatch_bot` and `PsychoLogger` (public projects). As for projects that haven't been uploaded yet, I'm using, iterating, and perfecting PillMate, Cronoctutime, TrackerTung, RecordCrypt, and a few other projects and ideas that are still simmering in the crucible of my mindlab. It's been a very productive and enriching start to 2026 in terms of learning, as well as turning several ideas into something tangible based on code. Every day I am more convinced that I am on the right track, so I am going full steam ahead with this 💥
-- 🌱 **Learning**: Self-taught training focused on building real projects, understanding the “why” of code, and documenting the entire process. My method is hybrid: theory when needed, constant practice, and AI as a personalized guide.
-- ⚡ **Philosophy**: “One day at a time” (2Pac).
-- 🐧 **OS**: Linux & Android Custom ROMs. Windows coming soon.
+### 🚀 Mission Log (Proyectos Publicados)
 
----
-
-### 🚀 Mission Log (Published Projects)
-
-Here is my activity log. **Real code for real problems.**
+Aquí está mi registro de actividad. **Real code for real problem.**
 
 ### [🇮🇨💰💪🛒 **AhorrApp**](https://github.com/D4vRAM369/AhorrApp/)
 ![Android](https://img.shields.io/badge/Android-Kotlin_&_Jetpack_Compose-000000?style=flat-square&logo=android&logoColor=00FF41)
@@ -64,34 +63,36 @@ Here is my activity log. **Real code for real problems.**
 ![Security](https://img.shields.io/badge/Privacy-Sin_Trackers-000000?style=flat-square&logo=shield&logoColor=00FF41)
 ![License: BUSL-1.1](https://img.shields.io/badge/License-BUSL--1.1-blue)
 
-> Application for better management and savings for the daily economy of residents of Gran Canaria, Las Palmas.
->
-> This project was created in response to continuous price increases by various supermarket chains throughout Gran Canaria, especially in Las Palmas, the capital. It proposes a method for a savings system that benefits the people of the Canary Islands, comparing and contributing with each scan of any product to a community database in Supabase. It works with the free OpenFoodFacts API, but together we can add missing products and their prices and keep them updated. It has a price comparison tool between the different existing supermarkets, with the option to add another if I miss one.
+> *Aplicación para una mejor gestión y ahorro para la economia cotidiana de los residentes de Gran Canarias, Las Palmas*
+> 
+> ✅ La aplicación vuelve a estar 100% funcional, **fixed** 💯⚙️
+> 
+> Éste proyecto nace como respuesta a las continuas subidas de precios de los distintas cadenas de supermercados repartidos por Gran Canaria, especialmente en Las Palmas, capital. Propone un método para un sistema de ahorro favorable para el pueblo canario, comparando y contribuyendo con cada escaneo de cualquier producto a una base de datos comunitaria en Supabase. Funciona con la API libre de OpenFoodFacts, pero entre todos podemos añadir los productos que faltan y sus precios, e ir actualizándolos. Tiene un comparador de precios entre los distintos supermercados existentes, y con la opción de añadir otro si se me escapa alguno.
 
-
-#### 🤖 [**GranCanMatch_bot**](https://github.com/D4vRAM369/GranCanMatch_bot)
+#### [🤖 **GranCanMatch_bot**](https://github.com/D4vRAM369/GranCanMatch_bot)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-000000?style=flat-square&logo=telegram&logoColor=00FF41) ![Node.js](https://img.shields.io/badge/Node.js-Server-000000?style=flat-square&logo=node.js&logoColor=00FF41) ![JS](https://img.shields.io/badge/JavaScript-ES6-000000?style=flat-square&logo=javascript&logoColor=00FF41) <img src="https://img.shields.io/badge/Firebase-Firestore-000000?style=flat-square&logo=firebase&logoColor=FFCB2B&labelColor=000000" />
-> ***THIS TELEGRAM BOT IS NO LONGER IN OPERATION.** IF YOU WISH TO CONTINUE BEING PART OF THE FORMER COMMUNITY, JOIN THE TELEGRAM GROUP [T.ME/GRANCANMATCH](https://t.me/GranCanMatch).*
+
+> ***ÉSTE BOT DE TELEGRAM YA NO ESTÁ EN FUNCIONAMIENTO**. SI QUIERES SEGUIR FORMANDO PARTE DE LA ANTIGUA COMUNIDAD, ÚNETE AL GRUPO DE TELEGRAM [T.ME/GRANCANMATCH](https://t.me/GranCanMatch).*
 >
-> This is a project I've wanted to do for a while. **GranCanMatch_bot** (or [t.me/CitasEnLasPalmas_bot](https://t.me/CitasEnLasPalmas_bot)) aims to become a new way to meet people in Gran Canaria 🇮🇨, far from Tinder's obscure algorithms that commodify relationships. No need to pay to see who likes you. If it works, it will spread to other islands.
+> Éste es un proyecto que quería hacer desde hace un tiempo. **GranCanMatch_bot** (o [t.me/CitasEnLasPalmas_bot](https://t.me/CitasEnLasPalmas_bot)) pretende convertirse en una nueva forma de conocer personas en Gran Canaria 🇮🇨, lejos de los algoritmos oscuros de Tinder que mercantilizan las relaciones. Sin pagar por ver quién te da like. Si funciona, se extenderá a otras islas.
 
-#### 🧠 [**PsychoLogger - Psychonautic Log**](https://github.com/D4vRAM369/PsychoLogger/blob/main/README_English-version.md)
+#### [🧠 **PsychoLogger - Bitácora Psiconáutica**](https://github.com/D4vRAM369/PsychoLogger)
 ![Android](https://img.shields.io/badge/Android-Hybrid-000000?style=flat-square&logo=android&logoColor=00FF41) ![HTML5](https://img.shields.io/badge/HTML5-Structure-000000?style=flat-square&logo=html5&logoColor=00FF41) ![CSS3](https://img.shields.io/badge/CSS3-Style-000000?style=flat-square&logo=css3&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41) ![Security](https://img.shields.io/badge/Security-Encrypted-000000?style=flat-square&logo=lock&logoColor=00FF41)
-> Private logbook for Android that allows you to track and record experiences with psychoactive substances, doses, *set & setting*, and personal notes. It features **local encryption**, a calendar, statistics, and harm reduction resources. Everything is 100% offline and no data is sent to any server.
+> Bitácora privada para Android que te permite llevar un seguimiento y registro de experiencias con sustancias psicoactivas, dosis, *set & setting* y notas personales. Cuenta con **cifrado local**, calendario, estadísticas y recursos de reducción de daños. Todo 100% offline y sin enviar datos a ningún servidor.
 
-#### 🌿 [**CBDcounter**](https://github.com/D4vRAM369/CBDcounter/blob/main/README_english-version.md)
+#### [🌿 **CBDcounter**](https://github.com/D4vRAM369/CBDcounter)
 ![Android](https://img.shields.io/badge/Android-Kotlin-000000?style=flat-square&logo=kotlin&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41)
-> Minimalist application to track CBD consumption. Daily notes, history (daily/weekly/monthly), and CSV export and import capabilities. 100% offline, just like PsychoLogger.
+> Aplicación minimalista para llevar un seguimiento del consumo de CBD. Notas diarias, historial (diario/semanal/mensual) y capacidad de Exportar e Importar CSV. 100% offline al igual que PsychoLogger.
 
-#### 🎵 [**NowPlayingExporterPy**](https://github.com/D4vRAM369/NowPlayingExporterPy/blob/main/README_English-version.md)
+#### [🎵 **NowPlayingExporterPy**](https://github.com/D4vRAM369/NowPlayingExporterPy)
 ![Python](https://img.shields.io/badge/Python-Script-000000?style=flat-square&logo=python&logoColor=00FF41) ![Chaquopy](https://img.shields.io/badge/Python-Chaquopy-000000?style=flat-square&logo=python&logoColor=00FF41) ![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41) ![Root](https://img.shields.io/badge/Root-Required-000000?style=flat-square&logo=magisk&logoColor=00FF41)
-> Exports playback history (*Android System Intelligence*) from Google Pixel devices to CSV and adds a feature to automatically download songs via `yt-dlp`. Due to the method used to extract this file, **this application is only compatible with rooted phones**. The download feature from the generated file did not work the last time I tested it on a rooted device, due to stricter restrictions from Google and YouTube. I invite anyone to fork or propose an improvement for the project, if they are also interested in becoming a **contributor**.
+> Exporta el historial de reproducción (*Android System Intelligence*) desde dispositivos Google Pixel a CSV y añade una función para descargar las canciones automáticamente vía `yt-dlp`. Por como es el método de extracción de éste archivo, **ésta app solo es compatible con móviles que tengan privilegios root** _(rooteados)_. _La función de descargas a partir del archivo generado no funcionaba la última vez que lo probé en root, debido a restricciones más severas de Google y YouTube. Invito a que cualquiera haga un fork o proponga una mejora para el proyecto, si está interesado además en ser **Contributor**._
 
-#### 🔊 [**WhatsMicFix**](https://github.com/D4vRAM369/WhatsMicFix/blob/main/README_english-version.md)
+#### [🔊 **WhatsMicFix**](https://github.com/D4vRAM369/WhatsMicFix)
 ![Android](https://img.shields.io/badge/Android-LSPosed-000000?style=flat-square&logo=android&logoColor=00FF41) ![Root](https://img.shields.io/badge/Root-Module-000000?style=flat-square&logo=magisk&logoColor=00FF41) ![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41)
-> **LSPosed** module to improve WhatsApp audio quality by applying a configurable pre-boost to the microphone (tested on Pixel 8, Android 16). Created to solve the low audio problem on some Pixel devices.
+> Módulo **LSPosed** para mejorar la calidad del audio de WhatsApp aplicando un pre-boost configurable al micrófono (probado en Pixel 8, Android 16). Creado para solucionar el problema de audio bajo en algunos dispositivos Pixel.
 
- ---
+---
 
 ### 🛠️ Arsenal (Tech Stack)
 
@@ -169,28 +170,23 @@ Here is my activity log. **Real code for real problems.**
   
 ---
 
-### ☕ Support me
+### ☕ Apóyame
 <div align="center">
 
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=D4vRAM369&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/D4vRAM369)
 
 </div>
 
-
 <br/>
 
-<!-- GIFS -->
+  <!-- GIFS alineados -->
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="90" />
   <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/back-to-the-future-delorean-comes-back.gif" height="90" />
   <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/cyberpunk-wakeup.gif" height="90" />
   <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/the-matrix-has-you.gif" height="90" />
 
-  <!-- Miss u 🖤 -->
+  <!-- 🖤🤍 -->
   <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/tequiero_eternacompañera-resized.gif" height="90" />
 
 </div>
-
-
-
-
 
