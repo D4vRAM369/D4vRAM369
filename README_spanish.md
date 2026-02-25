@@ -54,7 +54,13 @@ _**Constancia, ganas, vocación, disciplina y perseverancia son llaves que abren
 
 Aquí está mi registro de actividad. **Real code for real problem.**
 
-### [🇮🇨💰💪🛒 **AhorrApp**](https://github.com/D4vRAM369/AhorrApp/)
+#### 🧵🗄 [**ThreadsVault**](https://github.com/D4vRAM369/ThreadsVault)
+![Android](https://img.shields.io/badge/Android-Kotlin-000000?style=flat-square&logo=android&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41) ![Privacy](https://img.shields.io/badge/Privacy-On--Device-000000?style=flat-square&logo=shield&logoColor=00FF41) ![Local DB](https://img.shields.io/badge/Database-SQLite-000000?style=flat-square&logo=sqlite&logoColor=00FF41)
+> Aplicación de almacenamiento local para Android diseñada para guardar, organizar y conservar tus publicaciones favoritas de Threads fuera de la plataforma, mediante categorías, hashtags y filtro de búsqueda.
+>
+> No se requiere cuenta, no depende de la nube, no hay tracking: todo permanece bajo el control del usuario y funciona completamente sin conexión.
+
+#### [🇮🇨💰💪🛒 **AhorrApp**](https://github.com/D4vRAM369/AhorrApp/)
 ![Android](https://img.shields.io/badge/Android-Kotlin_&_Jetpack_Compose-000000?style=flat-square&logo=android&logoColor=00FF41)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41)
 ![Compose](https://img.shields.io/badge/Jetpack-Compose-000000?style=flat-square&logo=jetpackcompose&logoColor=00FF41)
