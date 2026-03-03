@@ -54,6 +54,16 @@ _**Constancia, ganas, vocación, disciplina y perseverancia son llaves que abren
 
 Aquí está mi registro de actividad. **Real code for real problem.**
 
+#### 🧵🗄🖥 [**ThreadsVault-desktop**](https://github.com/D4vRAM369/ThreadsVault)
+![Platform](https://img.shields.io/badge/Platform-Windows_|_Linux-000000?style=flat-square&logo=windows&logoColor=00FF41)
+![Tauri](https://img.shields.io/badge/Tauri-v2-000000?style=flat-square&logo=tauri&logoColor=00FF41)
+![Svelte](https://img.shields.io/badge/Svelte-5-000000?style=flat-square&logo=svelte&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-000000?style=flat-square&logo=typescript&logoColor=00FF41)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-v4-000000?style=flat-square&logo=tailwindcss&logoColor=00FF41)
+![Database](https://img.shields.io/badge/Database-SQLite-000000?style=flat-square&logo=sqlite&logoColor=00FF41)
+![Privacy](https://img.shields.io/badge/Privacy-On--Device-000000?style=flat-square&logo=shield&logoColor=00FF41)
+> Versión de escritorio de ThreadsVault. Interfaz y experiencia de usuario mejoradas, más fácil de usar, desarrollada bajo la misma filosofía centrada en la privacidad que la versión Android. Construida con Tauri v2, Svelte 5 y TypeScript. Disponible para Windows (.exe y .msi) y Linux (.AppImage y .deb). El soporte para Flatpak se añadirá en futuras versiones.
+
 #### 🧵🗄 [**ThreadsVault**](https://github.com/D4vRAM369/ThreadsVault)
 ![Android](https://img.shields.io/badge/Android-Kotlin-000000?style=flat-square&logo=android&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41) ![Privacy](https://img.shields.io/badge/Privacy-On--Device-000000?style=flat-square&logo=shield&logoColor=00FF41) ![Local DB](https://img.shields.io/badge/Database-SQLite-000000?style=flat-square&logo=sqlite&logoColor=00FF41)
 > Aplicación de almacenamiento local para Android diseñada para guardar, organizar y conservar tus publicaciones favoritas de Threads fuera de la plataforma, mediante categorías, hashtags y filtro de búsqueda.
