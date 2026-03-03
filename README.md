@@ -55,7 +55,7 @@ _**Perseverance, enthusiasm, dedication, discipline, and perseverance are the ke
 
 Here is my activity log. **Real code for real problems.**
 
-#### 🧵🗄🖥 [**ThreadsVault-desktop**](https://github.com/D4vRAM369/ThreadsVault)
+#### 🧵🗄🖥 [**ThreadsVault-desktop**](https://github.com/D4vRAM369/ThreadsVault-desktop)
 ![Platform](https://img.shields.io/badge/Platform-Windows_|_Linux-000000?style=flat-square&logo=windows&logoColor=00FF41)
 ![Tauri](https://img.shields.io/badge/Tauri-v2-000000?style=flat-square&logo=tauri&logoColor=00FF41)
 ![Svelte](https://img.shields.io/badge/Svelte-5-000000?style=flat-square&logo=svelte&logoColor=00FF41)
