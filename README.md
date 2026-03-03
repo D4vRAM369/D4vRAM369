@@ -55,6 +55,16 @@ _**Perseverance, enthusiasm, dedication, discipline, and perseverance are the ke
 
 Here is my activity log. **Real code for real problems.**
 
+#### 🧵🗄🖥 [**ThreadsVault-desktop**](https://github.com/D4vRAM369/ThreadsVault)
+![Platform](https://img.shields.io/badge/Platform-Windows_|_Linux-000000?style=flat-square&logo=windows&logoColor=00FF41)
+![Tauri](https://img.shields.io/badge/Tauri-v2-000000?style=flat-square&logo=tauri&logoColor=00FF41)
+![Svelte](https://img.shields.io/badge/Svelte-5-000000?style=flat-square&logo=svelte&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-000000?style=flat-square&logo=typescript&logoColor=00FF41)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-v4-000000?style=flat-square&logo=tailwindcss&logoColor=00FF41)
+![Database](https://img.shields.io/badge/Database-SQLite-000000?style=flat-square&logo=sqlite&logoColor=00FF41)
+![Privacy](https://img.shields.io/badge/Privacy-On--Device-000000?style=flat-square&logo=shield&logoColor=00FF41)
+> Desktop version of ThreadsVault. Improved UI and UX, easier to use, built with the same privacy-first philosophy as the Android version. Developed with Tauri v2, Svelte 5 and TypeScript. Available for Windows (.exe and .msi) and Linux (.AppImage and .deb). Flatpak support will be added in future releases.
+
 #### 🧵🗄 [**ThreadsVault**](https://github.com/D4vRAM369/ThreadsVault)
 ![Android](https://img.shields.io/badge/Android-Kotlin-000000?style=flat-square&logo=android&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41) ![Privacy](https://img.shields.io/badge/Privacy-On--Device-000000?style=flat-square&logo=shield&logoColor=00FF41) ![Local DB](https://img.shields.io/badge/Database-SQLite-000000?style=flat-square&logo=sqlite&logoColor=00FF41)
 > Local vault app for Android designed to save, organize, and preserve your favorite Threads posts outside the platform. ThreadsVault prevents valuable content from being lost in the infinite scroll by storing links, notes, categories, and metadata in a private on-device database. No account required, no cloud dependency, no tracking — everything stays under the user’s control and works fully offline.
