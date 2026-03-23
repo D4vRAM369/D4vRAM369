@@ -85,7 +85,7 @@ Here is my activity log. **Real code for real problems.**
 
 #### 🤖 [**GranCanMatch_bot**](https://github.com/D4vRAM369/GranCanMatch_bot)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-000000?style=flat-square&logo=telegram&logoColor=00FF41) ![Node.js](https://img.shields.io/badge/Node.js-Server-000000?style=flat-square&logo=node.js&logoColor=00FF41) ![JS](https://img.shields.io/badge/JavaScript-ES6-000000?style=flat-square&logo=javascript&logoColor=00FF41) <img src="https://img.shields.io/badge/Firebase-Firestore-000000?style=flat-square&logo=firebase&logoColor=FFCB2B&labelColor=000000" />
-> ***THIS TELEGRAM BOT IS NO LONGER IN OPERATION.** IF YOU WISH TO CONTINUE BEING PART OF THE FORMER COMMUNITY, JOIN THE TELEGRAM GROUP [T.ME/GRANCANMATCH](https://t.me/GranCanMatch).*
+> ***~~THIS TELEGRAM BOT IS NO LONGER IN OPERATION~~** **WORKING 24/7 AGAIN!** t.me/CitasEnLasPalmas_bot IF YOU WISH ALSO BEING PART OF THE NEW FORMER COMMUNITY, JOIN THE TELEGRAM GROUP [T.ME/GRANCANMATCH](https://t.me/GranCanMatch).*
 >
 > This is a project I've wanted to do for a while. **GranCanMatch_bot** (or [t.me/CitasEnLasPalmas_bot](https://t.me/CitasEnLasPalmas_bot)) aims to become a new way to meet people in Gran Canaria 🇮🇨, far from Tinder's obscure algorithms that commodify relationships. No need to pay to see who likes you. If it works, it will spread to other islands.
 
