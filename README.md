@@ -47,7 +47,7 @@ _**Perseverance, enthusiasm, dedication, discipline, and perseverance are the ke
 - 🔭 **Currently working on**: `Cronoctutime`, `Debuggle` and some projects which I rather keep in private till their launch and progressive evolution, and userscripts and another kind of projects and ideas. About published projects, currently improving `ThreadsVault` (both of them, Android and Desktop version) and `PsychoLogger` (public projects). It's been a very productive and enriching start to 2026 in terms of learning, as well as turning several ideas into something tangible based on code. Every day I am more convinced that I am on the right track, so I am going full steam ahead with this 💥
 - 🌱 **Learning**: Self-taught training focused on building real projects, understanding the “why” of code, and documenting the entire process. My method is hybrid: theory when needed, constant practice, and AI as a personalized guide.
 - ⚡ **Philosophy**: “One day at a time” (2Pac).
-- 🐧 **OS**: Linux & Android Custom ROMs. Windows coming soon.
+- 🐧 **OS**: GNU/Linux, Windows and Android.
 
 ---
 
