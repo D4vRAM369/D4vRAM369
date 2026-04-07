@@ -43,11 +43,10 @@ _**Constancia, ganas, vocación, disciplina y perseverancia son llaves que abren
 
 ---
 
-- 🔭 **Actualmente trabajando en**: `AhorrApp`, `GranCanMatch_bot` y `PsychoLogger` (proyectos públicos). En cuanto a proyectos no subidos estoy usando e iterando y pèrfeccionando PillMate, Cronoctutime, TrackerTung, RecordCrypt, y algunos cuantos proyectos más e ideas que aún están en el crisol de mi mindlab a fuego lento. Está siendo un inicio de 2026 muy productivo y enriquecedor a la hora del aprendizaje además de convertir varias ideas en algo tangible a base de código. Cada día más convencido de que estoy en el camino correcto, voy con esto a full 💥
+- 🔭 **Actualmente estoy trabajando en**: `Cronoctutime`, `Debuggle` y algunos proyectos que prefiero mantener en secreto hasta su lanzamiento y su evolución progresiva, además de userscripts y otro tipo de proyectos e ideas. En cuanto a los proyectos publicados, actualmente estoy mejorando `ThreadsVault` (ambas versiones, la de Android y la de escritorio) y `PsychoLogger` (proyectos públicos).
 - 🌱 **Aprendiendo**: Formación autodidacta enfocada en construir proyectos reales, entender el “por qué” del código y documentar todo el proceso. Mi método es híbrido: teoría cuando hace falta, práctica constante y la IA como guía personalizada.
 - ⚡ **Filosofía**: _"One day at a time"_ (2Pac).
-- 🐧 **OS**: GNU/Linux & Android. Windows próximamente.
-
+- 🐧 **OS**: GNU/Linux, Windows & Android.
 ---
 
 ### 🚀 Mission Log (Proyectos Publicados)
