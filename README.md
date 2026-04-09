@@ -55,6 +55,10 @@ _**Perseverance, enthusiasm, dedication, discipline, and perseverance are the ke
 
 Here is my activity log. **Real code for real problems.**
 
+#### 📡 [**Anna's Archives Hub**](https://github.com/D4vRAM369/annas-archive-hub)
+![Python](https://img.shields.io/badge/Python-3.12+-000000?style=flat-square&logo=python&logoColor=00FF41) ![IPFS](https://img.shields.io/badge/IPFS-Pinata-000000?style=flat-square&logo=ipfs&logoColor=00FF41) ![Cron](https://img.shields.io/badge/Cron-Automated-000000?style=flat-square&logo=clockify&logoColor=00FF41) ![License](https://img.shields.io/badge/License-MIT-000000?style=flat-square&logo=opensourceinitiative&logoColor=00FF41)
+> Self-updating domain tracker for **Anna's Archive** and shadow libraries. Crawls open-slum.org, Reddit, X/Twitter, Telegram and Mastodon to discover new mirrors, verifies them with Chrome impersonation to bypass Cloudflare, and publishes an immutable report to **IPFS via Pinata** every 6 hours. Never lose access to knowledge again.
+
 #### 🧵🗄🖥 [**ThreadsVault-desktop**](https://github.com/D4vRAM369/ThreadsVault-desktop)
 ![Platform](https://img.shields.io/badge/Platform-Windows_|_Linux-000000?style=flat-square&logo=windows&logoColor=00FF41)
 ![Tauri](https://img.shields.io/badge/Tauri-v2-000000?style=flat-square&logo=tauri&logoColor=00FF41)
@@ -81,7 +85,6 @@ Here is my activity log. **Real code for real problems.**
 > Application for better management and savings for the daily economy of residents of Gran Canaria, Las Palmas.
 >
 > This project was created in response to continuous price increases by various supermarket chains throughout Gran Canaria, especially in Las Palmas, the capital. It proposes a method for a savings system that benefits the people of the Canary Islands, comparing and contributing with each scan of any product to a community database in Supabase. It works with the free OpenFoodFacts API, but together we can add missing products and their prices and keep them updated. It has a price comparison tool between the different existing supermarkets, with the option to add another if I miss one.
-
 
 #### 🤖 [**GranCanMatch_bot**](https://github.com/D4vRAM369/GranCanMatch_bot)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-000000?style=flat-square&logo=telegram&logoColor=00FF41) ![Node.js](https://img.shields.io/badge/Node.js-Server-000000?style=flat-square&logo=node.js&logoColor=00FF41) ![JS](https://img.shields.io/badge/JavaScript-ES6-000000?style=flat-square&logo=javascript&logoColor=00FF41) <img src="https://img.shields.io/badge/Firebase-Firestore-000000?style=flat-square&logo=firebase&logoColor=FFCB2B&labelColor=000000" />
