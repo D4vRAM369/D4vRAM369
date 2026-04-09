@@ -53,6 +53,11 @@ _**Constancia, ganas, vocación, disciplina y perseverancia son llaves que abren
 
 Aquí está mi registro de actividad. **Real code for real problem.**
 
+#### 📡 [**Anna's Archives Hub**](https://github.com/D4vRAM369/annas-archive-hub)
+![Python](https://img.shields.io/badge/Python-3.12+-000000?style=flat-square&logo=python&logoColor=00FF41) ![IPFS](https://img.shields.io/badge/IPFS-Pinata-000000?style=flat-square&logo=ipfs&logoColor=00FF41) ![Cron](https://img.shields.io/badge/Cron-Automatizado-000000?style=flat-square&logo=clockify&logoColor=00FF41) ![License](https://img.shields.io/badge/Licencia-MIT-000000?style=flat-square&logo=opensourceinitiative&logoColor=00FF41)
+> Rastreador de dominios auto-actualizable para **Anna's Archive** y shadow libraries. Monitoriza open-slum.org, Reddit, X/Twitter, Telegram y Mastodon para descubrir nuevos mirrors, los verifica con impersonación de Chrome para evadir Cloudflare, y publica un reporte inmutable en **IPFS vía Pinata** cada 6 horas. No pierdas el acceso al conocimiento nunca más.
+
+
 #### 🧵🗄🖥 [**ThreadsVault-desktop**](https://github.com/D4vRAM369/ThreadsVault)
 ![Platform](https://img.shields.io/badge/Platform-Windows_|_Linux-000000?style=flat-square&logo=windows&logoColor=00FF41)
 ![Tauri](https://img.shields.io/badge/Tauri-v2-000000?style=flat-square&logo=tauri&logoColor=00FF41)
