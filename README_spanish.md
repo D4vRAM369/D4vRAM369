@@ -53,6 +53,11 @@ _**Constancia, ganas, vocación, disciplina y perseverancia son llaves que abren
 
 Aquí está mi registro de actividad. **Real code for real problem.**
 
+#### ⚡🌐 [**TapTranslate**](https://github.com/D4vRAM369/TapTranslate)
+![Android](https://img.shields.io/badge/Android-Kotlin_&_Compose-000000?style=flat-square&logo=android&logoColor=00FF41) ![AI](https://img.shields.io/badge/AI-Google_ML_Kit-000000?style=flat-square&logo=google&logoColor=00FF41) ![Privacy](https://img.shields.io/badge/Privacy-On--Device-000000?style=flat-square&logo=shield&logoColor=00FF41) ![License](https://img.shields.io/badge/License-MIT-000000?style=flat-square&logo=opensourceinitiative&logoColor=00FF41)
+> Traducción instantánea, privada y sin conexión directamente desde el menú de selección de texto de cualquier aplicación. **TapTranslate** se integra con la acción `ACTION_PROCESS_TEXT` de Android para ofrecer traducciones rápidas y directas (español ↔ inglés) mediante traducción automática neuronal (NMT) en el propio dispositivo. Sin dependencia de la nube, sin seguimiento y sin que los datos salgan de tu dispositivo: solo traducciones fluidas justo donde las necesitas.
+
+
 #### 📡 [**Anna's Archives Hub**](https://github.com/D4vRAM369/annas-archive-hub)
 ![Python](https://img.shields.io/badge/Python-3.12+-000000?style=flat-square&logo=python&logoColor=00FF41) ![IPFS](https://img.shields.io/badge/IPFS-Pinata-000000?style=flat-square&logo=ipfs&logoColor=00FF41) ![Cron](https://img.shields.io/badge/Cron-Automatizado-000000?style=flat-square&logo=clockify&logoColor=00FF41) ![License](https://img.shields.io/badge/Licencia-MIT-000000?style=flat-square&logo=opensourceinitiative&logoColor=00FF41)
 > Rastreador de dominios auto-actualizable para **Anna's Archive** y shadow libraries. Monitoriza open-slum.org, Reddit, X/Twitter, Telegram y Mastodon para descubrir nuevos mirrors, los verifica con impersonación de Chrome para evadir Cloudflare, y publica un reporte inmutable en **IPFS vía Pinata** cada 6 horas. No pierdas el acceso al conocimiento nunca más.
