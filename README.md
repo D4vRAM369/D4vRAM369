@@ -55,6 +55,11 @@ _**Perseverance, enthusiasm, dedication, discipline, and perseverance are the ke
 
 Here is my activity log. **Real code for real problems.**
 
+#### ⚡🌐 [**TapTranslate**](https://github.com/D4vRAM369/TapTranslate)
+![Android](https://img.shields.io/badge/Android-Kotlin_&_Compose-000000?style=flat-square&logo=android&logoColor=00FF41) ![AI](https://img.shields.io/badge/AI-Google_ML_Kit-000000?style=flat-square&logo=google&logoColor=00FF41) ![Privacy](https://img.shields.io/badge/Privacy-On--Device-000000?style=flat-square&logo=shield&logoColor=00FF41) ![License](https://img.shields.io/badge/License-MIT-000000?style=flat-square&logo=opensourceinitiative&logoColor=00FF41)
+> Instant, private, offline translation directly from any app's text-selection menu. **TapTranslate** integrates with Android’s `ACTION_PROCESS_TEXT` to provide fast, in-place translations (Spanish ↔ English) using on-device Neural Machine Translation (NMT). No cloud dependency, no tracking, and no data leaves your device — just seamless translation where you need it.
+
+
 #### 📡 [**Anna's Archives Hub**](https://github.com/D4vRAM369/annas-archive-hub)
 ![Python](https://img.shields.io/badge/Python-3.12+-000000?style=flat-square&logo=python&logoColor=00FF41) ![IPFS](https://img.shields.io/badge/IPFS-Pinata-000000?style=flat-square&logo=ipfs&logoColor=00FF41) ![Cron](https://img.shields.io/badge/Cron-Automated-000000?style=flat-square&logo=clockify&logoColor=00FF41) ![License](https://img.shields.io/badge/License-MIT-000000?style=flat-square&logo=opensourceinitiative&logoColor=00FF41)
 > Self-updating domain tracker for **Anna's Archive** and shadow libraries. Crawls open-slum.org, Reddit, X/Twitter, Telegram and Mastodon to discover new mirrors, verifies them with Chrome impersonation to bypass Cloudflare, and publishes an immutable report to **IPFS via Pinata** every 6 hours. Never lose access to knowledge again.
