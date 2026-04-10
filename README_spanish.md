@@ -164,6 +164,7 @@ Aquí está mi registro de actividad. **Real code for real problem.**
 
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-000000?style=flat-square&logo=telegram&logoColor=00FF41)
 [![Open Food Facts API](https://img.shields.io/badge/Open_Food_Facts-API-orange?style=flat&logo=openfoodfacts&logoColor=white)](https://world.openfoodfacts.org/data)
+[![Pinata](https://img.shields.io/badge/IPFS-Pinata-orange?logo=pinata&logoColor=white)](https://pinata.cloud)
 
 ---
 
