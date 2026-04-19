@@ -53,15 +53,24 @@ _**Constancia, ganas, vocación, disciplina y perseverancia son llaves que abren
 
 Aquí está mi registro de actividad. **Real code for real problem.**
 
+
+#### 🐛 [**Debuggle**](https://github.com/D4vRAM369/Debuggle)
+![Platform](https://img.shields.io/badge/Plataforma-Windows_|_Linux_|_macOS-000000?style=flat-square&logo=windows&logoColor=00FF41)
+![Electron](https://img.shields.io/badge/Electron-33-000000?style=flat-square&logo=electron&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-18-000000?style=flat-square&logo=react&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-000000?style=flat-square&logo=typescript&logoColor=00FF41)
+![AI](https://img.shields.io/badge/IA-Multi--Proveedor-000000?style=flat-square&logo=openai&logoColor=00FF41)
+![Privacy](https://img.shields.io/badge/Privacidad-Local_First-000000?style=flat-square&logo=shield&logoColor=00FF41)
+![License](https://img.shields.io/badge/Licencia-BUSL--1.1-000000?style=flat-square&logo=opensourceinitiative&logoColor=00FF41)
+> Tu asistente personal de debugging. Pega cualquier stack trace o mensaje de error y obtén una explicación adaptada a tu nivel — **Novato**, **Medio** o **Experto** — incluyendo qué ocurrió, cómo solucionarlo y el código corregido con resaltado de sintaxis. Tras el análisis, abre un chat multi-turno sobre ese error concreto con el contexto ya cargado. Guarda análisis en tu **vault** personal, rastrea tus **patrones** de error a lo largo del tiempo y construye una base de conocimiento de tu propio historial de debugging. Compatible con **6 proveedores de IA** (Groq, OpenRouter, Ollama, Anthropic, OpenAI, VeniceAI), incluyendo tiers gratuitos. Las claves API se almacenan de forma segura en el keychain del sistema operativo — nunca se escriben en disco en texto plano. **100% local por defecto.**
+
 #### ⚡🌐 [**TapTranslate**](https://github.com/D4vRAM369/TapTranslate)
 ![Android](https://img.shields.io/badge/Android-Kotlin_&_Compose-000000?style=flat-square&logo=android&logoColor=00FF41) ![AI](https://img.shields.io/badge/AI-Google_ML_Kit-000000?style=flat-square&logo=google&logoColor=00FF41) ![Privacy](https://img.shields.io/badge/Privacy-On--Device-000000?style=flat-square&logo=shield&logoColor=00FF41) ![License](https://img.shields.io/badge/License-MIT-000000?style=flat-square&logo=opensourceinitiative&logoColor=00FF41)
 > Traducción instantánea, privada y sin conexión directamente desde el menú de selección de texto de cualquier aplicación. **TapTranslate** se integra con la acción `ACTION_PROCESS_TEXT` de Android para ofrecer traducciones rápidas y directas (español ↔ inglés) mediante traducción automática neuronal (NMT) en el propio dispositivo. Sin dependencia de la nube, sin seguimiento y sin que los datos salgan de tu dispositivo: solo traducciones fluidas justo donde las necesitas.
 
-
 #### 📡 [**Anna's Archives Hub**](https://github.com/D4vRAM369/annas-archive-hub)
 ![Python](https://img.shields.io/badge/Python-3.12+-000000?style=flat-square&logo=python&logoColor=00FF41) ![IPFS](https://img.shields.io/badge/IPFS-Pinata-000000?style=flat-square&logo=ipfs&logoColor=00FF41) ![Cron](https://img.shields.io/badge/Cron-Automatizado-000000?style=flat-square&logo=clockify&logoColor=00FF41) ![License](https://img.shields.io/badge/Licencia-MIT-000000?style=flat-square&logo=opensourceinitiative&logoColor=00FF41)
 > Rastreador de dominios auto-actualizable para **Anna's Archive** y shadow libraries. Monitoriza open-slum.org, Reddit, X/Twitter, Telegram y Mastodon para descubrir nuevos mirrors, los verifica con impersonación de Chrome para evadir Cloudflare, y publica un reporte inmutable en **IPFS vía Pinata** cada 6 horas. No pierdas el acceso al conocimiento nunca más.
-
 
 #### 🧵🗄🖥 [**ThreadsVault-desktop**](https://github.com/D4vRAM369/ThreadsVault)
 ![Platform](https://img.shields.io/badge/Platform-Windows_|_Linux-000000?style=flat-square&logo=windows&logoColor=00FF41)
@@ -117,7 +126,6 @@ Aquí está mi registro de actividad. **Real code for real problem.**
 ![Android](https://img.shields.io/badge/Android-LSPosed-000000?style=flat-square&logo=android&logoColor=00FF41) ![Root](https://img.shields.io/badge/Root-Module-000000?style=flat-square&logo=magisk&logoColor=00FF41) ![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41)
 > Módulo **LSPosed** para mejorar la calidad del audio de WhatsApp aplicando un pre-boost configurable al micrófono (probado en Pixel 8, Android 16). Creado para solucionar el problema de audio bajo en algunos dispositivos Pixel.
 
----
 
 ---
 
@@ -142,6 +150,8 @@ Aquí está mi registro de actividad. **Real code for real problem.**
 
 ![Android SDK](https://img.shields.io/badge/Android_SDK-000000?style=flat-square&logo=android&logoColor=00FF41)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=00FF41)
+![Electron](https://img.shields.io/badge/Electron-000000?style=flat-square&logo=electron&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00FF41)
 ![Svelte](https://img.shields.io/badge/Svelte-000000?style=flat-square&logo=svelte&logoColor=00FF41)
 ![Tauri](https://img.shields.io/badge/Tauri-000000?style=flat-square&logo=tauri&logoColor=00FF41)
 
