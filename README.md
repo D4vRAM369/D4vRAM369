@@ -55,6 +55,16 @@ _**Perseverance, enthusiasm, dedication, discipline, and perseverance are the ke
 
 Here is my activity log. **Real code for real problems.**
 
+#### 🐛 [**Debuggle**](https://github.com/D4vRAM369/Debuggle)
+![Platform](https://img.shields.io/badge/Platform-Windows_|_Linux_|_macOS-000000?style=flat-square&logo=windows&logoColor=00FF41)
+![Electron](https://img.shields.io/badge/Electron-33-000000?style=flat-square&logo=electron&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-18-000000?style=flat-square&logo=react&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-000000?style=flat-square&logo=typescript&logoColor=00FF41)
+![AI](https://img.shields.io/badge/AI-Multi--Provider-000000?style=flat-square&logo=openai&logoColor=00FF41)
+![Privacy](https://img.shields.io/badge/Privacy-Local_First-000000?style=flat-square&logo=shield&logoColor=00FF41)
+![License](https://img.shields.io/badge/License-BUSL--1.1-000000?style=flat-square&logo=opensourceinitiative&logoColor=00FF41)
+> Your personal debugging assistant. Paste any stack trace or error message and get a clear explanation tailored to your level — **Novice**, **Mid**, or **Expert** — including what happened, how to fix it, and corrected code with syntax highlighting. After analyzing, open a multi-turn chat about that specific error with context pre-loaded. Save analyses to a personal **vault**, track your error **patterns** over time, and build a knowledge base of your own debugging history. Supports **6 AI providers** (Groq, OpenRouter, Ollama, Anthropic, OpenAI, VeniceAI), including free tiers. API keys stored securely in the OS keychain — never written to disk in plaintext. **100% local by default.**
+
 #### ⚡🌐 [**TapTranslate**](https://github.com/D4vRAM369/TapTranslate)
 ![Android](https://img.shields.io/badge/Android-Kotlin_&_Compose-000000?style=flat-square&logo=android&logoColor=00FF41) ![AI](https://img.shields.io/badge/AI-Google_ML_Kit-000000?style=flat-square&logo=google&logoColor=00FF41) ![Privacy](https://img.shields.io/badge/Privacy-On--Device-000000?style=flat-square&logo=shield&logoColor=00FF41) ![License](https://img.shields.io/badge/License-MIT-000000?style=flat-square&logo=opensourceinitiative&logoColor=00FF41)
 > Instant, private, offline translation directly from any app's text-selection menu. **TapTranslate** integrates with Android’s `ACTION_PROCESS_TEXT` to provide fast, in-place translations (Spanish ↔ English) using on-device Neural Machine Translation (NMT). No cloud dependency, no tracking, and no data leaves your device — just seamless translation where you need it.
@@ -131,11 +141,12 @@ Here is my activity log. **Real code for real problems.**
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00FF41)
 
 ---
-
 ### ⚙️ Frameworks & Runtime
 
 ![Android SDK](https://img.shields.io/badge/Android_SDK-000000?style=flat-square&logo=android&logoColor=00FF41)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=00FF41)
+![Electron](https://img.shields.io/badge/Electron-000000?style=flat-square&logo=electron&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00FF41)
 ![Svelte](https://img.shields.io/badge/Svelte-000000?style=flat-square&logo=svelte&logoColor=00FF41)
 ![Tauri](https://img.shields.io/badge/Tauri-000000?style=flat-square&logo=tauri&logoColor=00FF41)
 
