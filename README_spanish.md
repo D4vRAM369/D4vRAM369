@@ -61,7 +61,6 @@ Aquí está mi registro de actividad. **Real code for real problem.**
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-000000?style=flat-square&logo=typescript&logoColor=00FF41)
 ![AI](https://img.shields.io/badge/IA-Multi--Proveedor-000000?style=flat-square&logo=openai&logoColor=00FF41)
 ![Privacy](https://img.shields.io/badge/Privacidad-Local_First-000000?style=flat-square&logo=shield&logoColor=00FF41)
-![License](https://img.shields.io/badge/Licencia-BUSL--1.1-000000?style=flat-square&logo=opensourceinitiative&logoColor=00FF41)
 > Tu asistente personal de debugging. Pega cualquier stack trace o mensaje de error y obtén una explicación adaptada a tu nivel — **Novato**, **Medio** o **Experto** — incluyendo qué ocurrió, cómo solucionarlo y el código corregido con resaltado de sintaxis. Tras el análisis, abre un chat multi-turno sobre ese error concreto con el contexto ya cargado. Guarda análisis en tu **vault** personal, rastrea tus **patrones** de error a lo largo del tiempo y construye una base de conocimiento de tu propio historial de debugging. Compatible con **6 proveedores de IA** (Groq, OpenRouter, Ollama, Anthropic, OpenAI, VeniceAI), incluyendo tiers gratuitos. Las claves API se almacenan de forma segura en el keychain del sistema operativo — nunca se escriben en disco en texto plano. **100% local por defecto.**
 
 #### ⚡🌐 [**TapTranslate**](https://github.com/D4vRAM369/TapTranslate)
