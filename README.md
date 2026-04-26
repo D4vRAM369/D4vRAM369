@@ -97,7 +97,8 @@ I turn everyday friction into real tools: APKs, scripts, bots, desktop apps.
 
 #### 🔊 [**WhatsMicFix**](https://github.com/D4vRAM369/WhatsMicFix/blob/main/README.md)
 ![Android](https://img.shields.io/badge/Android-LSPosed-000000?style=flat-square&logo=android&logoColor=00FF41) ![Root](https://img.shields.io/badge/Root-Module-000000?style=flat-square&logo=magisk&logoColor=00FF41) ![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41)
-> LSPosed module to fix WhatsApp audio quality on Pixel devices via configurable mic pre-boost. First published project — 18 ⭐
+> LSPosed module to fix WhatsApp audio quality on Pixel devices via configurable mic pre-boost.
+> First published project — 18 ⭐
 ---
 
 ### 🛠️ Arsenal (Tech Stack)
