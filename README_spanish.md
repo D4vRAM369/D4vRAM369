@@ -3,16 +3,14 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="150" style="object-fit: cover;">
   <br>
   
-  <!-- Texto Matrix Animado (Fondo negro, letras verdes) -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Wake+up%2C+D4vRAM..." alt="Typing SVG" />
   </a>
 
   <p style="font-family: monospace; color: #00FF41;">
-    <b>Android Developer | Python Scripter | Linux Enthusiast | Open-Source Builder | Vibe Coder </b>
+    <b>Android Developer | Python Scripter | Linux Enthusiast | Open-Source Builder | Vibe Coder</b>
   </p>
 
-  <!-- Redes Sociales -->
   <a href="https://t.me/D4vRAM369">
     <img src="https://img.shields.io/badge/Telegram-Contact_Me-000000?style=for-the-badge&logo=telegram&logoColor=00FF41&labelColor=000000&color=00FF41" alt="Telegram" />
   </a>
@@ -29,30 +27,21 @@
 
 ### 👨‍💻 System Status (Sobre mí)
 
-> *"Soy una mente neurodivergente aprendiendo continuamente, mientras creo proyectos útiles para la comunidad y para mi día a día."*
+*"Soy una mente neurodivergente aprendiendo continuamente, mientras creo proyectos útiles para la comunidad y para mi día a día."*
 
-Soy un desarrollador apasionado por el **Aprendizaje Basado en Proyectos (ABP)**, o **Project-Based Learning (PBL)** como se le conoce en inglés.
-Mi enfoque es práctico: si veo un problema, codifico una solución.
+Apasionado por el **Aprendizaje Basado en Proyectos (PBL)** — si veo un problema, codifico una solución.
+Convierto problemas cotidianos en código, y ese código en herramientas reales: APKs, scripts, bots, apps de escritorio.
 
-Mi mente suele ser un Ferrari a 200km/h en ideas, creatividad y posibles apps o parches para cosas que considero útiles o con potencial.
-Convierto problemas cotidianos en código, y ese código en herramientas reales: APKs, scripts o pequeños programas que solucionan o facilitan algo concreto.
+- 🔭 **Actualmente trabajando en**: `Cronoctutime`, `Debuggle` y proyectos en modo sigilo hasta su lanzamiento. Mejorando `ThreadsVault` (Android y Desktop) y `PsychoLogger`. 2026 está siendo el año más productivo hasta ahora 💥
+- 🌱 **Aprendiendo**: Teoría cuando hace falta, práctica constante, IA como guía personalizada.
+- ⚡ **Filosofía**: *"One day at a time"* (2Pac).
+- 🐧 **OS**: GNU/Linux · Windows · Android
 
-Desde bots de Telegram para conectar personas (GranCanMatch_bot) hasta módulos de Magisk para mejorar la grabación de audio en WhatsApp (WhatsMicFix), que fue mi primer proyecto subido y tuvo una acogida espectacular. Eso me motivó aún más a seguir el camino en el que ya estaba avanzando con firmeza y con decisión.
-
-_**Constancia, ganas, vocación, disciplina y perseverancia son llaves que abren puertas de éxito.**_
-
----
-
-- 🔭 **Actualmente estoy trabajando en**: `Cronoctutime`, `Debuggle` y algunos proyectos que prefiero mantener en secreto hasta su lanzamiento y su evolución progresiva, además de userscripts y otro tipo de proyectos e ideas. En cuanto a los proyectos publicados, actualmente estoy mejorando `ThreadsVault` (ambas versiones, la de Android y la de escritorio) y `PsychoLogger` (proyectos públicos).
-- 🌱 **Aprendiendo**: Formación autodidacta enfocada en construir proyectos reales, entender el “por qué” del código y documentar todo el proceso. Mi método es híbrido: teoría cuando hace falta, práctica constante y la IA como guía personalizada.
-- ⚡ **Filosofía**: _"One day at a time"_ (2Pac).
-- 🐧 **OS**: GNU/Linux, Windows & Android.
 ---
 
 ### 🚀 Mission Log (Proyectos Publicados)
 
-Aquí está mi registro de actividad. **Real code for real problem.**
-
+**Real code for real problems.**
 
 #### 🐛 [**Debuggle**](https://github.com/D4vRAM369/Debuggle)
 ![Platform](https://img.shields.io/badge/Plataforma-Windows_|_Linux_|_macOS-000000?style=flat-square&logo=windows&logoColor=00FF41)
@@ -61,76 +50,62 @@ Aquí está mi registro de actividad. **Real code for real problem.**
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-000000?style=flat-square&logo=typescript&logoColor=00FF41)
 ![AI](https://img.shields.io/badge/IA-Multi--Proveedor-000000?style=flat-square&logo=openai&logoColor=00FF41)
 ![Privacy](https://img.shields.io/badge/Privacidad-Local_First-000000?style=flat-square&logo=shield&logoColor=00FF41)
-> Tu asistente personal de debugging. Pega cualquier stack trace o mensaje de error y obtén una explicación adaptada a tu nivel — **Novato**, **Medio** o **Experto** — incluyendo qué ocurrió, cómo solucionarlo y el código corregido con resaltado de sintaxis. Tras el análisis, abre un chat multi-turno sobre ese error concreto con el contexto ya cargado. Guarda análisis en tu **vault** personal, rastrea tus **patrones** de error a lo largo del tiempo y construye una base de conocimiento de tu propio historial de debugging. Compatible con **6 proveedores de IA** (Groq, OpenRouter, Ollama, Anthropic, OpenAI, VeniceAI), incluyendo tiers gratuitos. Las claves API se almacenan de forma segura en el keychain del sistema operativo — nunca se escriben en disco en texto plano. **100% local por defecto.**
+> Asistente personal de debugging. Pega cualquier stack trace o error y obtén una explicación adaptada a tu nivel — **Novato**, **Medio** o **Experto** — con el código corregido y resaltado de sintaxis. Abre un chat multi-turno con el contexto ya cargado, guarda análisis en tu **vault** y rastrea tus patrones de error a lo largo del tiempo. Compatible con **6 proveedores de IA** (Groq, OpenRouter, Ollama, Anthropic, OpenAI, VeniceAI) incluyendo tiers gratuitos. Claves API en el keychain del SO — nunca en disco en texto plano. **100% local por defecto.**
 
 #### ⚡🌐 [**TapTranslate**](https://github.com/D4vRAM369/TapTranslate)
 ![Android](https://img.shields.io/badge/Android-Kotlin_&_Compose-000000?style=flat-square&logo=android&logoColor=00FF41) ![AI](https://img.shields.io/badge/AI-Google_ML_Kit-000000?style=flat-square&logo=google&logoColor=00FF41) ![Privacy](https://img.shields.io/badge/Privacy-On--Device-000000?style=flat-square&logo=shield&logoColor=00FF41) ![License](https://img.shields.io/badge/License-MIT-000000?style=flat-square&logo=opensourceinitiative&logoColor=00FF41)
-> Traducción instantánea, privada y sin conexión directamente desde el menú de selección de texto de cualquier aplicación. **TapTranslate** se integra con la acción `ACTION_PROCESS_TEXT` de Android para ofrecer traducciones rápidas y directas (español ↔ inglés) mediante traducción automática neuronal (NMT) en el propio dispositivo. Sin dependencia de la nube, sin seguimiento y sin que los datos salgan de tu dispositivo: solo traducciones fluidas justo donde las necesitas.
+> Traducción instantánea y offline desde el menú de selección de texto de cualquier app. Se integra con `ACTION_PROCESS_TEXT` de Android para traducciones ES ↔ EN mediante NMT en el propio dispositivo. Sin nube, sin tracking, sin que los datos salgan de tu móvil.
 
 #### 📡 [**Anna's Archives Hub**](https://github.com/D4vRAM369/annas-archive-hub)
 ![Python](https://img.shields.io/badge/Python-3.12+-000000?style=flat-square&logo=python&logoColor=00FF41) ![IPFS](https://img.shields.io/badge/IPFS-Pinata-000000?style=flat-square&logo=ipfs&logoColor=00FF41) ![Cron](https://img.shields.io/badge/Cron-Automatizado-000000?style=flat-square&logo=clockify&logoColor=00FF41) ![License](https://img.shields.io/badge/Licencia-MIT-000000?style=flat-square&logo=opensourceinitiative&logoColor=00FF41)
-> Rastreador de dominios auto-actualizable para **Anna's Archive** y shadow libraries. Monitoriza open-slum.org, Reddit, X/Twitter, Telegram y Mastodon para descubrir nuevos mirrors, los verifica con impersonación de Chrome para evadir Cloudflare, y publica un reporte inmutable en **IPFS vía Pinata** cada 6 horas. No pierdas el acceso al conocimiento nunca más.
+> Rastreador de dominios auto-actualizable para **Anna's Archive** y shadow libraries. Monitoriza Reddit, X, Telegram y Mastodon para descubrir nuevos mirrors, los verifica evadiendo Cloudflare, y publica un reporte inmutable en **IPFS vía Pinata** cada 6 horas.
 
-#### 🧵🗄🖥 [**ThreadsVault-desktop**](https://github.com/D4vRAM369/ThreadsVault)
+#### 🖥️ [**ThreadsVault Desktop**](https://github.com/D4vRAM369/ThreadsVault-desktop)
 ![Platform](https://img.shields.io/badge/Platform-Windows_|_Linux-000000?style=flat-square&logo=windows&logoColor=00FF41)
 ![Tauri](https://img.shields.io/badge/Tauri-v2-000000?style=flat-square&logo=tauri&logoColor=00FF41)
 ![Svelte](https://img.shields.io/badge/Svelte-5-000000?style=flat-square&logo=svelte&logoColor=00FF41)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-000000?style=flat-square&logo=typescript&logoColor=00FF41)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-v4-000000?style=flat-square&logo=tailwindcss&logoColor=00FF41)
 ![Database](https://img.shields.io/badge/Database-SQLite-000000?style=flat-square&logo=sqlite&logoColor=00FF41)
-![Privacy](https://img.shields.io/badge/Privacy-On--Device-000000?style=flat-square&logo=shield&logoColor=00FF41)
-> Versión de escritorio de ThreadsVault. Interfaz y experiencia de usuario mejoradas, más fácil de usar, desarrollada bajo la misma filosofía centrada en la privacidad que la versión Android. Construida con Tauri v2, Svelte 5 y TypeScript. Disponible para Windows (.exe y .msi) y Linux (.AppImage y .deb). El soporte para Flatpak se añadirá en futuras versiones.
+> Versión de escritorio de ThreadsVault. UI/UX mejorada, misma filosofía privacy-first. Disponible para Windows (.exe / .msi) y Linux (.AppImage / .deb).
 
-#### 🧵🗄 [**ThreadsVault**](https://github.com/D4vRAM369/ThreadsVault)
+#### 🧵 [**ThreadsVault**](https://github.com/D4vRAM369/ThreadsVault)
 ![Android](https://img.shields.io/badge/Android-Kotlin-000000?style=flat-square&logo=android&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41) ![Privacy](https://img.shields.io/badge/Privacy-On--Device-000000?style=flat-square&logo=shield&logoColor=00FF41) ![Local DB](https://img.shields.io/badge/Database-SQLite-000000?style=flat-square&logo=sqlite&logoColor=00FF41)
-> Aplicación de almacenamiento local para Android diseñada para guardar, organizar y conservar tus publicaciones favoritas de Threads fuera de la plataforma, mediante categorías, hashtags y filtro de búsqueda.
->
-> No se requiere cuenta, no depende de la nube, no hay tracking: todo permanece bajo el control del usuario y funciona completamente sin conexión.
+> Vault local para Android para guardar, organizar y conservar publicaciones de Threads fuera de la plataforma. Categorías, hashtags y búsqueda. Sin cuenta, sin nube, sin tracking.
 
-#### [🇮🇨💰💪🛒 **AhorrApp**](https://github.com/D4vRAM369/AhorrApp/)
+#### 🛒 [**AhorrApp**](https://github.com/D4vRAM369/AhorrApp/)
 ![Android](https://img.shields.io/badge/Android-Kotlin_&_Jetpack_Compose-000000?style=flat-square&logo=android&logoColor=00FF41)
-![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41)
-![Compose](https://img.shields.io/badge/Jetpack-Compose-000000?style=flat-square&logo=jetpackcompose&logoColor=00FF41)
 ![Supabase](https://img.shields.io/badge/Backend-Supabase-000000?style=flat-square&logo=supabase&logoColor=00FF41)
 ![OpenFoodFacts](https://img.shields.io/badge/API-OpenFoodFacts-000000?style=flat-square&logo=openfoodfacts&logoColor=00FF41)
-![Security](https://img.shields.io/badge/Privacy-Sin_Trackers-000000?style=flat-square&logo=shield&logoColor=00FF41)
 ![License: BUSL-1.1](https://img.shields.io/badge/License-BUSL--1.1-blue)
+> App de comparación de precios para residentes de Gran Canaria. Escanea productos, compara precios entre supermercados y contribuye a una base de datos comunitaria en Supabase. Nace como respuesta a las continuas subidas de precios en la isla.
 
-> *Aplicación para una mejor gestión y ahorro para la economia cotidiana de los residentes de Gran Canarias, Las Palmas*
-> 
-> ✅ La aplicación vuelve a estar 100% funcional, **fixed** 💯⚙️
-> 
-> Éste proyecto nace como respuesta a las continuas subidas de precios de los distintas cadenas de supermercados repartidos por Gran Canaria, especialmente en Las Palmas, capital. Propone un método para un sistema de ahorro favorable para el pueblo canario, comparando y contribuyendo con cada escaneo de cualquier producto a una base de datos comunitaria en Supabase. Funciona con la API libre de OpenFoodFacts, pero entre todos podemos añadir los productos que faltan y sus precios, e ir actualizándolos. Tiene un comparador de precios entre los distintos supermercados existentes, y con la opción de añadir otro si se me escapa alguno.
+#### 🤖 [**GranCanMatch_bot**](https://github.com/D4vRAM369/GranCanMatch_bot)
+![Telegram](https://img.shields.io/badge/Telegram-Bot-000000?style=flat-square&logo=telegram&logoColor=00FF41) ![Node.js](https://img.shields.io/badge/Node.js-Server-000000?style=flat-square&logo=node.js&logoColor=00FF41) ![JS](https://img.shields.io/badge/JavaScript-ES6-000000?style=flat-square&logo=javascript&logoColor=00FF41) ![Firebase](https://img.shields.io/badge/Firebase-Firestore-000000?style=flat-square&logo=firebase&logoColor=FFCB2B&labelColor=000000)
+> Bot de Telegram para conocer personas en Gran Canaria 🇮🇨. Sin pagar por ver quién te da like, sin algoritmos oscuros.
+> De vuelta en activo en [t.me/CitasEnLasPalmas_bot](https://t.me/CitasEnLasPalmas_bot) — únete a la comunidad en [t.me/GranCanMatch](https://t.me/GranCanMatch).
 
-#### [🤖 **GranCanMatch_bot**](https://github.com/D4vRAM369/GranCanMatch_bot)
-![Telegram](https://img.shields.io/badge/Telegram-Bot-000000?style=flat-square&logo=telegram&logoColor=00FF41) ![Node.js](https://img.shields.io/badge/Node.js-Server-000000?style=flat-square&logo=node.js&logoColor=00FF41) ![JS](https://img.shields.io/badge/JavaScript-ES6-000000?style=flat-square&logo=javascript&logoColor=00FF41) <img src="https://img.shields.io/badge/Firebase-Firestore-000000?style=flat-square&logo=firebase&logoColor=FFCB2B&labelColor=000000" />
+#### 🧠 [**PsychoLogger - Bitácora Psiconáutica**](https://github.com/D4vRAM369/PsychoLogger)
+![Android](https://img.shields.io/badge/Android-Hybrid-000000?style=flat-square&logo=android&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41) ![Security](https://img.shields.io/badge/Security-Encrypted-000000?style=flat-square&logo=lock&logoColor=00FF41)
+> Bitácora privada para Android: seguimiento de experiencias con sustancias psicoactivas, dosis, *set & setting* y notas personales. Cifrado local, calendario, estadísticas y recursos de reducción de daños. 100% offline.
 
-> ***ÉSTE BOT DE TELEGRAM YA NO ESTÁ EN FUNCIONAMIENTO**. SI QUIERES SEGUIR FORMANDO PARTE DE LA ANTIGUA COMUNIDAD, ÚNETE AL GRUPO DE TELEGRAM [T.ME/GRANCANMATCH](https://t.me/GranCanMatch).*
->
-> Éste es un proyecto que quería hacer desde hace un tiempo. **GranCanMatch_bot** (o [t.me/CitasEnLasPalmas_bot](https://t.me/CitasEnLasPalmas_bot)) pretende convertirse en una nueva forma de conocer personas en Gran Canaria 🇮🇨, lejos de los algoritmos oscuros de Tinder que mercantilizan las relaciones. Sin pagar por ver quién te da like. Si funciona, se extenderá a otras islas.
-
-#### [🧠 **PsychoLogger - Bitácora Psiconáutica**](https://github.com/D4vRAM369/PsychoLogger)
-![Android](https://img.shields.io/badge/Android-Hybrid-000000?style=flat-square&logo=android&logoColor=00FF41) ![HTML5](https://img.shields.io/badge/HTML5-Structure-000000?style=flat-square&logo=html5&logoColor=00FF41) ![CSS3](https://img.shields.io/badge/CSS3-Style-000000?style=flat-square&logo=css3&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41) ![Security](https://img.shields.io/badge/Security-Encrypted-000000?style=flat-square&logo=lock&logoColor=00FF41)
-> Bitácora privada para Android que te permite llevar un seguimiento y registro de experiencias con sustancias psicoactivas, dosis, *set & setting* y notas personales. Cuenta con **cifrado local**, calendario, estadísticas y recursos de reducción de daños. Todo 100% offline y sin enviar datos a ningún servidor.
-
-#### [🌿 **CBDcounter**](https://github.com/D4vRAM369/CBDcounter)
+#### 🌿 [**CBDcounter**](https://github.com/D4vRAM369/CBDcounter)
 ![Android](https://img.shields.io/badge/Android-Kotlin-000000?style=flat-square&logo=kotlin&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41)
-> Aplicación minimalista para llevar un seguimiento del consumo de CBD. Notas diarias, historial (diario/semanal/mensual) y capacidad de Exportar e Importar CSV. 100% offline al igual que PsychoLogger.
+> Tracker minimalista de consumo de CBD y THC. Notas diarias, historial (diario/semanal/mensual), exportación e importación CSV. 100% offline.
 
-#### [🎵 **NowPlayingExporterPy**](https://github.com/D4vRAM369/NowPlayingExporterPy)
-![Python](https://img.shields.io/badge/Python-Script-000000?style=flat-square&logo=python&logoColor=00FF41) ![Chaquopy](https://img.shields.io/badge/Python-Chaquopy-000000?style=flat-square&logo=python&logoColor=00FF41) ![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41) ![Root](https://img.shields.io/badge/Root-Required-000000?style=flat-square&logo=magisk&logoColor=00FF41)
-> Exporta el historial de reproducción (*Android System Intelligence*) desde dispositivos Google Pixel a CSV y añade una función para descargar las canciones automáticamente vía `yt-dlp`. Por como es el método de extracción de éste archivo, **ésta app solo es compatible con móviles que tengan privilegios root** _(rooteados)_. _La función de descargas a partir del archivo generado no funcionaba la última vez que lo probé en root, debido a restricciones más severas de Google y YouTube. Invito a que cualquiera haga un fork o proponga una mejora para el proyecto, si está interesado además en ser **Contributor**._
+#### 🎵 [**NowPlayingExporterPy**](https://github.com/D4vRAM369/NowPlayingExporterPy)
+![Python](https://img.shields.io/badge/Python-Script-000000?style=flat-square&logo=python&logoColor=00FF41) ![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41) ![Root](https://img.shields.io/badge/Root-Required-000000?style=flat-square&logo=magisk&logoColor=00FF41)
+> Exporta el historial de reproducción de Android System Intelligence desde Pixels rooteados a CSV, con descarga automática vía `yt-dlp`. Solo compatible con root. Forks y contributors bienvenidos.
 
-#### [🔊 **WhatsMicFix**](https://github.com/D4vRAM369/WhatsMicFix)
+#### 🔊 [**WhatsMicFix**](https://github.com/D4vRAM369/WhatsMicFix)
 ![Android](https://img.shields.io/badge/Android-LSPosed-000000?style=flat-square&logo=android&logoColor=00FF41) ![Root](https://img.shields.io/badge/Root-Module-000000?style=flat-square&logo=magisk&logoColor=00FF41) ![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41)
-> Módulo **LSPosed** para mejorar la calidad del audio de WhatsApp aplicando un pre-boost configurable al micrófono (probado en Pixel 8, Android 16). Creado para solucionar el problema de audio bajo en algunos dispositivos Pixel.
-
+> Módulo LSPosed para mejorar la calidad de audio de WhatsApp en Pixels mediante pre-boost configurable al micrófono.
+> 
+> Primer proyecto publicado — 18 ⭐
 
 ---
 
 ### 🛠️ Arsenal (Tech Stack)
-
----
 
 ### 🧠 Languages
 
@@ -143,8 +118,6 @@ Aquí está mi registro de actividad. **Real code for real problem.**
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00FF41)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00FF41)
 
----
-
 ### ⚙️ Frameworks & Runtime
 
 ![Android SDK](https://img.shields.io/badge/Android_SDK-000000?style=flat-square&logo=android&logoColor=00FF41)
@@ -153,8 +126,6 @@ Aquí está mi registro de actividad. **Real code for real problem.**
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00FF41)
 ![Svelte](https://img.shields.io/badge/Svelte-000000?style=flat-square&logo=svelte&logoColor=00FF41)
 ![Tauri](https://img.shields.io/badge/Tauri-000000?style=flat-square&logo=tauri&logoColor=00FF41)
-
----
 
 ### 🛠 Tools
 
@@ -167,8 +138,6 @@ Aquí está mi registro de actividad. **Real code for real problem.**
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=claude&logoColor=00FF41&labelColor=000000)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=00FF41&labelColor=000000)
 
----
-
 ### 🌐 APIs
 
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-000000?style=flat-square&logo=telegram&logoColor=00FF41)
@@ -177,42 +146,37 @@ Aquí está mi registro de actividad. **Real code for real problem.**
 
 ---
 
-### 🏆 Achievements
-
-<div align="center">
-  <img
-    src="https://vercel-trophy.vercel.app/api/trophy?username=D4vRAM369&columns=3"
-    alt="GitHub Trophy — D4vRAM369"
-  />
-</div>
-
----
-
 ### 📊 Data Uplink (Stats)
 
 <div align="center">
-  
+
   <img
-  src="https://d4vram-github-readme-stats.vercel.app/api?username=D4vRAM369&show_icons=true&hide_border=true&bg_color=000000,050d05,000000&title_color=00FF41&icon_color=00FF41&text_color=C8FFD8"
-  height="180"
-  style="border-radius:14px; box-shadow:0 0 18px #00FF4177; margin:6px;"
-  alt="GitHub Stats"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=D4vRAM369&theme=react-dark&hide_border=true&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF41"
+    width="100%"
+    alt="Activity Graph"
   />
-  
+
+  <br/>
+
   <img
-  src="https://d4vram-github-readme-stats.vercel.app/api/top-langs/?username=D4vRAM369&layout=compact&hide_border=true&bg_color=000000,051008,000000&title_color=00FF41&text_color=C8FFD8"
-  height="180"
-  style="border-radius:14px; box-shadow:0 0 18px #00FF4177; margin:6px;"
-  alt="Top Langs"
+    src="https://d4vram-github-readme-stats.vercel.app/api?username=D4vRAM369&show_icons=true&hide_border=true&bg_color=000000,050d05,000000&title_color=00FF41&icon_color=00FF41&text_color=C8FFD8"
+    height="165"
+    alt="GitHub Stats"
   />
-  
-  <img 
-  src="https://d4vram-readme-streak-stats.vercel.app/?user=D4vRAM369&hide_border=true&background=000000,051008,000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=00FF41&sideNums=00FF41&sideLabels=00FF41&dates=68FF9A&v=4"
-  height="180"
-  style="border-radius:14px; box-shadow:0 0 18px #00FF4177; margin:6px;" 
-  alt="Streak Stats"
+  <img
+    src="https://d4vram-github-readme-stats.vercel.app/api/top-langs/?username=D4vRAM369&layout=compact&hide_border=true&bg_color=000000,051008,000000&title_color=00FF41&text_color=C8FFD8"
+    height="165"
+    alt="Top Langs"
   />
-  
+
+  <br/>
+
+  <img
+    src="https://d4vram-readme-streak-stats.vercel.app/?user=D4vRAM369&hide_border=true&background=000000,051008,000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=00FF41&sideNums=00FF41&sideLabels=00FF41&dates=68FF9A&v=4"
+    height="165"
+    alt="Streak Stats"
+  />
+
 </div>
 
 ---
@@ -223,27 +187,20 @@ Aquí está mi registro de actividad. **Real code for real problem.**
   <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
-<div align="center">
-  
 ---
 
-### ☕ Apóyame
 <div align="center">
+
+### ☕ Apóyame
 
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=D4vRAM369&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/D4vRAM369)
 
-</div>
-
 <br/>
 
-  <!-- GIFS alineados -->
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="90" />
   <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/back-to-the-future-delorean-comes-back.gif" height="90" />
   <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/cyberpunk-wakeup.gif" height="90" />
   <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/the-matrix-has-you.gif" height="90" />
-
-  <!-- 🖤🤍 -->
   <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/tequiero_eternacompañera-resized.gif" height="90" />
 
 </div>
-
