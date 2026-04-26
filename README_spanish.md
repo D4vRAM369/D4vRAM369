@@ -83,6 +83,7 @@ Convierto problemas cotidianos en código, y ese código en herramientas reales:
 #### 🤖 [**GranCanMatch_bot**](https://github.com/D4vRAM369/GranCanMatch_bot)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-000000?style=flat-square&logo=telegram&logoColor=00FF41) ![Node.js](https://img.shields.io/badge/Node.js-Server-000000?style=flat-square&logo=node.js&logoColor=00FF41) ![JS](https://img.shields.io/badge/JavaScript-ES6-000000?style=flat-square&logo=javascript&logoColor=00FF41) ![Firebase](https://img.shields.io/badge/Firebase-Firestore-000000?style=flat-square&logo=firebase&logoColor=FFCB2B&labelColor=000000)
 > Bot de Telegram para conocer personas en Gran Canaria 🇮🇨. Sin pagar por ver quién te da like, sin algoritmos oscuros.
+> 
 > De vuelta en activo en [t.me/CitasEnLasPalmas_bot](https://t.me/CitasEnLasPalmas_bot) — únete a la comunidad en [t.me/GranCanMatch](https://t.me/GranCanMatch).
 
 #### 🧠 [**PsychoLogger - Bitácora Psiconáutica**](https://github.com/D4vRAM369/PsychoLogger)
