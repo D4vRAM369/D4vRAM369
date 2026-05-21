@@ -24,6 +24,30 @@
 
 ---
 
+<div align="center">
+
+<a href="https://d4vram369.github.io/keep-android-open">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=1000&color=FF2222&background=00000000&center=true&vCenter=true&width=720&lines=⚠️+Google+is+destroying+Android+freedom+in+September+2026.;Anonymous+sideloading+ends.+F-Droid+is+at+risk.;I+am+TOTALLY+AGAINST+this.+Click+to+learn+more+%26+make+noise." alt="Android Apocalypse Warning" />
+</a>
+
+<br/>
+
+[![Android Apocalypse](https://img.shields.io/badge/⚠️%20ANDROID%20APOCALYPSE-SEP%202026-FF2222?style=for-the-badge&labelColor=1a0000)](https://d4vram369.github.io/keep-android-open)
+[![Keep Android Open](https://img.shields.io/badge/KEEP%20ANDROID-OPEN-00FF41?style=for-the-badge&labelColor=000000)](https://keepandroidopen.org)
+[![Days Left](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fd4vram369.github.io%2Fkeep-android-open%2Fdays.json&query=%24.days&label=DAYS%20LEFT&suffix=%20days&style=for-the-badge&color=FF2222&labelColor=1a0000)](https://d4vram369.github.io/keep-android-open)
+
+<br/>
+
+> ⚠️ **Google ends anonymous Android sideloading in September 2026.**
+> Every independent developer must register their real identity to distribute APKs outside Play Store.
+> F-Droid, AOSP apps, and digital privacy are directly at stake.
+> **I build open-source apps because Android was supposed to be free. I am totally against this.**
+> **→ [Read what's happening and make noise.](https://d4vram369.github.io/keep-android-open)**
+
+</div>
+
+---
+
 ### 👨‍💻 System Status (About me)
 
 *"Neurodivergent mind. Constantly learning. Building useful things."*
