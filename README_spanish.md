@@ -67,6 +67,14 @@ Convierto problemas cotidianos en código, y ese código en herramientas reales:
 
 **Real code for real problems.**
 
+#### ⬇️ [**DownloadThis**](https://github.com/D4vRAM369/downloadthis)
+![Plataforma](https://img.shields.io/badge/Platform-Windows_|_Linux_|_macOS-000000?style=flat-square&logo=linux&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-3.10+-000000?style=flat-square&logo=python&logoColor=00FF41)
+![yt-dlp](https://img.shields.io/badge/Engine-yt--dlp-000000?style=flat-square&logo=youtube&logoColor=00FF41)
+![Licencia](https://img.shields.io/badge/License-MIT-000000?style=flat-square&logo=opensourceinitiative&logoColor=00FF41)
+> Interfaz gráfica de usuario (GUI) para [yt-dlp](https://github.com/yt-dlp/yt-dlp) creada con Python y ttkbootstrap. Pega la URL de una lista de reproducción, activa una opción y listo: se descargarán listas de reproducción completas sin necesidad de usar el terminal. Funciona con cualquier sitio compatible con yt-dlp. Cola de descargas con progreso en tiempo real, velocidad y tiempo estimado de llegada por elemento. Formatos: mp3, m4a, flac, opus, wav. Compatibilidad con cookies del navegador, modo Anti-403, alternativa sin DASH, arrastrar y soltar, configuración persistente. Estética inspirada en los clientes P2P de la década de 2000: eMule, Ares, DC++.
+> **100 % local, sin seguimiento.**
+
 #### 🐛 [**Debuggle**](https://github.com/D4vRAM369/Debuggle)
 ![Platform](https://img.shields.io/badge/Plataforma-Windows_|_Linux_|_macOS-000000?style=flat-square&logo=windows&logoColor=00FF41)
 ![Electron](https://img.shields.io/badge/Electron-33-000000?style=flat-square&logo=electron&logoColor=00FF41)
