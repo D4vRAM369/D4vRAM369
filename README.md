@@ -66,6 +66,14 @@ I turn everyday friction into real tools: APKs, scripts, bots, desktop apps.
 
 **Real code for real problems.**
 
+#### ⬇️ [**DownloadThis**](https://github.com/D4vRAM369/downloadthis)
+![Platform](https://img.shields.io/badge/Platform-Windows_|_Linux_|_macOS-000000?style=flat-square&logo=linux&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-3.10+-000000?style=flat-square&logo=python&logoColor=00FF41)
+![yt-dlp](https://img.shields.io/badge/Engine-yt--dlp-000000?style=flat-square&logo=youtube&logoColor=00FF41)
+![License](https://img.shields.io/badge/License-MIT-000000?style=flat-square&logo=opensourceinitiative&logoColor=00FF41)
+> GUI for yt-dlp built with Python and ttkbootstrap. Paste a playlist URL, toggle one option, done — entire playlists downloaded without touching the terminal. Works with any site yt-dlp supports. Download queue with real-time progress, speed and ETA per item. Formats: mp3, m4a, flac, opus, wav. Browser cookie support, Anti-403 mode, No-DASH fallback, drag & drop, persistent config. Aesthetic inspired by P2P clients of the 2000s — eMule, Ares, DC++.
+**100% local, no tracking.**
+
 #### 🐛 [**Debuggle**](https://github.com/D4vRAM369/Debuggle)
 ![Platform](https://img.shields.io/badge/Platform-Windows_|_Linux_|_macOS-000000?style=flat-square&logo=windows&logoColor=00FF41)
 ![Electron](https://img.shields.io/badge/Electron-33-000000?style=flat-square&logo=electron&logoColor=00FF41)
