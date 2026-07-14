@@ -10,7 +10,7 @@
     <b>Android Developer | Python Scripter | Linux Enthusiast | Open-Source Builder | Vibe Coder</b>
   </p>
 
-  <a href="https://t.me/D4vRAM369">
+  <a href="https://telegram.me/D4vRAM369">
     <img src="https://img.shields.io/badge/Telegram-Contact_Me-000000?style=for-the-badge&logo=telegram&logoColor=00FF41&labelColor=000000&color=00FF41" alt="Telegram" />
   </a>
   <a href="mailto:d4vram369@proton.me">
