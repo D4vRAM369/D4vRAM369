@@ -55,7 +55,7 @@
 Passionate about **Project-Based Learning (PBL)** — if I see a problem, I code a solution.
 I turn everyday friction into real tools: APKs, scripts, bots, desktop apps.
 
-- 🔭 **Currently working on**: `Cronoctutime`, `Debuggle` + private projects in stealth mode. Improving `ThreadsVault` (Android & Desktop) and `PsychoLogger`. 2026 is already the most productive year so far 💥
+- 🔭 **Currently working on**: brainstorming about a lot of projects, working on some private ones and improving daily-use apps for me. I don't have a near plan to upload anything new by now, you can look my actually projects. If you are intesting in hire me for any service, please contact me in Telegram and we can talk about it _(link on top in the button)_.
 - 🌱 **Learning**: Theory when needed, constant practice, AI as a personalized guide.
 - ⚡ **Philosophy**: "One day at a time" (2Pac).
 - 🐧 **OS**: GNU/Linux · Windows · Android
