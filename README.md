@@ -115,15 +115,15 @@ I turn everyday friction into real tools: APKs, scripts, bots, desktop apps.
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-000000?style=flat-square&logo=telegram&logoColor=00FF41) ![Node.js](https://img.shields.io/badge/Node.js-Server-000000?style=flat-square&logo=node.js&logoColor=00FF41) ![JS](https://img.shields.io/badge/JavaScript-ES6-000000?style=flat-square&logo=javascript&logoColor=00FF41) ![Firebase](https://img.shields.io/badge/Firebase-Firestore-000000?style=flat-square&logo=firebase&logoColor=FFCB2B)
 > People-matching Telegram bot for Gran Canaria 🇮🇨. No pay-to-match, no obscure algorithms. Now live again at [t.me/CitasEnLasPalmas_bot](https://t.me/CitasEnLasPalmas_bot) — join the community at [t.me/GranCanMatch](https://t.me/GranCanMatch).
 
-#### 🧠 [**PsychoLogger**](https://github.com/D4vRAM369/PsychoLogger/blob/main/README.md)
+#### 🧠 [**PsychoLogger**](https://github.com/D4vRAM369/PsychoLogger/)
 ![Android](https://img.shields.io/badge/Android-Hybrid-000000?style=flat-square&logo=android&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41) ![Security](https://img.shields.io/badge/Security-Encrypted-000000?style=flat-square&logo=lock&logoColor=00FF41)
 > Private logbook for psychoactive substance tracking: doses, set & setting, notes. Local encryption, calendar, statistics and harm reduction resources. 100% offline.
 
-#### 🌿 [**CBDcounter**](https://github.com/D4vRAM369/CBDcounter/blob/main/README.md)
+#### 🌿 [**CBDcounter**](https://github.com/D4vRAM369/CBDcounter/)
 ![Android](https://img.shields.io/badge/Android-Kotlin-000000?style=flat-square&logo=kotlin&logoColor=00FF41) ![Offline](https://img.shields.io/badge/Data-100%25_Offline-000000?style=flat-square&logo=sqlite&logoColor=00FF41)
 > Minimalist consumption tracker for CBD and THC. Daily notes, history (daily/weekly/monthly), CSV export/import. 100% offline.
 
-#### 🎵 [**NowPlayingExporterPy**](https://github.com/D4vRAM369/NowPlayingExporterPy/blob/main/README_English-version.md)
+#### 🎵 [**NowPlayingExporterPy**](https://github.com/D4vRAM369/NowPlayingExporterPy/)
 ![Python](https://img.shields.io/badge/Python-Script-000000?style=flat-square&logo=python&logoColor=00FF41) ![Kotlin](https://img.shields.io/badge/Kotlin-Code-000000?style=flat-square&logo=kotlin&logoColor=00FF41) ![Root](https://img.shields.io/badge/Root-Required-000000?style=flat-square&logo=magisk&logoColor=00FF41)
 > Exports Android System Intelligence playback history from rooted Pixel devices to CSV, with optional `yt-dlp` song download. Forks and contributors welcome.
 
