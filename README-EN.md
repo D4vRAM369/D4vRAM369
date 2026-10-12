@@ -84,7 +84,7 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 </table>
 
 <details>
-<summary><code>ls -a ~/projects</code> &nbsp;<sub>+7 more</sub></summary>
+<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+7 more</sub></summary>
 <br>
 
 - **[Debuggle](https://github.com/D4vRAM369/Debuggle)** <img src="https://img.shields.io/github/stars/D4vRAM369/Debuggle?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — AI debugging assistant: paste a stack trace, get it explained at your level.
