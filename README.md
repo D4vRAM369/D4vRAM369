@@ -5,7 +5,8 @@
 <p align="center">
 <a href="https://github.com/D4vRAM369?tab=followers"><img src="https://img.shields.io/github/followers/D4vRAM369?style=flat-square&logo=github&logoColor=FFB000&color=FFB000&labelColor=0E0B16&label=seguidores" alt="followers"></a>
 <img src="https://img.shields.io/github/stars/D4vRAM369?style=flat-square&logo=github&logoColor=FFB000&color=FFB000&labelColor=0E0B16&label=estrellas" alt="stars">
-<img src="https://komarev.com/ghpvc/?username=D4vRAM369&color=FFB000&style=flat-square&label=visitas" alt="visitors">
+<img src="https://api.visitorbadge.io/api/visitors?path=D4vRAM369&label=visitas&labelColor=%230E0B16&countColor=%23FFB000&style=flat-square" alt="visitas">
+
 </p>
 
 <p align="center">
