@@ -55,7 +55,7 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 <img src="https://img.shields.io/github/license/D4vRAM369/annas-archive-hub?style=flat-square&color=FFB000&labelColor=0E0B16" alt="license">
 </p>
 <p><img src="https://img.shields.io/badge/Python-0E0B16?style=flat-square&logo=python&logoColor=FFB000" alt="Python"> <img src="https://img.shields.io/badge/IPFS-0E0B16?style=flat-square&logo=ipfs&logoColor=FFB000" alt="IPFS"> <img src="https://img.shields.io/badge/Cron-0E0B16?style=flat-square&logo=clockify&logoColor=FFB000" alt="Cron"></p>
-<p><b>El problema:</b> Los dominios de Anna's Archive cambian constantemente y cuesta saber cuál funciona.<br><b>Lo que hice:</b> Un rastreador que se actualiza solo: busca mirrors en Reddit, X, Telegram y Mastodon, los verifica y publica un informe inmutable en IPFS cada 6 horas.</p>
+<p><b>El problema:</b> Los dominios de Anna's Archive cambian constantemente y cuesta saber cuál funciona.<br><b>Lo que hice:</b> Un rastreador que se actualiza solo: busca mirrors en Reddit, X, Telegram y Mastodon, los verifica y publica un informe inmutable en IPFS cada 12 horas.</p>
 
 </td></tr>
 <tr><td width="50%" valign="top">
@@ -156,6 +156,10 @@ Si alguna de mis herramientas te ha ahorrado tiempo, puedes invitarme a un café
 </details>
 
 <p align="center"><sub><code>[WARN] Si encuentras un bug, es humano. Gracias por pasarte.</code></sub></p>
+
+<br/>
+
+<div align="center">
 
 <br/>
 
