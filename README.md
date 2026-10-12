@@ -14,7 +14,7 @@
 <a href="https://www.reddit.com/user/D4vRAM/"><img src="https://img.shields.io/badge/Reddit-u%2FD4vRAM-FFB000?style=for-the-badge&logo=reddit&logoColor=FFB000&labelColor=0E0B16" alt="Reddit"></a>
 </p>
 
-<p align="center"><sub><a href="README.md">English</a> · <b>Español</b></sub></p>
+<p align="center"><sub><a href="README-EN.md">English</a> · <b>Español</b></sub></p>
 
 <p align="center"><sub>Esto es una terminal: pulsa cada comando para abrirlo o cerrarlo.</sub></p>
 
@@ -129,7 +129,8 @@ Cuéntame tu idea por Telegram y lo hablamos.
 <br>
 
 > **[WARN]** Desde septiembre de 2026, Google exige registrar tu identidad real para distribuir APKs fuera de Play Store. F-Droid, las apps AOSP y la privacidad están en juego. Hago apps open source porque Android debía ser libre, y estoy totalmente en contra.
-> Las restricciones empezarían a aplicarse en España y demás países de Europa desde el 1 de enero de 2027. Sinceramente no me atrevo a especular escenarios de que pasará, funcionará o no, ya que solo el tiempo resolverá esa duda.
+> Las restricciones empezarían a aplicarse en España y demás países de Europa desde el 1 de enero de 2027.
+> Sinceramente no me atrevo a especular escenarios de que pasará, funcionará o no, ya que solo el tiempo resolverá esa duda.
 > **[Lee qué está pasando y haz ruido →](https://d4vram369.github.io/keep-android-open)**
 
 </details>
@@ -160,11 +161,10 @@ Si alguna de mis herramientas te ha ahorrado tiempo, puedes invitarme a un café
 <br/>
 
 <div align="center">
-
+  
 <br/>
 
   <!-- GIFS -->
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="90" />
   <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/back-to-the-future-delorean-comes-back.gif" height="90" />
   <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/cyberpunk-wakeup.gif" height="90" />
   <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/main/assets/gifs/the-matrix-has-you.gif" height="90" />
