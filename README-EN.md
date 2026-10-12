@@ -63,7 +63,8 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 <p>
 <img src="https://img.shields.io/github/stars/D4vRAM369/ThreadsVault?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
 <img src="https://img.shields.io/github/last-commit/D4vRAM369/ThreadsVault?style=flat-square&color=FFB000&labelColor=0E0B16&label=updated" alt="last commit">
-<img src="https://img.shields.io/github/license/D4vRAM369/ThreadsVault?style=flat-square&color=FFB000&labelColor=0E0B16" alt="license">
+<img src="https://img.shields.io/badge/License-GPLv3-FFB000?style=flat-square&logo=gnu&logoColor=FFB000&labelColor=0E0B16" alt="License: GPLv3">
+
 </p>
 <p><img src="https://img.shields.io/badge/Kotlin-0E0B16?style=flat-square&logo=kotlin&logoColor=FFB000" alt="Kotlin"> <img src="https://img.shields.io/badge/Tauri-0E0B16?style=flat-square&logo=tauri&logoColor=FFB000" alt="Tauri"> <img src="https://img.shields.io/badge/Svelte-0E0B16?style=flat-square&logo=svelte&logoColor=FFB000" alt="Svelte"> <img src="https://img.shields.io/badge/SQLite-0E0B16?style=flat-square&logo=sqlite&logoColor=FFB000" alt="SQLite"></p>
 <p><b>The problem:</b> The Threads posts I saved depended on the platform itself.<br><b>What I built:</b> A private vault to save, tag and annotate Threads posts on your device. No account, no cloud, no tracking. For Android and desktop.</p>
@@ -73,7 +74,8 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 <p>
 <img src="https://img.shields.io/github/stars/D4vRAM369/WhatsMicFix?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
 <img src="https://img.shields.io/github/last-commit/D4vRAM369/WhatsMicFix?style=flat-square&color=FFB000&labelColor=0E0B16&label=updated" alt="last commit">
-<img src="https://img.shields.io/github/license/D4vRAM369/WhatsMicFix?style=flat-square&color=FFB000&labelColor=0E0B16" alt="license">
+<img src="https://img.shields.io/badge/License-GPLv3-FFB000?style=flat-square&logo=gnu&logoColor=FFB000&labelColor=0E0B16" alt="License: GPLv3">
+
 </p>
 <p><img src="https://img.shields.io/badge/Kotlin-0E0B16?style=flat-square&logo=kotlin&logoColor=FFB000" alt="Kotlin"> <img src="https://img.shields.io/badge/LSPosed-0E0B16?style=flat-square&logo=android&logoColor=FFB000" alt="LSPosed"> <img src="https://img.shields.io/badge/Root-0E0B16?style=flat-square&logo=magisk&logoColor=FFB000" alt="Root"></p>
 <p><b>The problem:</b> WhatsApp voice notes sounded bad on Pixel phones.<br><b>What I built:</b> An LSPosed module with a configurable mic pre-boost. My first published project.</p>
