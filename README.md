@@ -64,7 +64,8 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 <p>
 <img src="https://img.shields.io/github/stars/D4vRAM369/ThreadsVault?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
 <img src="https://img.shields.io/github/last-commit/D4vRAM369/ThreadsVault?style=flat-square&color=FFB000&labelColor=0E0B16&label=actualizado" alt="last commit">
-<img src="https://img.shields.io/github/license/D4vRAM369/ThreadsVault?style=flat-square&color=FFB000&labelColor=0E0B16" alt="license">
+<img src="https://img.shields.io/badge/License-GPLv3-FFB000?style=flat-square&logo=gnu&logoColor=FFB000&labelColor=0E0B16" alt="License: GPLv3">
+
 </p>
 <p><img src="https://img.shields.io/badge/Kotlin-0E0B16?style=flat-square&logo=kotlin&logoColor=FFB000" alt="Kotlin"> <img src="https://img.shields.io/badge/Tauri-0E0B16?style=flat-square&logo=tauri&logoColor=FFB000" alt="Tauri"> <img src="https://img.shields.io/badge/Svelte-0E0B16?style=flat-square&logo=svelte&logoColor=FFB000" alt="Svelte"> <img src="https://img.shields.io/badge/SQLite-0E0B16?style=flat-square&logo=sqlite&logoColor=FFB000" alt="SQLite"></p>
 <p><b>El problema:</b> Los posts que guardaba en Threads dependían de la propia plataforma.<br><b>Lo que hice:</b> Un baúl privado para guardar, etiquetar y anotar posts de Threads en tu dispositivo. Sin cuenta, sin nube, sin rastreo. Para Android y escritorio.</p>
@@ -74,7 +75,8 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 <p>
 <img src="https://img.shields.io/github/stars/D4vRAM369/WhatsMicFix?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
 <img src="https://img.shields.io/github/last-commit/D4vRAM369/WhatsMicFix?style=flat-square&color=FFB000&labelColor=0E0B16&label=actualizado" alt="last commit">
-<img src="https://img.shields.io/github/license/D4vRAM369/WhatsMicFix?style=flat-square&color=FFB000&labelColor=0E0B16" alt="license">
+<img src="https://img.shields.io/badge/License-GPLv3-FFB000?style=flat-square&logo=gnu&logoColor=FFB000&labelColor=0E0B16" alt="License: GPLv3">
+
 </p>
 <p><img src="https://img.shields.io/badge/Kotlin-0E0B16?style=flat-square&logo=kotlin&logoColor=FFB000" alt="Kotlin"> <img src="https://img.shields.io/badge/LSPosed-0E0B16?style=flat-square&logo=android&logoColor=FFB000" alt="LSPosed"> <img src="https://img.shields.io/badge/Root-0E0B16?style=flat-square&logo=magisk&logoColor=FFB000" alt="Root"></p>
 <p><b>El problema:</b> Los audios de WhatsApp sonaban mal en los Pixel.<br><b>Lo que hice:</b> Un módulo LSPosed con pre-boost de micrófono configurable. Mi primer proyecto publicado.</p>
