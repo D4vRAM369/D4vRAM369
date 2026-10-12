@@ -85,7 +85,7 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 </table>
 
 <details>
-<summary><code>ls -a ~/projects</code> &nbsp;<sub>+7 más</sub></summary>
+<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+7 más</sub></summary>
 <br>
 
 - **[Debuggle](https://github.com/D4vRAM369/Debuggle)** <img src="https://img.shields.io/github/stars/D4vRAM369/Debuggle?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Asistente de debugging con IA: pegas un error y te lo explica a tu nivel.
