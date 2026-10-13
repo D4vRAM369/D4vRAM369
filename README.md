@@ -159,6 +159,19 @@ Si alguna de mis herramientas te ha ahorrado tiempo, puedes invitarme a un café
 
 </details>
 
+<details open>
+<summary><code>guest@d4vram:~$ ./snake --eat contributions</code> &nbsp;<sub>actividad</sub></summary>
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/output/github-contribution-grid-snake.svg" alt="Serpiente recorriendo mi gráfico de contribuciones" width="100%">
+  </picture>
+</p>
+
+</details>
+
 <p align="center"><sub><code>[WARN] Si encuentras un bug, es humano. Gracias por pasarte.</code></sub></p>
 
 <br/>
