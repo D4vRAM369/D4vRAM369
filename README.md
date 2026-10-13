@@ -86,10 +86,11 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 </table>
 
 <details>
-<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+7 más</sub></summary>
+<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+8 más</sub></summary>
 <br>
 
 - **[Debuggle](https://github.com/D4vRAM369/Debuggle)** <img src="https://img.shields.io/github/stars/D4vRAM369/Debuggle?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Asistente de debugging con IA: pegas un error y te lo explica a tu nivel.
+- **[Anna's Archives Hub](https://github.com/D4vRAM369/annas-archive-hub)** <img src="https://img.shields.io/github/stars/D4vRAM369/annas-archive-hub?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Rastreador de mirrors de Anna's Archive: los busca, los verifica y publica un informe en IPFS cada 12 horas.
 - **[TapTranslate](https://github.com/D4vRAM369/TapTranslate)** <img src="https://img.shields.io/github/stars/D4vRAM369/TapTranslate?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Traducción offline ES↔EN desde el menú de selección de texto de Android.
 - **[AhorrApp](https://github.com/D4vRAM369/AhorrApp)** <img src="https://img.shields.io/github/stars/D4vRAM369/AhorrApp?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Comparador de precios de supermercados en Gran Canaria.
 - **[GranCanMatch_bot](https://github.com/D4vRAM369/GranCanMatch_bot)** <img src="https://img.shields.io/github/stars/D4vRAM369/GranCanMatch_bot?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Bot de Telegram para conocer gente en Gran Canaria, sin pagar por match. Ya no está desplegado ni en funcionamiento, debido a una base de datos que nunca llegó a estar a la altura para una funcionalidad viable, y por falta de marketing _(no me gusta el marketing, no es lo mío)_. Quizás sea reabierto en el futuro, pero no está en mis planes por ahora.
