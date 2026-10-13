@@ -49,14 +49,15 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 <p><b>El problema:</b> Descargar playlists enteras con yt-dlp desde la terminal era un rollo.<br><b>Lo que hice:</b> Una interfaz para yt-dlp: pegas la URL, eliges formato (mp3, flac, opus…) y listo. Cola con progreso, velocidad y ETA, con la estética de eMule y Ares. 100% local.</p>
 
 </td><td width="50%" valign="top">
-<a href="https://github.com/D4vRAM369/annas-archive-hub"><img src="assets/card-annas-hub.svg" width="100%" alt="Anna's Archives Hub"></a>
+<a href="https://github.com/D4vRAM369/PillMate"><img src="assets/card-pillmate.svg" width="100%" alt="PillMate"></a>
 <p>
-<img src="https://img.shields.io/github/stars/D4vRAM369/annas-archive-hub?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
-<img src="https://img.shields.io/github/last-commit/D4vRAM369/annas-archive-hub?style=flat-square&color=FFB000&labelColor=0E0B16&label=actualizado" alt="last commit">
-<img src="https://img.shields.io/github/license/D4vRAM369/annas-archive-hub?style=flat-square&color=FFB000&labelColor=0E0B16" alt="license">
+<img src="https://img.shields.io/github/stars/D4vRAM369/PillMate?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
+<img src="https://img.shields.io/github/last-commit/D4vRAM369/PillMate?style=flat-square&color=FFB000&labelColor=0E0B16&label=actualizado" alt="last commit">
+<img src="https://img.shields.io/badge/License-GPLv3-FFB000?style=flat-square&logo=gnu&logoColor=FFB000&labelColor=0E0B16" alt="License: GPLv3">
+
 </p>
-<p><img src="https://img.shields.io/badge/Python-0E0B16?style=flat-square&logo=python&logoColor=FFB000" alt="Python"> <img src="https://img.shields.io/badge/IPFS-0E0B16?style=flat-square&logo=ipfs&logoColor=FFB000" alt="IPFS"> <img src="https://img.shields.io/badge/Cron-0E0B16?style=flat-square&logo=clockify&logoColor=FFB000" alt="Cron"></p>
-<p><b>El problema:</b> Los dominios de Anna's Archive cambian constantemente y cuesta saber cuál funciona.<br><b>Lo que hice:</b> Un rastreador que se actualiza solo: busca mirrors en Reddit, X, Telegram y Mastodon, los verifica y publica un informe inmutable en IPFS cada 12 horas.</p>
+<p><img src="https://img.shields.io/badge/Kotlin-0E0B16?style=flat-square&logo=kotlin&logoColor=FFB000" alt="Kotlin"> <img src="https://img.shields.io/badge/Jetpack%20Compose-0E0B16?style=flat-square&logo=jetpackcompose&logoColor=FFB000" alt="Jetpack Compose"> <img src="https://img.shields.io/badge/Room-0E0B16?style=flat-square&logo=sqlite&logoColor=FFB000" alt="Room"> <img src="https://img.shields.io/badge/Glance-0E0B16?style=flat-square&logo=android&logoColor=FFB000" alt="Glance"></p>
+<p><b>El problema:</b> Las apps de medicación son pastilleros con alarmas; yo tomo medicación a demanda y quería ver mi patrón.<br><b>Lo que hice:</b> Un registro de tomas en un toque con un reloj de 24 horas que muestra tu ritmo. Sin permiso de internet, sin cuentas, sin anuncios.</p>
 
 </td></tr>
 <tr><td width="50%" valign="top">
