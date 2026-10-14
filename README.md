@@ -136,7 +136,7 @@ Cuéntame tu idea por Telegram y lo hablamos.
 <br>
 
 > **[WARN]** Desde septiembre de 2026, Google exige registrar tu identidad real para distribuir APKs fuera de Play Store. F-Droid, las apps AOSP y la privacidad están en juego. Hago apps open source porque Android debía ser libre, y estoy totalmente en contra.
-> Las restricciones empezarían a aplicarse en España y demás países de Europa desde el 1 de enero de 2027.
+> Las restricciones empezarían a aplicarse a nivel mundial en los países en cuales no ha sido aún aplicado el 1 de enero de 2027.
 > Sinceramente no me atrevo a especular escenarios de que pasará, funcionará o no, ya que solo el tiempo resolverá esa duda.
 > **[Lee qué está pasando y haz ruido →](https://d4vram369.github.io/keep-android-open)**
 
