@@ -48,14 +48,15 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 <p><b>The problem:</b> Downloading whole playlists with yt-dlp from the terminal was a pain.<br><b>What I built:</b> A GUI for yt-dlp: paste a URL, pick a format (mp3, flac, opus…), done. Queue with progress, speed and ETA, styled like eMule and Ares. 100% local.</p>
 
 </td><td width="50%" valign="top">
-<a href="https://github.com/D4vRAM369/annas-archive-hub"><img src="assets/card-annas-hub.svg" width="100%" alt="Anna's Archives Hub"></a>
+<a href="https://github.com/D4vRAM369/PillMate"><img src="assets/card-pillmate.svg" width="100%" alt="PillMate"></a>
 <p>
-<img src="https://img.shields.io/github/stars/D4vRAM369/annas-archive-hub?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
-<img src="https://img.shields.io/github/last-commit/D4vRAM369/annas-archive-hub?style=flat-square&color=FFB000&labelColor=0E0B16&label=updated" alt="last commit">
-<img src="https://img.shields.io/github/license/D4vRAM369/annas-archive-hub?style=flat-square&color=FFB000&labelColor=0E0B16" alt="license">
+<img src="https://img.shields.io/github/stars/D4vRAM369/PillMate?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
+<img src="https://img.shields.io/github/last-commit/D4vRAM369/PillMate?style=flat-square&color=FFB000&labelColor=0E0B16&label=updated" alt="last commit">
+<img src="https://img.shields.io/badge/License-GPLv3-FFB000?style=flat-square&logo=gnu&logoColor=FFB000&labelColor=0E0B16" alt="License: GPLv3">
+
 </p>
-<p><img src="https://img.shields.io/badge/Python-0E0B16?style=flat-square&logo=python&logoColor=FFB000" alt="Python"> <img src="https://img.shields.io/badge/IPFS-0E0B16?style=flat-square&logo=ipfs&logoColor=FFB000" alt="IPFS"> <img src="https://img.shields.io/badge/Cron-0E0B16?style=flat-square&logo=clockify&logoColor=FFB000" alt="Cron"></p>
-<p><b>The problem:</b> Anna's Archive domains change constantly and it's hard to know which one works.<br><b>What I built:</b> A self-updating tracker: it crawls Reddit, X, Telegram and Mastodon for mirrors, verifies them and publishes an immutable report to IPFS every 12 hours.</p>
+<p><img src="https://img.shields.io/badge/Kotlin-0E0B16?style=flat-square&logo=kotlin&logoColor=FFB000" alt="Kotlin"> <img src="https://img.shields.io/badge/Jetpack%20Compose-0E0B16?style=flat-square&logo=jetpackcompose&logoColor=FFB000" alt="Jetpack Compose"> <img src="https://img.shields.io/badge/Room-0E0B16?style=flat-square&logo=sqlite&logoColor=FFB000" alt="Room"> <img src="https://img.shields.io/badge/Glance-0E0B16?style=flat-square&logo=android&logoColor=FFB000" alt="Glance"></p>
+<p><b>The problem:</b> Medication apps are pillboxes with alarms; I take medication as needed and wanted to see my pattern.<br><b>What I built:</b> A one-tap dose log with a 24-hour clock that shows your rhythm. No internet permission, no accounts, no ads.</p>
 
 </td></tr>
 <tr><td width="50%" valign="top">
@@ -84,10 +85,13 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 </table>
 
 <details>
-<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+7 more</sub></summary>
+<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+10 more</sub></summary>
 <br>
 
+- **[Vaso de contexto](https://github.com/D4vRAM369/vaso-de-contexto)** <img src="https://img.shields.io/github/stars/D4vRAM369/vaso-de-contexto?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Local context meter for your Claude Code sessions: a glass of water that fills up and tells you when to `/compact` or `/clear`. Ships with a Cinnamon panel applet.
+- **[PBL Project Chronicler](https://github.com/D4vRAM369/pbl-project-chronicler)** <img src="https://img.shields.io/github/stars/D4vRAM369/pbl-project-chronicler?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Skill for Claude Code, Codex and OpenCode that turns every dev session into learning docs: glossary, reproducible step-by-step, errors and fixes.
 - **[Debuggle](https://github.com/D4vRAM369/Debuggle)** <img src="https://img.shields.io/github/stars/D4vRAM369/Debuggle?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — AI debugging assistant: paste a stack trace, get it explained at your level.
+- **[Anna's Archives Hub](https://github.com/D4vRAM369/annas-archive-hub)** <img src="https://img.shields.io/github/stars/D4vRAM369/annas-archive-hub?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Anna's Archive mirror tracker: finds them, verifies them and publishes a report to IPFS every 12 hours.
 - **[TapTranslate](https://github.com/D4vRAM369/TapTranslate)** <img src="https://img.shields.io/github/stars/D4vRAM369/TapTranslate?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Offline ES↔EN translation from Android's text-selection menu.
 - **[AhorrApp](https://github.com/D4vRAM369/AhorrApp)** <img src="https://img.shields.io/github/stars/D4vRAM369/AhorrApp?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Supermarket price comparison for Gran Canaria.
 - **[GranCanMatch_bot](https://github.com/D4vRAM369/GranCanMatch_bot)** <img src="https://img.shields.io/github/stars/D4vRAM369/GranCanMatch_bot?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Telegram bot to meet people in Gran Canaria — no pay-to-match. It's no longer deployed or running: the database never got good enough to make it viable, and it lacked marketing _(I don't like marketing, it's not my thing)_. It might reopen someday, but it's not in my plans for now.
