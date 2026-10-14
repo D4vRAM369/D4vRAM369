@@ -48,7 +48,7 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 <p><b>The problem:</b> Downloading whole playlists with yt-dlp from the terminal was a pain.<br><b>What I built:</b> A GUI for yt-dlp: paste a URL, pick a format (mp3, flac, opus…), done. Queue with progress, speed and ETA, styled like eMule and Ares. 100% local.</p>
 
 </td><td width="50%" valign="top">
-<a href="https://github.com/D4vRAM369/PillMate"><img src="assets/card-pillmate.svg" width="100%" alt="PillMate"></a>
+<a href="https://github.com/D4vRAM369/PillMate"><img src="assets/card-pillmate-en.svg" width="100%" alt="PillMate"></a>
 <p>
 <img src="https://img.shields.io/github/stars/D4vRAM369/PillMate?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
 <img src="https://img.shields.io/github/last-commit/D4vRAM369/PillMate?style=flat-square&color=FFB000&labelColor=0E0B16&label=updated" alt="last commit">
