@@ -109,12 +109,42 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 <summary><code>guest@d4vram:~$ cat stack.txt</code> &nbsp;<sub>con qué trabajo</sub></summary>
 <br>
 
-<p align="center"><sub><code>lenguajes</code></sub><br><img src="https://skillicons.dev/icons?i=kotlin,python,ts,js,bash,java,html,css&theme=dark" alt="lenguajes"></p>
-<p align="center"><sub><code>frameworks</code></sub><br><img src="https://skillicons.dev/icons?i=androidstudio,svelte,tauri,electron,react,nodejs&theme=dark" alt="frameworks"></p>
-<p align="center"><sub><code>herramientas</code></sub><br><img src="https://skillicons.dev/icons?i=linux,git,sqlite,supabase,firebase,vscode&theme=dark" alt="herramientas"></p>
+<p align="center"><sub><code>lenguajes</code></sub><br>
+<img src="https://img.shields.io/badge/Kotlin-0E0B16?style=for-the-badge&logo=kotlin&logoColor=FFB000">
+<img src="https://img.shields.io/badge/Python-0E0B16?style=for-the-badge&logo=python&logoColor=FFB000">
+<img src="https://img.shields.io/badge/TypeScript-0E0B16?style=for-the-badge&logo=typescript&logoColor=FFB000">
+<img src="https://img.shields.io/badge/JavaScript-0E0B16?style=for-the-badge&logo=javascript&logoColor=FFB000">
+<img src="https://img.shields.io/badge/Bash-0E0B16?style=for-the-badge&logo=gnubash&logoColor=FFB000">
+<img src="https://img.shields.io/badge/Java-0E0B16?style=for-the-badge&logo=openjdk&logoColor=FFB000">
+<img src="https://img.shields.io/badge/HTML-0E0B16?style=for-the-badge&logo=html5&logoColor=FFB000">
+<img src="https://img.shields.io/badge/CSS-0E0B16?style=for-the-badge&logo=css3&logoColor=FFB000">
+</p>
+
+<p align="center"><sub><code>frameworks</code></sub><br>
+<img src="https://img.shields.io/badge/Android_Studio-0E0B16?style=for-the-badge&logo=androidstudio&logoColor=FFB000">
+<img src="https://img.shields.io/badge/Svelte-0E0B16?style=for-the-badge&logo=svelte&logoColor=FFB000">
+<img src="https://img.shields.io/badge/Tauri-0E0B16?style=for-the-badge&logo=tauri&logoColor=FFB000">
+<img src="https://img.shields.io/badge/Electron-0E0B16?style=for-the-badge&logo=electron&logoColor=FFB000">
+<img src="https://img.shields.io/badge/React-0E0B16?style=for-the-badge&logo=react&logoColor=FFB000">
+<img src="https://img.shields.io/badge/Node.js-0E0B16?style=for-the-badge&logo=nodedotjs&logoColor=FFB000">
+</p>
+
+<p align="center"><sub><code>herramientas</code></sub><br>
+<img src="https://img.shields.io/badge/Linux-0E0B16?style=for-the-badge&logo=linux&logoColor=FFB000">
+<img src="https://img.shields.io/badge/Git-0E0B16?style=for-the-badge&logo=git&logoColor=FFB000">
+<img src="https://img.shields.io/badge/SQLite-0E0B16?style=for-the-badge&logo=sqlite&logoColor=FFB000">
+<img src="https://img.shields.io/badge/Supabase-0E0B16?style=for-the-badge&logo=supabase&logoColor=FFB000">
+<img src="https://img.shields.io/badge/Firebase-0E0B16?style=for-the-badge&logo=firebase&logoColor=FFB000">
+<img src="https://img.shields.io/badge/VS_Code-0E0B16?style=for-the-badge&logo=visualstudiocode&logoColor=FFB000">
+</p>
+
+<p align="center"><sub><code>ia</code></sub><br>
+<img src="https://img.shields.io/badge/Claude-0E0B16?style=for-the-badge&logo=anthropic&logoColor=FFB000">
+<img src="https://img.shields.io/badge/Codex-0E0B16?style=for-the-badge&logo=openai&logoColor=FFB000">
+<img src="https://img.shields.io/badge/OpenCode-0E0B16?style=for-the-badge&logo=terminal&logoColor=FFB000">
+</p>
 
 </details>
-
 <details open>
 <summary><code>guest@d4vram:~$ ./hire-me</code> &nbsp;<sub>¿trabajamos juntos?</sub></summary>
 <br>
