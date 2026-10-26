@@ -39,14 +39,14 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 
 <table>
 <tr><td width="50%" valign="top">
-<a href="https://github.com/D4vRAM369/downloadthis"><img src="assets/card-downloadthis.svg" width="100%" alt="DownloadThis"></a>
+<a href="https://github.com/D4vRAM369/ProfesorIA"><img src="assets/card-profesoria.svg" width="100%" alt="ProfesorIA"></a>
 <p>
-<img src="https://img.shields.io/github/stars/D4vRAM369/downloadthis?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
-<img src="https://img.shields.io/github/last-commit/D4vRAM369/downloadthis?style=flat-square&color=FFB000&labelColor=0E0B16&label=actualizado" alt="last commit">
-<img src="https://img.shields.io/github/license/D4vRAM369/downloadthis?style=flat-square&color=FFB000&labelColor=0E0B16" alt="license">
+<img src="https://img.shields.io/github/stars/D4vRAM369/ProfesorIA?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
+<img src="https://img.shields.io/github/last-commit/D4vRAM369/ProfesorIA?style=flat-square&color=FFB000&labelColor=0E0B16&label=actualizado" alt="last commit">
+<img src="https://img.shields.io/github/license/D4vRAM369/ProfesorIA?style=flat-square&color=FFB000&labelColor=0E0B16" alt="license">
 </p>
-<p><img src="https://img.shields.io/badge/Python-0E0B16?style=flat-square&logo=python&logoColor=FFB000" alt="Python"> <img src="https://img.shields.io/badge/yt--dlp-0E0B16?style=flat-square&logo=youtube&logoColor=FFB000" alt="yt-dlp"> <img src="https://img.shields.io/badge/Win%20%C2%B7%20Linux%20%C2%B7%20macOS-0E0B16?style=flat-square&logo=linux&logoColor=FFB000" alt="Win · Linux · macOS"></p>
-<p><b>El problema:</b> Descargar playlists enteras con yt-dlp desde la terminal era un rollo.<br><b>Lo que hice:</b> Una interfaz para yt-dlp: pegas la URL, eliges formato (mp3, flac, opus…) y listo. Cola con progreso, velocidad y ETA, con la estética de eMule y Ares. 100% local.</p>
+<p><img src="https://img.shields.io/badge/Claude%20Code-0E0B16?style=flat-square&logo=anthropic&logoColor=FFB000" alt="Claude Code"> <img src="https://img.shields.io/badge/Python-0E0B16?style=flat-square&logo=python&logoColor=FFB000" alt="Python"> <img src="https://img.shields.io/badge/Markdown-0E0B16?style=flat-square&logo=markdown&logoColor=FFB000" alt="Markdown"></p>
+<p><b>El problema:</b> Programaba con IA, el código funcionaba… y no entendía lo que había construido. Parar a preguntar cada línea mataba el ritmo.<br><b>Lo que hice:</b> Una skill para Claude Code que deja una nota corta por concepto usando tu propio código, recuerda lo que ya sabes y tiene 3 personalidades de profe. Sin HelloWorld ni quizzes.</p>
 
 </td><td width="50%" valign="top">
 <a href="https://github.com/D4vRAM369/PillMate"><img src="assets/card-pillmate.svg" width="100%" alt="PillMate"></a>
@@ -61,16 +61,15 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 
 </td></tr>
 <tr><td width="50%" valign="top">
-<a href="https://github.com/D4vRAM369/ThreadsVault"><img src="assets/card-threadsvault.svg" width="100%" alt="ThreadsVault"></a>
+<a href="https://github.com/D4vRAM369/AllowancePrivacy"><img src="assets/card-allowance-privacy.svg" width="100%" alt="Allowance Privacy"></a>
 <p>
-<img src="https://img.shields.io/github/stars/D4vRAM369/ThreadsVault?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
-<img src="https://img.shields.io/github/last-commit/D4vRAM369/ThreadsVault?style=flat-square&color=FFB000&labelColor=0E0B16&label=actualizado" alt="last commit">
+<img src="https://img.shields.io/github/stars/D4vRAM369/AllowancePrivacy?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
+<img src="https://img.shields.io/github/last-commit/D4vRAM369/AllowancePrivacy?style=flat-square&color=FFB000&labelColor=0E0B16&label=actualizado" alt="last commit">
 <img src="https://img.shields.io/badge/License-GPLv3-FFB000?style=flat-square&logo=gnu&logoColor=FFB000&labelColor=0E0B16" alt="License: GPLv3">
-
 </p>
-<p><img src="https://img.shields.io/badge/Kotlin-0E0B16?style=flat-square&logo=kotlin&logoColor=FFB000" alt="Kotlin"> <img src="https://img.shields.io/badge/Tauri-0E0B16?style=flat-square&logo=tauri&logoColor=FFB000" alt="Tauri"> <img src="https://img.shields.io/badge/Svelte-0E0B16?style=flat-square&logo=svelte&logoColor=FFB000" alt="Svelte"> <img src="https://img.shields.io/badge/SQLite-0E0B16?style=flat-square&logo=sqlite&logoColor=FFB000" alt="SQLite"></p>
-<p><b>El problema:</b> Los posts que guardaba en Threads dependían de la propia plataforma.<br><b>Lo que hice:</b> Un baúl privado para guardar, etiquetar y anotar posts de Threads en tu dispositivo. Sin cuenta, sin nube, sin rastreo. Para Android y escritorio.</p>
-<sub><a href="https://github.com/D4vRAM369/ThreadsVault">Android</a> · <a href="https://github.com/D4vRAM369/ThreadsVault-desktop">Desktop</a></sub>
+<p><img src="https://img.shields.io/badge/Flutter-0E0B16?style=flat-square&logo=flutter&logoColor=FFB000" alt="Flutter"> <img src="https://img.shields.io/badge/Dart-0E0B16?style=flat-square&logo=dart&logoColor=FFB000" alt="Dart"> <img src="https://img.shields.io/badge/Android-0E0B16?style=flat-square&logo=android&logoColor=FFB000" alt="Android"></p>
+<p><b>Qué echaba en falta:</b> Me encanta el minimalismo de Allowance, pero no tenía nada de privacidad para algo tan sensible como mis finanzas.<br><b>Qué implementé:</b> Un fork con PIN y huella con bloqueo automático, importes ocultos con ••••, copias cifradas con AES-256 y sin permiso de internet ni telemetría.</p>
+<sub>Fork de <a href="https://github.com/jameskokoska/Allowance">Allowance</a> de James Kokoska</sub>
 </td><td width="50%" valign="top">
 <a href="https://github.com/D4vRAM369/WhatsMicFix"><img src="assets/card-whatsmicfix.svg" width="100%" alt="WhatsMicFix"></a>
 <p>
@@ -89,8 +88,8 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 <summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+13 más</sub></summary>
 <br>
 
-- **[Allowance Privacy](https://github.com/D4vRAM369/AllowancePrivacy)** <img src="https://img.shields.io/github/stars/D4vRAM369/AllowancePrivacy?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Fork de [Allowance](https://github.com/jameskokoska/Allowance) (app de presupuesto para Android en Flutter) centrado en la privacidad: PIN y huella con bloqueo automático, importes ocultos con ••••, copias cifradas con AES-256 y sin permiso de internet ni telemetría.
-- **[ProfesorIA](https://github.com/D4vRAM369/ProfesorIA)** <img src="https://img.shields.io/github/stars/D4vRAM369/ProfesorIA?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Skill para Claude Code que te enseña a programar mientras construyes tu proyecto real con IA: una nota corta por concepto, recuerda lo que ya sabes y tiene 3 personalidades de profe. Sin HelloWorld ni quizzes.
+- **[DownloadThis](https://github.com/D4vRAM369/downloadthis)** <img src="https://img.shields.io/github/stars/D4vRAM369/downloadthis?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Interfaz para yt-dlp: pegas la URL, eliges formato (mp3, flac, opus…) y listo. Cola con progreso, velocidad y ETA, con la estética de eMule y Ares. 100% local.
+- **[ThreadsVault](https://github.com/D4vRAM369/ThreadsVault)** <img src="https://img.shields.io/github/stars/D4vRAM369/ThreadsVault?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Baúl privado para guardar, etiquetar y anotar posts de Threads en tu dispositivo. Sin cuenta, sin nube, sin rastreo. [Android](https://github.com/D4vRAM369/ThreadsVault) · [Desktop](https://github.com/D4vRAM369/ThreadsVault-desktop).
 - **[PlaudVault](https://github.com/D4vRAM369/PlaudVault)** <img src="https://img.shields.io/github/stars/D4vRAM369/PlaudVault?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Baúl local y cifrado para grabaciones de Plaud Note y otros audios: importa tu historial (audio, transcripciones, notas, infografías), transcribe offline con Whisper y busca en todo con SQLite FTS5. Sin nube.
 - **[Vaso de contexto](https://github.com/D4vRAM369/vaso-de-contexto)** <img src="https://img.shields.io/github/stars/D4vRAM369/vaso-de-contexto?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Medidor local del contexto de tus sesiones de Claude Code: un vaso de agua que se llena y te avisa de cuándo toca `/compact` o `/clear`. Con applet de panel para Linux Mint Cinnamon.
 - **[PBL Project Chronicler](https://github.com/D4vRAM369/pbl-project-chronicler)** <img src="https://img.shields.io/github/stars/D4vRAM369/pbl-project-chronicler?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Skill para Claude Code, Codex y OpenCode que convierte cada sesión de desarrollo en documentación de aprendizaje: glosario, paso a paso reproducible, errores y soluciones.
