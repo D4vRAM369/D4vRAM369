@@ -85,9 +85,10 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 </table>
 
 <details>
-<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+12 more</sub></summary>
+<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+13 more</sub></summary>
 <br>
 
+- **[Allowance Privacy](https://github.com/D4vRAM369/AllowancePrivacy)** <img src="https://img.shields.io/github/stars/D4vRAM369/AllowancePrivacy?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Privacy-focused fork of [Allowance](https://github.com/jameskokoska/Allowance), a Flutter budget app for Android: PIN and fingerprint with auto-lock, hidden amounts (••••), AES-256 encrypted backups and no internet permission or telemetry.
 - **[ProfesorIA](https://github.com/D4vRAM369/ProfesorIA)** <img src="https://img.shields.io/github/stars/D4vRAM369/ProfesorIA?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Claude Code skill that teaches you to code while you build your real project with AI: one short note per concept, remembers what you already know, three teacher personalities. No HelloWorld, no quizzes.
 - **[PlaudVault](https://github.com/D4vRAM369/PlaudVault)** <img src="https://img.shields.io/github/stars/D4vRAM369/PlaudVault?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Local, encrypted vault for Plaud Note and other voice recordings: import your history (audio, transcripts, notes, infographics), transcribe offline with Whisper and full-text search it with SQLite FTS5. No cloud.
 - **[Vaso de contexto](https://github.com/D4vRAM369/vaso-de-contexto)** <img src="https://img.shields.io/github/stars/D4vRAM369/vaso-de-contexto?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Local context meter for your Claude Code sessions: a glass of water that fills up and tells you when to `/compact` or `/clear`. Ships with a Linux Mint Cinnamon panel applet.

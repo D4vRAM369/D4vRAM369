@@ -86,9 +86,10 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 </table>
 
 <details>
-<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+12 más</sub></summary>
+<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+13 más</sub></summary>
 <br>
 
+- **[Allowance Privacy](https://github.com/D4vRAM369/AllowancePrivacy)** <img src="https://img.shields.io/github/stars/D4vRAM369/AllowancePrivacy?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Fork de [Allowance](https://github.com/jameskokoska/Allowance) (app de presupuesto para Android en Flutter) centrado en la privacidad: PIN y huella con bloqueo automático, importes ocultos con ••••, copias cifradas con AES-256 y sin permiso de internet ni telemetría.
 - **[ProfesorIA](https://github.com/D4vRAM369/ProfesorIA)** <img src="https://img.shields.io/github/stars/D4vRAM369/ProfesorIA?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Skill para Claude Code que te enseña a programar mientras construyes tu proyecto real con IA: una nota corta por concepto, recuerda lo que ya sabes y tiene 3 personalidades de profe. Sin HelloWorld ni quizzes.
 - **[PlaudVault](https://github.com/D4vRAM369/PlaudVault)** <img src="https://img.shields.io/github/stars/D4vRAM369/PlaudVault?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Baúl local y cifrado para grabaciones de Plaud Note y otros audios: importa tu historial (audio, transcripciones, notas, infografías), transcribe offline con Whisper y busca en todo con SQLite FTS5. Sin nube.
 - **[Vaso de contexto](https://github.com/D4vRAM369/vaso-de-contexto)** <img src="https://img.shields.io/github/stars/D4vRAM369/vaso-de-contexto?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Medidor local del contexto de tus sesiones de Claude Code: un vaso de agua que se llena y te avisa de cuándo toca `/compact` o `/clear`. Con applet de panel para Linux Mint Cinnamon.
