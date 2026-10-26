@@ -85,11 +85,12 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 </table>
 
 <details>
-<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+11 more</sub></summary>
+<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+12 more</sub></summary>
 <br>
 
 - **[PlaudVault](https://github.com/D4vRAM369/PlaudVault)** <img src="https://img.shields.io/github/stars/D4vRAM369/PlaudVault?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Local, encrypted vault for Plaud Note and other voice recordings: import your history (audio, transcripts, notes, infographics), transcribe offline with Whisper and full-text search it with SQLite FTS5. No cloud.
 - **[Vaso de contexto](https://github.com/D4vRAM369/vaso-de-contexto)** <img src="https://img.shields.io/github/stars/D4vRAM369/vaso-de-contexto?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Local context meter for your Claude Code sessions: a glass of water that fills up and tells you when to `/compact` or `/clear`. Ships with a Linux Mint Cinnamon panel applet.
+- **[ProfesorIA](https://github.com/D4vRAM369/ProfesorIA)** <img src="https://img.shields.io/github/stars/D4vRAM369/ProfesorIA?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Claude Code skill that teaches you to code while you build your real project with AI: one short note per concept, remembers what you already know, three teacher personalities. No HelloWorld, no quizzes.
 - **[PBL Project Chronicler](https://github.com/D4vRAM369/pbl-project-chronicler)** <img src="https://img.shields.io/github/stars/D4vRAM369/pbl-project-chronicler?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Skill for Claude Code, Codex and OpenCode that turns every dev session into learning docs: glossary, reproducible step-by-step, errors and fixes.
 - **[Debuggle](https://github.com/D4vRAM369/Debuggle)** <img src="https://img.shields.io/github/stars/D4vRAM369/Debuggle?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — AI debugging assistant: paste a stack trace, get it explained at your level.
 - **[Anna's Archives Hub](https://github.com/D4vRAM369/annas-archive-hub)** <img src="https://img.shields.io/github/stars/D4vRAM369/annas-archive-hub?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Anna's Archive mirror tracker: finds them, verifies them and publishes a report to IPFS every 12 hours.
@@ -97,7 +98,7 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 - **[AhorrApp](https://github.com/D4vRAM369/AhorrApp)** <img src="https://img.shields.io/github/stars/D4vRAM369/AhorrApp?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Supermarket price comparison for Gran Canaria.
 - **[GranCanMatch_bot](https://github.com/D4vRAM369/GranCanMatch_bot)** <img src="https://img.shields.io/github/stars/D4vRAM369/GranCanMatch_bot?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Telegram bot to meet people in Gran Canaria — no pay-to-match. It's no longer deployed or running: the database never got good enough to make it viable, and it lacked marketing _(I don't like marketing, it's not my thing)_. It might reopen someday, but it's not in my plans for now.
 - **[PsychoLogger](https://github.com/D4vRAM369/PsychoLogger)** <img src="https://img.shields.io/github/stars/D4vRAM369/PsychoLogger?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Private, encrypted harm-reduction logbook. 100% offline.
-- **[CBDcounter](https://github.com/D4vRAM369/CBDcounter)** <img src="https://img.shields.io/github/stars/D4vRAM369/CBDcounter?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Minimal consumption tracker with CSV export. Offline.
+- **[Fumitracking](https://github.com/D4vRAM369/Fumitracking)** <img src="https://img.shields.io/github/stars/D4vRAM369/Fumitracking?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Private, offline-first Android app to track daily CBD and THC intake, with progress rings, goals, calendar, stats and a widget. Built for harm reduction: no account, no tracking, encrypted local backups.
 - **[NowPlayingExporterPy](https://github.com/D4vRAM369/NowPlayingExporterPy)** <img src="https://img.shields.io/github/stars/D4vRAM369/NowPlayingExporterPy?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Exports rooted Pixels' Now Playing history to CSV.
 
 </details>
