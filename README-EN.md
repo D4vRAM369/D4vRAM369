@@ -83,18 +83,20 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 </td></tr>
 </table>
 
-<details>
-<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+13 more</sub></summary>
+<details open>
+<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+15 more</sub></summary>
 <br>
 
-- **[DownloadThis](https://github.com/D4vRAM369/downloadthis)** <img src="https://img.shields.io/github/stars/D4vRAM369/downloadthis?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — A GUI for yt-dlp: paste a URL, pick a format (mp3, flac, opus…), done. Queue with progress, speed and ETA, styled like eMule and Ares. 100% local.
-- **[ThreadsVault](https://github.com/D4vRAM369/ThreadsVault)** <img src="https://img.shields.io/github/stars/D4vRAM369/ThreadsVault?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — A private vault to save, tag and annotate Threads posts on your device. No account, no cloud, no tracking. [Android](https://github.com/D4vRAM369/ThreadsVault) · [Desktop](https://github.com/D4vRAM369/ThreadsVault-desktop).
+- **[AranceLess](https://github.com/D4vRAM369/aranceless-userscript)** <img src="https://img.shields.io/github/stars/D4vRAM369/aranceless-userscript?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Userscript for AliExpress and Temu that hides everything that would pay the €3-per-item EU customs duty and keeps only stock shipped from the EU. 🇪🇺 badges, official filter, human-paced auto-load and no network requests. [Greasy Fork](https://greasyfork.org/en/scripts/602577-aranceless-solo-stock-ue-en-aliexpress-y-temu).
 - **[PlaudVault](https://github.com/D4vRAM369/PlaudVault)** <img src="https://img.shields.io/github/stars/D4vRAM369/PlaudVault?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Local, encrypted vault for Plaud Note and other voice recordings: import your history (audio, transcripts, notes, infographics), transcribe offline with Whisper and full-text search it with SQLite FTS5. No cloud.
 - **[Vaso de contexto](https://github.com/D4vRAM369/vaso-de-contexto)** <img src="https://img.shields.io/github/stars/D4vRAM369/vaso-de-contexto?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Local context meter for your Claude Code sessions: a glass of water that fills up and tells you when to `/compact` or `/clear`. Ships with a Linux Mint Cinnamon panel applet.
 - **[PBL Project Chronicler](https://github.com/D4vRAM369/pbl-project-chronicler)** <img src="https://img.shields.io/github/stars/D4vRAM369/pbl-project-chronicler?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Skill for Claude Code, Codex and OpenCode that turns every dev session into learning docs: glossary, reproducible step-by-step, errors and fixes.
-- **[Debuggle](https://github.com/D4vRAM369/Debuggle)** <img src="https://img.shields.io/github/stars/D4vRAM369/Debuggle?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — AI debugging assistant: paste a stack trace, get it explained at your level.
+- **[Meta Debug PBL](https://github.com/D4vRAM369/meta-debug-pbl-skill)** <img src="https://img.shields.io/github/stars/D4vRAM369/meta-debug-pbl-skill?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Metacognitive debugging skill for Codex and Claude: explains what failed, why, how to fix and verify it, and what to learn from each error.
+- **[DownloadThis](https://github.com/D4vRAM369/downloadthis)** <img src="https://img.shields.io/github/stars/D4vRAM369/downloadthis?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — A GUI for yt-dlp: paste a URL, pick a format (mp3, flac, opus…), done. Queue with progress, speed and ETA, styled like eMule and Ares. 100% local.
 - **[Anna's Archives Hub](https://github.com/D4vRAM369/annas-archive-hub)** <img src="https://img.shields.io/github/stars/D4vRAM369/annas-archive-hub?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Anna's Archive mirror tracker: finds them, verifies them and publishes a report to IPFS every 12 hours.
 - **[TapTranslate](https://github.com/D4vRAM369/TapTranslate)** <img src="https://img.shields.io/github/stars/D4vRAM369/TapTranslate?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Offline ES↔EN translation from Android's text-selection menu.
+- **[Debuggle](https://github.com/D4vRAM369/Debuggle)** <img src="https://img.shields.io/github/stars/D4vRAM369/Debuggle?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — AI debugging assistant: paste a stack trace, get it explained at your level.
+- **[ThreadsVault](https://github.com/D4vRAM369/ThreadsVault)** <img src="https://img.shields.io/github/stars/D4vRAM369/ThreadsVault?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — A private vault to save, tag and annotate Threads posts on your device. No account, no cloud, no tracking. [Android](https://github.com/D4vRAM369/ThreadsVault) · [Desktop](https://github.com/D4vRAM369/ThreadsVault-desktop).
 - **[AhorrApp](https://github.com/D4vRAM369/AhorrApp)** <img src="https://img.shields.io/github/stars/D4vRAM369/AhorrApp?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Supermarket price comparison for Gran Canaria.
 - **[GranCanMatch_bot](https://github.com/D4vRAM369/GranCanMatch_bot)** <img src="https://img.shields.io/github/stars/D4vRAM369/GranCanMatch_bot?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Telegram bot to meet people in Gran Canaria — no pay-to-match. It's no longer deployed or running: the database never got good enough to make it viable, and it lacked marketing _(I don't like marketing, it's not my thing)_. It might reopen someday, but it's not in my plans for now.
 - **[PsychoLogger](https://github.com/D4vRAM369/PsychoLogger)** <img src="https://img.shields.io/github/stars/D4vRAM369/PsychoLogger?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Private, encrypted harm-reduction logbook. 100% offline.
@@ -193,6 +195,19 @@ Tell me about your idea on Telegram and let's talk.
 If any of my tools saved you time, you can buy me a coffee. It keeps the PBL daemon running.
 
 <a href="https://www.buymeacoffee.com/D4vRAM369"><img src="https://img.shields.io/badge/Buy_me_a_coffee-D4vRAM369-FFB000?style=for-the-badge&logo=buymeacoffee&logoColor=FFB000&labelColor=0E0B16" alt="Buy Me a Coffee"></a>
+
+</details>
+
+<details open>
+<summary><code>guest@d4vram:~$ ./snake --eat contributions</code> &nbsp;<sub>activity</sub></summary>
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/D4vRAM369/D4vRAM369/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" width="100%">
+  </picture>
+</p>
 
 </details>
 
