@@ -38,6 +38,27 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 
 <table>
 <tr><td width="50%" valign="top">
+<a href="https://github.com/D4vRAM369/Mirlo-desktop"><img src="assets/card-mirlo-en.svg" width="100%" alt="Mirlo"></a>
+<p>
+<img src="https://img.shields.io/github/stars/D4vRAM369/Mirlo-desktop?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
+<img src="https://img.shields.io/github/last-commit/D4vRAM369/Mirlo-desktop?style=flat-square&color=FFB000&labelColor=0E0B16&label=updated" alt="last commit">
+<img src="https://img.shields.io/badge/License-GPLv3-FFB000?style=flat-square&logo=gnu&logoColor=FFB000&labelColor=0E0B16" alt="License: GPLv3">
+</p>
+<p><img src="https://img.shields.io/badge/Rust-0E0B16?style=flat-square&logo=rust&logoColor=FFB000" alt="Rust"> <img src="https://img.shields.io/badge/Tauri-0E0B16?style=flat-square&logo=tauri&logoColor=FFB000" alt="Tauri"> <img src="https://img.shields.io/badge/Svelte-0E0B16?style=flat-square&logo=svelte&logoColor=FFB000" alt="Svelte"> <img src="https://img.shields.io/badge/SQLite-0E0B16?style=flat-square&logo=sqlite&logoColor=FFB000" alt="SQLite"></p>
+<p><b>The problem:</b> I often wanted to keep the posts I bookmarked on Twitter outside of it, better organized and with their photos and videos.<br><b>What I built:</b> A vault inspired by <a href="https://github.com/D4vRAM369/ThreadsVault-desktop">ThreadsVault-desktop</a>, but for X/Twitter: it saves the text, photos and videos to your disk, with collections, tags and import and export.</p>
+
+</td><td width="50%" valign="top">
+<a href="https://github.com/D4vRAM369/aranceless-userscript"><img src="assets/card-aranceless-en.svg" width="100%" alt="AranceLess"></a>
+<p>
+<img src="https://img.shields.io/github/stars/D4vRAM369/aranceless-userscript?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
+<img src="https://img.shields.io/greasyfork/dt/602577?style=flat-square&color=FFB000&labelColor=0E0B16&label=installs" alt="installs">
+<img src="https://img.shields.io/badge/License-MIT-FFB000?style=flat-square&labelColor=0E0B16" alt="License: MIT">
+</p>
+<p><img src="https://img.shields.io/badge/JavaScript-0E0B16?style=flat-square&logo=javascript&logoColor=FFB000" alt="JavaScript"> <img src="https://img.shields.io/badge/Tampermonkey-0E0B16?style=flat-square&logo=tampermonkey&logoColor=FFB000" alt="Tampermonkey"> <img src="https://img.shields.io/badge/Greasy%20Fork-0E0B16?style=flat-square&logo=greasyfork&logoColor=FFB000" alt="Greasy Fork"></p>
+<p><b>The problem:</b> Since July 2026 the EU charges about €3 per item on small parcels from outside the EU, and AliExpress and Temu mix that stock with their European warehouses.<br><b>What I built:</b> A userscript that hides everything that would pay the fee and badges what ships from the EU with 🇪🇺. No network requests. <a href="https://greasyfork.org/en/scripts/602577-aranceless-solo-stock-ue-en-aliexpress-y-temu">Greasy Fork</a>.</p>
+
+</td></tr>
+<tr><td width="50%" valign="top">
 <a href="https://github.com/D4vRAM369/ProfesorIA"><img src="assets/card-profesoria-en.svg" width="100%" alt="ProfesorIA"></a>
 <p>
 <img src="https://img.shields.io/github/stars/D4vRAM369/ProfesorIA?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
@@ -84,11 +105,9 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 </table>
 
 <details open>
-<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+16 more</sub></summary>
+<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+14 more</sub></summary>
 <br>
 
-- **[Mirlo](https://github.com/D4vRAM369/Mirlo-desktop)** <img src="https://img.shields.io/github/stars/D4vRAM369/Mirlo-desktop?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Local vault for X (Twitter) posts: save text, original-resolution photos, videos and linked documents to your own disk. With search, tags, collections and backups. No account, no cloud, no telemetry.
-- **[AranceLess](https://github.com/D4vRAM369/aranceless-userscript)** <img src="https://img.shields.io/github/stars/D4vRAM369/aranceless-userscript?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Userscript for AliExpress and Temu that hides everything that would pay the €3-per-item EU customs duty and keeps only stock shipped from the EU. 🇪🇺 badges, official filter, human-paced auto-load and no network requests. [Greasy Fork](https://greasyfork.org/en/scripts/602577-aranceless-solo-stock-ue-en-aliexpress-y-temu).
 - **[PlaudVault](https://github.com/D4vRAM369/PlaudVault)** <img src="https://img.shields.io/github/stars/D4vRAM369/PlaudVault?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Local, encrypted vault for Plaud Note and other voice recordings: import your history (audio, transcripts, notes, infographics), transcribe offline with Whisper and full-text search it with SQLite FTS5. No cloud.
 - **[Vaso de contexto](https://github.com/D4vRAM369/vaso-de-contexto)** <img src="https://img.shields.io/github/stars/D4vRAM369/vaso-de-contexto?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Local context meter for your Claude Code sessions: a glass of water that fills up and tells you when to `/compact` or `/clear`. Ships with a Linux Mint Cinnamon panel applet.
 - **[PBL Project Chronicler](https://github.com/D4vRAM369/pbl-project-chronicler)** <img src="https://img.shields.io/github/stars/D4vRAM369/pbl-project-chronicler?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Skill for Claude Code, Codex and OpenCode that turns every dev session into learning docs: glossary, reproducible step-by-step, errors and fixes.
