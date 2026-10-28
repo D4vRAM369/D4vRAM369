@@ -85,9 +85,10 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 </table>
 
 <details open>
-<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+15 más</sub></summary>
+<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+16 más</sub></summary>
 <br>
 
+- **[Mirlo](https://github.com/D4vRAM369/Mirlo-desktop)** <img src="https://img.shields.io/github/stars/D4vRAM369/Mirlo-desktop?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Bóveda local para posts de X (Twitter): guarda texto, fotos a resolución original, vídeos y documentos enlazados en tu disco. Con búsqueda, etiquetas, colecciones y copias de seguridad. Sin cuenta, sin nube y sin telemetría.
 - **[AranceLess](https://github.com/D4vRAM369/aranceless-userscript)** <img src="https://img.shields.io/github/stars/D4vRAM369/aranceless-userscript?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Userscript para AliExpress y Temu que oculta todo lo que pagaría el arancel de 3 € por artículo y deja solo el stock enviado desde la UE. Placas 🇪🇺, filtro oficial, autocarga a ritmo humano y sin peticiones de red. [Greasy Fork](https://greasyfork.org/es/scripts/602577-aranceless-solo-stock-ue-en-aliexpress-y-temu).
 - **[PlaudVault](https://github.com/D4vRAM369/PlaudVault)** <img src="https://img.shields.io/github/stars/D4vRAM369/PlaudVault?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Baúl local y cifrado para grabaciones de Plaud Note y otros audios: importa tu historial (audio, transcripciones, notas, infografías), transcribe offline con Whisper y busca en todo con SQLite FTS5. Sin nube.
 - **[Vaso de contexto](https://github.com/D4vRAM369/vaso-de-contexto)** <img src="https://img.shields.io/github/stars/D4vRAM369/vaso-de-contexto?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Medidor local del contexto de tus sesiones de Claude Code: un vaso de agua que se llena y te avisa de cuándo toca `/compact` o `/clear`. Con applet de panel para Linux Mint Cinnamon.
