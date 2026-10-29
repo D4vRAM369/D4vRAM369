@@ -106,9 +106,10 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 </table>
 
 <details open>
-<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+14 más</sub></summary>
+<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+15 más</sub></summary>
 <br>
 
+- **[Nisaba](https://github.com/D4vRAM369/Nisaba)** <img src="https://img.shields.io/github/stars/D4vRAM369/Nisaba?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Bóveda local de tus conversaciones con Claude Code y Codex: encuentra por palabra o frase lo que hablaste con tu IA y reléelo sin ruido, desde la ventana, la terminal o tu propia IA vía MCP. Sin red.
 - **[PlaudVault](https://github.com/D4vRAM369/PlaudVault)** <img src="https://img.shields.io/github/stars/D4vRAM369/PlaudVault?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Baúl local y cifrado para grabaciones de Plaud Note y otros audios: importa tu historial (audio, transcripciones, notas, infografías), transcribe offline con Whisper y busca en todo con SQLite FTS5. Sin nube.
 - **[Vaso de contexto](https://github.com/D4vRAM369/vaso-de-contexto)** <img src="https://img.shields.io/github/stars/D4vRAM369/vaso-de-contexto?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Medidor local del contexto de tus sesiones de Claude Code: un vaso de agua que se llena y te avisa de cuándo toca `/compact` o `/clear`. Con applet de panel para Linux Mint Cinnamon.
 - **[PBL Project Chronicler](https://github.com/D4vRAM369/pbl-project-chronicler)** <img src="https://img.shields.io/github/stars/D4vRAM369/pbl-project-chronicler?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Skill para Claude Code, Codex y OpenCode que convierte cada sesión de desarrollo en documentación de aprendizaje: glosario, paso a paso reproducible, errores y soluciones.
