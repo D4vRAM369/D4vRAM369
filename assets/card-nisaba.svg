@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="200" viewBox="0 0 480 200">
+<rect x="0.5" y="0.5" width="479" height="199" rx="12" fill="#0E0B16" stroke="#2A2238"></rect>
+<path d="M12 .5h456a11.5 11.5 0 0 1 11.5 11.5v20H.5V12A11.5 11.5 0 0 1 12 .5z" fill="#16111F"></path>
+<circle cx="20" cy="16" r="4" fill="#2A2238"></circle><circle cx="34" cy="16" r="4" fill="#2A2238"></circle><circle cx="48" cy="16" r="4" fill="#2A2238"></circle>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace"><text x="466" y="21" text-anchor="end" font-size="11" fill="#8C7FA3">nisaba — ~/tablilla</text>
+<text x="24" y="76" font-size="28" font-weight="700" fill="#F4E9D0">Nisaba</text>
+<text x="24" y="102" font-size="13" fill="#FFB000">Rust · Tauri · Svelte · SQLite</text>
+<rect x="24" y="124" width="16" height="16" rx="3" fill="#FFB000" opacity="0.85"></rect><rect x="48" y="129" width="150" height="6" rx="3" fill="#3A3150"></rect><text x="208" y="136" font-size="11" fill="#8C7FA3">claude code</text><rect x="24" y="146" width="16" height="16" rx="3" fill="#FFB000" opacity="0.85"></rect><rect x="48" y="151" width="110" height="6" rx="3" fill="#3A3150"></rect><text x="168" y="158" font-size="11" fill="#8C7FA3">codex</text><rect x="24" y="168" width="16" height="16" rx="3" fill="#FFB000" opacity="0.85"></rect><rect x="48" y="173" width="90" height="6" rx="3" fill="#3A3150"></rect><text x="148" y="180" font-size="11" fill="#8C7FA3">claude.ai · chatgpt</text>
+<text x="456" y="146" text-anchor="end" font-size="11" fill="#8C7FA3">linux · windows</text><text x="456" y="166" text-anchor="end" font-size="11" fill="#8C7FA3">fts5 · cli · mcp</text><text x="456" y="186" text-anchor="end" font-size="11" fill="#FFB000">sin red · sin nube</text></g><defs>
+<g id="wh"><path d="M0 -3 L6 0 L0 3 Z"/><path d="M5 0 H13" fill="none" stroke-width="1.4"/></g>
+<g id="wv"><path d="M-3 0 L0 6 L3 0 Z"/><path d="M0 5 V13" fill="none" stroke-width="1.4"/></g>
+<g id="wc"><path d="M-9 -2.2 L-4 0 L-9 2.2 Z"/><path d="M-4 0 H9" fill="none" stroke-width="1.1"/></g>
+<path id="spark" d="M0 -8C1 -2 2 -1 8 0C2 1 1 2 0 8C-1 2 -2 1 -8 0C-2 -1 -1 -2 0 -8Z"/>
+</defs>
+<g fill="#FFB000" stroke="#FFB000"><use xlink:href="#wc" transform="translate(146 66)"/><use xlink:href="#wc" transform="translate(146 66) rotate(90)"/><use xlink:href="#wc" transform="translate(146 66) rotate(45)"/><use xlink:href="#wc" transform="translate(146 66) rotate(135)"/></g>
+<g fill="none" stroke="#FFB000" stroke-linecap="round" opacity="0.75"><path d="M306 134C302 110 300 86 302 50"/><path d="M304 118C294 112 290 104 291 96" stroke-width="1"/></g>
+<g fill="#FFB000" opacity="0.75"><ellipse cx="298" cy="58" rx="2.4" ry="5.5" transform="rotate(-28 298 58)"/><ellipse cx="306" cy="62" rx="2.4" ry="5.5" transform="rotate(28 306 62)"/><ellipse cx="298" cy="68" rx="2.4" ry="5.5" transform="rotate(-28 298 68)"/><ellipse cx="306" cy="72" rx="2.4" ry="5.5" transform="rotate(28 306 72)"/><ellipse cx="298" cy="78" rx="2.4" ry="5.5" transform="rotate(-28 298 78)"/><ellipse cx="306" cy="82" rx="2.4" ry="5.5" transform="rotate(28 306 82)"/><ellipse cx="302" cy="49" rx="2" ry="5"/></g>
+<g transform="translate(388 84) rotate(-5)">
+<rect x="-60" y="-42" width="120" height="84" rx="13" fill="#1E1828" stroke="#FFB000" stroke-opacity="0.45"/>
+<rect x="-54" y="-36" width="108" height="72" rx="9" fill="none" stroke="#3A3150"/>
+<g fill="#F4E9D0" stroke="#F4E9D0" opacity="0.8">
+<use xlink:href="#wh" x="-46" y="-25"/><use xlink:href="#wv" x="-27" y="-31"/><use xlink:href="#wv" x="-20" y="-31"/><use xlink:href="#wh" x="-12" y="-25"/><use xlink:href="#wh" x="6" y="-25"/><use xlink:href="#wv" x="27" y="-31"/><use xlink:href="#wh" x="34" y="-25"/>
+<use xlink:href="#wv" x="-42" y="-14"/><use xlink:href="#wh" x="-34" y="-8"/><use xlink:href="#wh" x="-16" y="-8"/><use xlink:href="#wv" x="4" y="-14"/><use xlink:href="#wv" x="11" y="-14"/><use xlink:href="#wh" x="20" y="-8"/><use xlink:href="#wv" x="42" y="-14"/>
+<use xlink:href="#wh" x="-46" y="9"/><use xlink:href="#wh" x="-28" y="9"/><use xlink:href="#wv" x="-8" y="3"/><use xlink:href="#wh" x="0" y="9"/><use xlink:href="#wv" x="21" y="3"/><use xlink:href="#wv" x="28" y="3"/><use xlink:href="#wh" x="34" y="9"/>
+</g>
+<g fill="#FFB000" stroke="#FFB000"><use xlink:href="#wh" x="-46" y="26"/><use xlink:href="#wv" x="-27" y="20"/><use xlink:href="#wh" x="-20" y="26"/></g>
+<use xlink:href="#spark" x="4" y="26" fill="#FFB000"/>
+<path d="M14 26H46" stroke="#8C7FA3" stroke-dasharray="2 4" stroke-linecap="round"/>
+</g>
+<use xlink:href="#spark" transform="translate(448 42) scale(0.7)" fill="#FFB000"/><use xlink:href="#spark" transform="translate(458 58) scale(0.4)" fill="#F4E9D0"/>
+</svg>

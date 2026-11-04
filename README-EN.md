@@ -38,14 +38,14 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 
 <table>
 <tr><td width="50%" valign="top">
-<a href="https://github.com/D4vRAM369/Mirlo-desktop"><img src="assets/card-mirlo-en.svg" width="100%" alt="Mirlo"></a>
+<a href="https://github.com/D4vRAM369/Nisaba"><img src="assets/card-nisaba-en.svg" width="100%" alt="Nisaba"></a>
 <p>
-<img src="https://img.shields.io/github/stars/D4vRAM369/Mirlo-desktop?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
-<img src="https://img.shields.io/github/last-commit/D4vRAM369/Mirlo-desktop?style=flat-square&color=FFB000&labelColor=0E0B16&label=updated" alt="last commit">
+<img src="https://img.shields.io/github/stars/D4vRAM369/Nisaba?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
+<img src="https://img.shields.io/github/last-commit/D4vRAM369/Nisaba?style=flat-square&color=FFB000&labelColor=0E0B16&label=updated" alt="last commit">
 <img src="https://img.shields.io/badge/License-GPLv3-FFB000?style=flat-square&logo=gnu&logoColor=FFB000&labelColor=0E0B16" alt="License: GPLv3">
 </p>
-<p><img src="https://img.shields.io/badge/Rust-0E0B16?style=flat-square&logo=rust&logoColor=FFB000" alt="Rust"> <img src="https://img.shields.io/badge/Tauri-0E0B16?style=flat-square&logo=tauri&logoColor=FFB000" alt="Tauri"> <img src="https://img.shields.io/badge/Svelte-0E0B16?style=flat-square&logo=svelte&logoColor=FFB000" alt="Svelte"> <img src="https://img.shields.io/badge/SQLite-0E0B16?style=flat-square&logo=sqlite&logoColor=FFB000" alt="SQLite"></p>
-<p><b>The problem:</b> I often wanted to keep the posts I bookmarked on Twitter outside of it, better organized and with their photos and videos.<br><b>What I built:</b> A vault inspired by <a href="https://github.com/D4vRAM369/ThreadsVault-desktop">ThreadsVault-desktop</a>, but for X/Twitter: it saves the text, photos and videos to your disk, with collections, tags and import and export.</p>
+<p><img src="https://img.shields.io/badge/Rust-0E0B16?style=flat-square&logo=rust&logoColor=FFB000" alt="Rust"> <img src="https://img.shields.io/badge/Tauri-0E0B16?style=flat-square&logo=tauri&logoColor=FFB000" alt="Tauri"> <img src="https://img.shields.io/badge/Svelte-0E0B16?style=flat-square&logo=svelte&logoColor=FFB000" alt="Svelte"> <img src="https://img.shields.io/badge/SQLite-0E0B16?style=flat-square&logo=sqlite&logoColor=FFB000" alt="SQLite"> <img src="https://img.shields.io/badge/MCP-0E0B16?style=flat-square&logo=modelcontextprotocol&logoColor=FFB000" alt="MCP"></p>
+<p><b>The problem:</b> What I learn and decide with AIs ends up scattered across tools, and Claude Code deletes sessions older than 30 days by default.<br><b>What I built:</b> A local vault that indexes your Claude Code, Codex, Claude.ai and ChatGPT conversations so you can search and reread them without noise from a desktop app, the terminal or your AI via MCP. No network.</p>
 
 </td><td width="50%" valign="top">
 <a href="https://github.com/D4vRAM369/aranceless-userscript"><img src="assets/card-aranceless-en.svg" width="100%" alt="AranceLess"></a>
@@ -108,7 +108,7 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 <summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+15 more</sub></summary>
 <br>
 
-- **[Nisaba](https://github.com/D4vRAM369/Nisaba)** <img src="https://img.shields.io/github/stars/D4vRAM369/Nisaba?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Local vault for your Claude Code and Codex conversations: find what you discussed with your AI by word or phrase and reread it without the noise, from the window, the terminal or your own AI via MCP. No network.
+- **[Mirlo](https://github.com/D4vRAM369/Mirlo-desktop)** <img src="https://img.shields.io/github/stars/D4vRAM369/Mirlo-desktop?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Local vault for your X/Twitter bookmarks: keeps the text, photos and videos on your disk, with collections, tags, FTS5 search and import/export. No account, no cloud.
 - **[PlaudVault](https://github.com/D4vRAM369/PlaudVault)** <img src="https://img.shields.io/github/stars/D4vRAM369/PlaudVault?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Local, encrypted vault for Plaud Note and other voice recordings: import your history (audio, transcripts, notes, infographics), transcribe offline with Whisper and full-text search it with SQLite FTS5. No cloud.
 - **[Vaso de contexto](https://github.com/D4vRAM369/vaso-de-contexto)** <img src="https://img.shields.io/github/stars/D4vRAM369/vaso-de-contexto?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Local context meter for your Claude Code sessions: a glass of water that fills up and tells you when to `/compact` or `/clear`. Ships with a Linux Mint Cinnamon panel applet.
 - **[PBL Project Chronicler](https://github.com/D4vRAM369/pbl-project-chronicler)** <img src="https://img.shields.io/github/stars/D4vRAM369/pbl-project-chronicler?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Skill for Claude Code, Codex and OpenCode that turns every dev session into learning docs: glossary, reproducible step-by-step, errors and fixes.
