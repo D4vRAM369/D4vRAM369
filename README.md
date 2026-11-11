@@ -106,9 +106,10 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 </table>
 
 <details open>
-<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+15 más</sub></summary>
+<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+16 más</sub></summary>
 <br>
 
+- **[Playmax → Showly](https://github.com/D4vRAM369/playmax-to-showly)** <img src="https://img.shields.io/github/stars/D4vRAM369/playmax-to-showly?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Pipeline en Python para llevarte tu historial de Playmax a Showly: series, películas, episodios vistos, pendientes y notas, en un archivo listo para importar. Te dice además qué no se pudo pasar.
 - **[Mirlo](https://github.com/D4vRAM369/Mirlo-desktop)** <img src="https://img.shields.io/github/stars/D4vRAM369/Mirlo-desktop?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Vault local para tus guardados de X/Twitter: conserva en tu disco el texto, las fotos y los vídeos, con colecciones, etiquetas, búsqueda FTS5 e importación y exportación. Sin cuenta, sin nube.
 - **[PlaudVault](https://github.com/D4vRAM369/PlaudVault)** <img src="https://img.shields.io/github/stars/D4vRAM369/PlaudVault?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Baúl local y cifrado para grabaciones de Plaud Note y otros audios: importa tu historial (audio, transcripciones, notas, infografías), transcribe offline con Whisper y busca en todo con SQLite FTS5. Sin nube.
 - **[Vaso de contexto](https://github.com/D4vRAM369/vaso-de-contexto)** <img src="https://img.shields.io/github/stars/D4vRAM369/vaso-de-contexto?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Medidor local del contexto de tus sesiones de Claude Code: un vaso de agua que se llena y te avisa de cuándo toca `/compact` o `/clear`. Con applet de panel para Linux Mint Cinnamon.
