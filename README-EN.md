@@ -38,14 +38,15 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 
 <table>
 <tr><td width="50%" valign="top">
-<a href="https://github.com/D4vRAM369/Nisaba"><img src="assets/card-nisaba-en.svg" width="100%" alt="Nisaba"></a>
+<a href="https://github.com/D4vRAM369/spicetify-vibemusic"><img src="assets/card-vibemusic-en.svg" width="100%" alt="Vibemusic"></a>
 <p>
-<img src="https://img.shields.io/github/stars/D4vRAM369/Nisaba?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
-<img src="https://img.shields.io/github/last-commit/D4vRAM369/Nisaba?style=flat-square&color=FFB000&labelColor=0E0B16&label=updated" alt="last commit">
-<img src="https://img.shields.io/badge/License-GPLv3-FFB000?style=flat-square&logo=gnu&logoColor=FFB000&labelColor=0E0B16" alt="License: GPLv3">
+<img src="https://img.shields.io/github/stars/D4vRAM369/spicetify-vibemusic?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
+<img src="https://img.shields.io/github/last-commit/D4vRAM369/spicetify-vibemusic?style=flat-square&color=FFB000&labelColor=0E0B16&label=updated" alt="last commit">
+<img src="https://img.shields.io/badge/License-MIT-FFB000?style=flat-square&labelColor=0E0B16" alt="License: MIT">
 </p>
-<p><img src="https://img.shields.io/badge/Rust-0E0B16?style=flat-square&logo=rust&logoColor=FFB000" alt="Rust"> <img src="https://img.shields.io/badge/Tauri-0E0B16?style=flat-square&logo=tauri&logoColor=FFB000" alt="Tauri"> <img src="https://img.shields.io/badge/Svelte-0E0B16?style=flat-square&logo=svelte&logoColor=FFB000" alt="Svelte"> <img src="https://img.shields.io/badge/SQLite-0E0B16?style=flat-square&logo=sqlite&logoColor=FFB000" alt="SQLite"> <img src="https://img.shields.io/badge/MCP-0E0B16?style=flat-square&logo=modelcontextprotocol&logoColor=FFB000" alt="MCP"></p>
-<p><b>The problem:</b> What I learn and decide with AIs ends up scattered across tools, and Claude Code deletes sessions older than 30 days by default.<br><b>What I built:</b> A local vault that indexes your Claude Code, Codex, Claude.ai and ChatGPT conversations so you can search and reread them without noise from a desktop app, the terminal or your AI via MCP. No network.</p>
+<p><img src="https://img.shields.io/badge/JavaScript-0E0B16?style=flat-square&logo=javascript&logoColor=FFB000" alt="JavaScript"> <img src="https://img.shields.io/badge/Spicetify-0E0B16?style=flat-square&logo=spotify&logoColor=FFB000" alt="Spicetify"> <img src="https://img.shields.io/badge/Spotify-0E0B16?style=flat-square&logo=spotify&logoColor=FFB000" alt="Spotify"> <img src="https://img.shields.io/badge/Gemini-0E0B16?style=flat-square&logo=googlegemini&logoColor=FFB000" alt="Gemini"></p>
+<p><b>The problem:</b> Asking an AI for "a 2000s Spanish indie playlist" usually ends with made-up songs or tracks that aren't on Spotify.<br><b>What I built:</b> A Spicetify extension that understands what you ask for in your own words, searches real candidates in the catalog and lets the AI pick among them. It creates a private playlist and starts playing it, using free Gemini, Groq or OpenRouter keys.</p>
+
 
 </td><td width="50%" valign="top">
 <a href="https://github.com/D4vRAM369/aranceless-userscript"><img src="assets/card-aranceless-en.svg" width="100%" alt="AranceLess"></a>
@@ -105,9 +106,10 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 </table>
 
 <details open>
-<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+16 more</sub></summary>
+<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+17 more</sub></summary>
 <br>
 
+- **[Nisaba](https://github.com/D4vRAM369/Nisaba)** <img src="https://img.shields.io/github/stars/D4vRAM369/Nisaba?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Local vault for your Claude Code, Codex, Claude.ai and ChatGPT conversations: find what you discussed with your AI by word or phrase and reread it without the noise, from the window, the terminal or your own AI via MCP. No network.
 - **[Playmax → Showly](https://github.com/D4vRAM369/playmax-to-showly)** <img src="https://img.shields.io/github/stars/D4vRAM369/playmax-to-showly?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Python pipeline that moves your Playmax history into Showly: shows, movies, watched episodes, watchlist and ratings, in a file ready to import. It also tells you what couldn't be carried over.
 - **[Mirlo](https://github.com/D4vRAM369/Mirlo-desktop)** <img src="https://img.shields.io/github/stars/D4vRAM369/Mirlo-desktop?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Local vault for your X/Twitter bookmarks: keeps the text, photos and videos on your disk, with collections, tags, FTS5 search and import/export. No account, no cloud.
 - **[PlaudVault](https://github.com/D4vRAM369/PlaudVault)** <img src="https://img.shields.io/github/stars/D4vRAM369/PlaudVault?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Local, encrypted vault for Plaud Note and other voice recordings: import your history (audio, transcripts, notes, infographics), transcribe offline with Whisper and full-text search it with SQLite FTS5. No cloud.
