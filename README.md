@@ -39,14 +39,15 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 
 <table>
 <tr><td width="50%" valign="top">
-<a href="https://github.com/D4vRAM369/Nisaba"><img src="assets/card-nisaba.svg" width="100%" alt="Nisaba"></a>
+<a href="https://github.com/D4vRAM369/spicetify-vibemusic"><img src="assets/card-vibemusic.svg" width="100%" alt="Vibemusic"></a>
 <p>
-<img src="https://img.shields.io/github/stars/D4vRAM369/Nisaba?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
-<img src="https://img.shields.io/github/last-commit/D4vRAM369/Nisaba?style=flat-square&color=FFB000&labelColor=0E0B16&label=actualizado" alt="last commit">
-<img src="https://img.shields.io/badge/License-GPLv3-FFB000?style=flat-square&logo=gnu&logoColor=FFB000&labelColor=0E0B16" alt="License: GPLv3">
+<img src="https://img.shields.io/github/stars/D4vRAM369/spicetify-vibemusic?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
+<img src="https://img.shields.io/github/last-commit/D4vRAM369/spicetify-vibemusic?style=flat-square&color=FFB000&labelColor=0E0B16&label=actualizado" alt="last commit">
+<img src="https://img.shields.io/badge/License-MIT-FFB000?style=flat-square&labelColor=0E0B16" alt="License: MIT">
 </p>
-<p><img src="https://img.shields.io/badge/Rust-0E0B16?style=flat-square&logo=rust&logoColor=FFB000" alt="Rust"> <img src="https://img.shields.io/badge/Tauri-0E0B16?style=flat-square&logo=tauri&logoColor=FFB000" alt="Tauri"> <img src="https://img.shields.io/badge/Svelte-0E0B16?style=flat-square&logo=svelte&logoColor=FFB000" alt="Svelte"> <img src="https://img.shields.io/badge/SQLite-0E0B16?style=flat-square&logo=sqlite&logoColor=FFB000" alt="SQLite"> <img src="https://img.shields.io/badge/MCP-0E0B16?style=flat-square&logo=modelcontextprotocol&logoColor=FFB000" alt="MCP"></p>
-<p><b>El problema:</b> Lo que aprendo y decido con las IAs queda repartido entre herramientas, y Claude Code borra por defecto las sesiones de más de 30 días.<br><b>Lo que hice:</b> Una bóveda local que indexa tus conversaciones con Claude Code, Codex, Claude.ai y ChatGPT para buscarlas y releerlas sin ruido desde la ventana, la terminal o tu IA vía MCP. Sin red.</p>
+<p><img src="https://img.shields.io/badge/JavaScript-0E0B16?style=flat-square&logo=javascript&logoColor=FFB000" alt="JavaScript"> <img src="https://img.shields.io/badge/Spicetify-0E0B16?style=flat-square&logo=spotify&logoColor=FFB000" alt="Spicetify"> <img src="https://img.shields.io/badge/Spotify-0E0B16?style=flat-square&logo=spotify&logoColor=FFB000" alt="Spotify"> <img src="https://img.shields.io/badge/Gemini-0E0B16?style=flat-square&logo=googlegemini&logoColor=FFB000" alt="Gemini"></p>
+<p><b>El problema:</b> Pedirle a una IA "una playlist de indie español de los 2000" suele acabar con canciones inventadas o que no están en Spotify.<br><b>Lo que hice:</b> Una extensión para Spicetify que entiende lo que pides con tus palabras, busca candidatas reales en el catálogo y deja que la IA elija entre ellas. Crea la playlist privada y la pone a sonar, con claves gratis de Gemini, Groq u OpenRouter.</p>
+
 
 </td><td width="50%" valign="top">
 <a href="https://github.com/D4vRAM369/aranceless-userscript"><img src="assets/card-aranceless.svg" width="100%" alt="AranceLess"></a>
@@ -106,9 +107,10 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 </table>
 
 <details open>
-<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+16 más</sub></summary>
+<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+17 más</sub></summary>
 <br>
 
+- **[Nisaba](https://github.com/D4vRAM369/Nisaba)** <img src="https://img.shields.io/github/stars/D4vRAM369/Nisaba?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Bóveda local de tus conversaciones con Claude Code, Codex, Claude.ai y ChatGPT: encuentra por palabra o frase lo que hablaste con tu IA y reléelo sin ruido, desde la ventana, la terminal o tu propia IA vía MCP. Sin red.
 - **[Playmax → Showly](https://github.com/D4vRAM369/playmax-to-showly)** <img src="https://img.shields.io/github/stars/D4vRAM369/playmax-to-showly?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Pipeline en Python para llevarte tu historial de Playmax a Showly: series, películas, episodios vistos, pendientes y notas, en un archivo listo para importar. Te dice además qué no se pudo pasar.
 - **[Mirlo](https://github.com/D4vRAM369/Mirlo-desktop)** <img src="https://img.shields.io/github/stars/D4vRAM369/Mirlo-desktop?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Vault local para tus guardados de X/Twitter: conserva en tu disco el texto, las fotos y los vídeos, con colecciones, etiquetas, búsqueda FTS5 e importación y exportación. Sin cuenta, sin nube.
 - **[PlaudVault](https://github.com/D4vRAM369/PlaudVault)** <img src="https://img.shields.io/github/stars/D4vRAM369/PlaudVault?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Baúl local y cifrado para grabaciones de Plaud Note y otros audios: importa tu historial (audio, transcripciones, notas, infografías), transcribe offline con Whisper y busca en todo con SQLite FTS5. Sin nube.
