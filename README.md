@@ -107,9 +107,10 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 </table>
 
 <details open>
-<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+18 más</sub></summary>
+<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+19 más</sub></summary>
 <br>
 
+- **[InSalud](https://github.com/D4vRAM369/InSalud)** <img src="https://img.shields.io/github/stars/D4vRAM369/InSalud?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Plataforma ciudadana de defensa sanitaria en Gran Canaria: denuncia anónima de incidencias en el SCS, listado público por centro y guía para presentar la reclamación formal ante el organismo correcto (Decreto 8/2025), sin pedir nunca DNI ni Cl@ve. **Es una demo, pero ya es funcional:** [pruébala aquí](https://insalud-gc.vercel.app).
 - **[Venice AI Exporter](https://github.com/D4vRAM369/VeniceAI-exporter)** <img src="https://img.shields.io/github/stars/D4vRAM369/VeniceAI-exporter?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Userscript que añade un botón Exportar a Venice AI para guardar la conversación en Markdown o PDF, en el chat agéntico y en el clásico. Instalable desde [Greasy Fork](https://greasyfork.org/es/scripts/605398-venice-ai-exporter-markdown-pdf).
 - **[Nisaba](https://github.com/D4vRAM369/Nisaba)** <img src="https://img.shields.io/github/stars/D4vRAM369/Nisaba?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Bóveda local de tus conversaciones con Claude Code, Codex, Claude.ai y ChatGPT: encuentra por palabra o frase lo que hablaste con tu IA y reléelo sin ruido, desde la ventana, la terminal o tu propia IA vía MCP. Sin red.
 - **[Playmax → Showly](https://github.com/D4vRAM369/playmax-to-showly)** <img src="https://img.shields.io/github/stars/D4vRAM369/playmax-to-showly?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Pipeline en Python para llevarte tu historial de Playmax a Showly: series, películas, episodios vistos, pendientes y notas, en un archivo listo para importar. Te dice además qué no se pudo pasar.
