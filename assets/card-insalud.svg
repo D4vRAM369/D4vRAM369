@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200">
+<rect x="0.5" y="0.5" width="479" height="199" rx="12" fill="#0E0B16" stroke="#2A2238"></rect>
+<path d="M12 .5h456a11.5 11.5 0 0 1 11.5 11.5v20H.5V12A11.5 11.5 0 0 1 12 .5z" fill="#16111F"></path>
+<circle cx="20" cy="16" r="4" fill="#2A2238"></circle><circle cx="34" cy="16" r="4" fill="#2A2238"></circle><circle cx="48" cy="16" r="4" fill="#2A2238"></circle>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace"><text x="466" y="21" text-anchor="end" font-size="11" fill="#8C7FA3">insalud — civic-tech</text>
+<text x="24" y="76" font-size="28" font-weight="700" fill="#F4E9D0">InSalud</text>
+<text x="24" y="102" font-size="13" fill="#FFB000">JavaScript · SCS · Decreto 8/2025</text>
+<g stroke="#FFB000" stroke-width="1.5" fill="none"><rect x="24" y="120" width="38" height="38" rx="6"></rect><path d="M43 128v22M32 139h22" stroke-width="2.5"></path></g>
+<g fill="#3A3150"><rect x="70" y="122" width="110" height="8" rx="3"></rect><rect x="70" y="136" width="84" height="8" rx="3"></rect><rect x="70" y="150" width="96" height="8" rx="3"></rect></g>
+<text x="24" y="186" font-size="11" fill="#8C7FA3">Gran Canaria · ODDUS</text><text x="456" y="146" text-anchor="end" font-size="11" fill="#8C7FA3">denuncia anónima</text><text x="456" y="166" text-anchor="end" font-size="11" fill="#8C7FA3">sin DNI ni Cl@ve</text><text x="456" y="186" text-anchor="end" font-size="11" fill="#FFB000">demo funcional</text></g></svg>
