@@ -50,14 +50,14 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 
 
 </td><td width="50%" valign="top">
-<a href="https://github.com/D4vRAM369/aranceless-userscript"><img src="assets/card-aranceless.svg" width="100%" alt="AranceLess"></a>
+<a href="https://github.com/D4vRAM369/OurSecret-Linux-port"><img src="assets/card-oursecret.svg" width="100%" alt="OurSecret-Linux port"></a>
 <p>
-<img src="https://img.shields.io/github/stars/D4vRAM369/aranceless-userscript?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
-<img src="https://img.shields.io/greasyfork/dt/602577?style=flat-square&color=FFB000&labelColor=0E0B16&label=instalaciones" alt="instalaciones">
+<img src="https://img.shields.io/github/stars/D4vRAM369/OurSecret-Linux-port?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
+<img src="https://img.shields.io/github/last-commit/D4vRAM369/OurSecret-Linux-port?style=flat-square&color=FFB000&labelColor=0E0B16&label=actualizado" alt="last commit">
 <img src="https://img.shields.io/badge/License-MIT-FFB000?style=flat-square&labelColor=0E0B16" alt="License: MIT">
 </p>
-<p><img src="https://img.shields.io/badge/JavaScript-0E0B16?style=flat-square&logo=javascript&logoColor=FFB000" alt="JavaScript"> <img src="https://img.shields.io/badge/Tampermonkey-0E0B16?style=flat-square&logo=tampermonkey&logoColor=FFB000" alt="Tampermonkey"> <img src="https://img.shields.io/badge/Greasy%20Fork-0E0B16?style=flat-square&logo=greasyfork&logoColor=FFB000" alt="Greasy Fork"></p>
-<p><b>El problema:</b> Desde julio de 2026 la UE cobra unos 3 € de arancel por artículo en compras de fuera, y AliExpress y Temu mezclan ese stock con el de sus almacenes europeos.<br><b>Lo que hice:</b> Un userscript que oculta lo que pagaría la tasa y marca con 🇪🇺 lo que sale desde la UE. Sin peticiones de red. <a href="https://greasyfork.org/es/scripts/602577-aranceless-solo-stock-ue-en-aliexpress-y-temu">Greasy Fork</a>.</p>
+<p><img src="https://img.shields.io/badge/Rust-0E0B16?style=flat-square&logo=rust&logoColor=FFB000" alt="Rust"> <img src="https://img.shields.io/badge/Tauri-0E0B16?style=flat-square&logo=tauri&logoColor=FFB000" alt="Tauri"> <img src="https://img.shields.io/badge/AES--256--GCM-0E0B16?style=flat-square&logo=letsencrypt&logoColor=FFB000" alt="AES-256-GCM"> <img src="https://img.shields.io/badge/Argon2id-0E0B16?style=flat-square&logo=bitwarden&logoColor=FFB000" alt="Argon2id"></p>
+<p><b>¿Por qué existe?</b> Hace años, cuando empezaba a trastear con esteganografía en Windows, usaba mucho el <i>OurSecret</i> original; hoy lleva tiempo discontinuado y sin soporte moderno.<br><b>Qué hice:</b> Una reimplementación <i>clean-room</i> desde cero en Rust para Linux (además de Windows y macOS), con CLI y GUI Tauri bilingüe (<code>ES</code>/<code>EN</code>), criptografía actual (Argon2id + BLAKE2b + AES-256-GCM) y modos <code>append</code> y <code>lsb</code> (±1 matching). No comparte código ni formato con el original: solo la inspiración.</p>
 
 </td></tr>
 <tr><td width="50%" valign="top">
@@ -107,9 +107,10 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 </table>
 
 <details open>
-<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+21 más</sub></summary>
+<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+22 más</sub></summary>
 <br>
 
+- **[AranceLess](https://github.com/D4vRAM369/aranceless-userscript)** (userscript) <img src="https://img.shields.io/github/stars/D4vRAM369/aranceless-userscript?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Userscript para AliExpress y Temu que oculta los artículos sujetos al arancel UE de ~3 € y marca con 🇪🇺 los que envían desde almacén europeo. Sin peticiones de red. Instalable desde [Greasy Fork](https://greasyfork.org/es/scripts/602577-aranceless-solo-stock-ue-en-aliexpress-y-temu).
 - **[InSalud](https://github.com/D4vRAM369/InSalud)** <img src="https://img.shields.io/github/stars/D4vRAM369/InSalud?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Plataforma ciudadana de defensa sanitaria en Gran Canaria: denuncia anónima de incidencias en el SCS, listado público por centro y guía para presentar la reclamación formal ante el organismo correcto (Decreto 8/2025), sin pedir nunca DNI ni Cl@ve. **Es una demo, pero ya es funcional:** [pruébala aquí](https://insalud-lpgc.vercel.app).
 - **[Venice AI Exporter](https://github.com/D4vRAM369/VeniceAI-exporter)** <img src="https://img.shields.io/github/stars/D4vRAM369/VeniceAI-exporter?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Userscript que añade un botón Exportar a Venice AI para guardar la conversación en Markdown o PDF, en el chat agéntico y en el clásico. Instalable desde [Greasy Fork](https://greasyfork.org/es/scripts/605398-venice-ai-exporter-markdown-pdf).
 - **[Nisaba](https://github.com/D4vRAM369/Nisaba)** <img src="https://img.shields.io/github/stars/D4vRAM369/Nisaba?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Bóveda local de tus conversaciones con Claude Code, Codex, Claude.ai y ChatGPT: encuentra por palabra o frase lo que hablaste con tu IA y reléelo sin ruido, desde la ventana, la terminal o tu propia IA vía MCP. Sin red.
