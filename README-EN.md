@@ -38,17 +38,6 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 
 <table>
 <tr><td width="50%" valign="top">
-<a href="https://github.com/D4vRAM369/spicetify-vibemusic"><img src="assets/card-vibemusic-en.svg" width="100%" alt="Vibemusic"></a>
-<p>
-<img src="https://img.shields.io/github/stars/D4vRAM369/spicetify-vibemusic?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
-<img src="https://img.shields.io/github/last-commit/D4vRAM369/spicetify-vibemusic?style=flat-square&color=FFB000&labelColor=0E0B16&label=updated" alt="last commit">
-<img src="https://img.shields.io/badge/License-MIT-FFB000?style=flat-square&labelColor=0E0B16" alt="License: MIT">
-</p>
-<p><img src="https://img.shields.io/badge/JavaScript-0E0B16?style=flat-square&logo=javascript&logoColor=FFB000" alt="JavaScript"> <img src="https://img.shields.io/badge/Spicetify-0E0B16?style=flat-square&logo=spotify&logoColor=FFB000" alt="Spicetify"> <img src="https://img.shields.io/badge/Spotify-0E0B16?style=flat-square&logo=spotify&logoColor=FFB000" alt="Spotify"> <img src="https://img.shields.io/badge/Gemini-0E0B16?style=flat-square&logo=googlegemini&logoColor=FFB000" alt="Gemini"></p>
-<p><b>The problem:</b> Asking an AI for "a 2000s Spanish indie playlist" usually ends with made-up songs or tracks that aren't on Spotify.<br><b>What I built:</b> A Spicetify extension that understands what you ask for in your own words, searches real candidates in the catalog and lets the AI pick among them. It creates a private playlist and starts playing it, using free Gemini, Groq or OpenRouter keys.</p>
-
-
-</td><td width="50%" valign="top">
 <a href="https://github.com/D4vRAM369/OurSecret-Linux-port"><img src="assets/card-oursecret-en.svg" width="100%" alt="OurSecret-Linux port"></a>
 <p>
 <img src="https://img.shields.io/github/stars/D4vRAM369/OurSecret-Linux-port?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
@@ -57,6 +46,16 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 </p>
 <p><img src="https://img.shields.io/badge/Rust-0E0B16?style=flat-square&logo=rust&logoColor=FFB000" alt="Rust"> <img src="https://img.shields.io/badge/Tauri-0E0B16?style=flat-square&logo=tauri&logoColor=FFB000" alt="Tauri"> <img src="https://img.shields.io/badge/AES--256--GCM-0E0B16?style=flat-square&logo=letsencrypt&logoColor=FFB000" alt="AES-256-GCM"> <img src="https://img.shields.io/badge/Argon2id-0E0B16?style=flat-square&logo=bitwarden&logoColor=FFB000" alt="Argon2id"></p>
 <p><b>Why it exists:</b> Years ago, when I was first learning steganography on Windows, I used the original <i>OurSecret</i>; today it is discontinued and lacks modern security.<br><b>What I built:</b> A clean-room reimplementation from scratch in Rust for Linux (as well as Windows and macOS), with a CLI, a bilingual (<code>EN</code>/<code>ES</code>) Tauri GUI, modern crypto (Argon2id + BLAKE2b + AES-256-GCM), and <code>append</code> / <code>lsb</code> (±1 matching) modes. It shares zero code or format with the original — only the inspiration.</p>
+
+</td><td width="50%" valign="top">
+<a href="https://github.com/D4vRAM369/spicetify-vibemusic"><img src="assets/card-vibemusic-en.svg" width="100%" alt="Vibemusic"></a>
+<p>
+<img src="https://img.shields.io/github/stars/D4vRAM369/spicetify-vibemusic?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
+<img src="https://img.shields.io/github/last-commit/D4vRAM369/spicetify-vibemusic?style=flat-square&color=FFB000&labelColor=0E0B16&label=updated" alt="last commit">
+<img src="https://img.shields.io/badge/License-MIT-FFB000?style=flat-square&labelColor=0E0B16" alt="License: MIT">
+</p>
+<p><img src="https://img.shields.io/badge/JavaScript-0E0B16?style=flat-square&logo=javascript&logoColor=FFB000" alt="JavaScript"> <img src="https://img.shields.io/badge/Spicetify-0E0B16?style=flat-square&logo=spotify&logoColor=FFB000" alt="Spicetify"> <img src="https://img.shields.io/badge/Spotify-0E0B16?style=flat-square&logo=spotify&logoColor=FFB000" alt="Spotify"> <img src="https://img.shields.io/badge/Gemini-0E0B16?style=flat-square&logo=googlegemini&logoColor=FFB000" alt="Gemini"></p>
+<p><b>The problem:</b> Asking an AI for "a 2000s Spanish indie playlist" usually ends with made-up songs or tracks that aren't on Spotify.<br><b>What I built:</b> A Spicetify extension that understands what you ask for in your own words, searches real candidates in the catalog and lets the AI pick among them. It creates a private playlist and starts playing it, using free Gemini, Groq or OpenRouter keys.</p>
 
 </td></tr>
 <tr><td width="50%" valign="top">
