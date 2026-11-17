@@ -142,10 +142,10 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 
 <p align="center"><sub><code>lenguajes</code></sub><br>
 <img src="https://img.shields.io/badge/Kotlin-0E0B16?style=for-the-badge&logo=kotlin&logoColor=FFB000">
-<img src="https://img.shields.io/badge/Rust-0E0B16?style=for-the-badge&logo=rust&logoColor=FFB000">
 <img src="https://img.shields.io/badge/Python-0E0B16?style=for-the-badge&logo=python&logoColor=FFB000">
 <img src="https://img.shields.io/badge/TypeScript-0E0B16?style=for-the-badge&logo=typescript&logoColor=FFB000">
 <img src="https://img.shields.io/badge/JavaScript-0E0B16?style=for-the-badge&logo=javascript&logoColor=FFB000">
+<img src="https://img.shields.io/badge/Rust-0E0B16?style=for-the-badge&logo=rust&logoColor=FFB000">
 <img src="https://img.shields.io/badge/Bash-0E0B16?style=for-the-badge&logo=gnubash&logoColor=FFB000">
 <img src="https://img.shields.io/badge/Java-0E0B16?style=for-the-badge&logo=openjdk&logoColor=FFB000">
 <img src="https://img.shields.io/badge/HTML-0E0B16?style=for-the-badge&logo=html5&logoColor=FFB000">
