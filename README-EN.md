@@ -55,7 +55,7 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 <img src="https://img.shields.io/badge/License-MIT-FFB000?style=flat-square&labelColor=0E0B16" alt="License: MIT">
 </p>
 <p><img src="https://img.shields.io/badge/JavaScript-0E0B16?style=flat-square&logo=javascript&logoColor=FFB000" alt="JavaScript"> <img src="https://img.shields.io/badge/Vercel-0E0B16?style=flat-square&logo=vercel&logoColor=FFB000" alt="Vercel"> <img src="https://img.shields.io/badge/Civic%20Tech-0E0B16?style=flat-square&logo=openstreetmap&logoColor=FFB000" alt="Civic Tech"></p>
-<p><b>The problem:</b> Reporting issues in the Canary Islands public health service (SCS) often gets lost in confusing forms and fear of being identified.<br><b>What I built:</b> A civic platform in Gran Canaria with anonymous reports, a public list by health centre, and legal guidance to the right body (Decree 8/2025), never asking for ID or Cl@ve. <a href="https://insalud-lpgc.vercel.app">Try it here</a>.</p>
+<p><b>The problem:</b> Reporting issues in the Canary Islands public health service (SCS) often gets lost in confusing forms, and there is no place where people can share their cases anonymously.<br><b>What I built:</b> A civic platform in Gran Canaria with anonymous reports, a public list by health centre, and legal guidance to the right body (Decree 8/2025), never asking for ID or Cl@ve. <a href="https://insalud-lpgc.vercel.app">Try it here</a>.</p>
 
 </td></tr>
 <tr><td width="50%" valign="top">

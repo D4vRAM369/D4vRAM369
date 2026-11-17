@@ -56,7 +56,7 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 <img src="https://img.shields.io/badge/License-MIT-FFB000?style=flat-square&labelColor=0E0B16" alt="License: MIT">
 </p>
 <p><img src="https://img.shields.io/badge/JavaScript-0E0B16?style=flat-square&logo=javascript&logoColor=FFB000" alt="JavaScript"> <img src="https://img.shields.io/badge/Vercel-0E0B16?style=flat-square&logo=vercel&logoColor=FFB000" alt="Vercel"> <img src="https://img.shields.io/badge/Civic%20Tech-0E0B16?style=flat-square&logo=openstreetmap&logoColor=FFB000" alt="Civic Tech"></p>
-<p><b>El problema:</b> Reclamar incidencias en la sanidad pública canaria (SCS) suele perderse entre formularios confusos y miedo a identificarse.<br><b>Lo que hice:</b> Plataforma ciudadana en Gran Canaria con denuncia anónima, listado público por centro y guía legal hacia el organismo correcto (Decreto 8/2025), sin pedir nunca DNI ni Cl@ve. <a href="https://insalud-lpgc.vercel.app">Pruébala aquí</a>.</p>
+<p><b>El problema:</b> Reclamar incidencias en la sanidad pública canaria (SCS) suele perderse entre formularios confusos, y no hay un lugar donde las personas puedan visibilizar sus casos de forma anónima.<br><b>Lo que hice:</b> Plataforma ciudadana en Gran Canaria con denuncia anónima, listado público por centro y guía legal hacia el organismo correcto (Decreto 8/2025), sin pedir nunca DNI ni Cl@ve. <a href="https://insalud-lpgc.vercel.app">Pruébala aquí</a>.</p>
 
 </td></tr>
 <tr><td width="50%" valign="top">
