@@ -141,6 +141,7 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 
 <p align="center"><sub><code>lenguajes</code></sub><br>
 <img src="https://img.shields.io/badge/Kotlin-0E0B16?style=for-the-badge&logo=kotlin&logoColor=FFB000">
+<img src="https://img.shields.io/badge/Rust-0E0B16?style=for-the-badge&logo=rust&logoColor=FFB000">
 <img src="https://img.shields.io/badge/Python-0E0B16?style=for-the-badge&logo=python&logoColor=FFB000">
 <img src="https://img.shields.io/badge/TypeScript-0E0B16?style=for-the-badge&logo=typescript&logoColor=FFB000">
 <img src="https://img.shields.io/badge/JavaScript-0E0B16?style=for-the-badge&logo=javascript&logoColor=FFB000">
@@ -211,7 +212,7 @@ Tell me about your idea on Telegram and let's talk.
 
 <p align="center">
 <img height="165" src="https://d4vram-github-readme-stats.vercel.app/api?username=D4vRAM369&show_icons=true&hide_border=true&bg_color=0E0B16&title_color=FFB000&text_color=F4E9D0&icon_color=FFB000" alt="GitHub stats">
-<img height="165" src="https://d4vram-github-readme-stats.vercel.app/api/top-langs/?username=D4vRAM369&layout=compact&hide_border=true&bg_color=0E0B16&title_color=FFB000&text_color=F4E9D0&icon_color=FFB000" alt="Top languages">
+<img height="165" src="https://d4vram-github-readme-stats.vercel.app/api/top-langs/?username=D4vRAM369&layout=compact&hide_border=true&bg_color=0E0B16&title_color=FFB000&text_color=F4E9D0&icon_color=FFB000&cache_seconds=1800" alt="Top languages">
 </p>
 
 </details>
