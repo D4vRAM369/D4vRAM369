@@ -15,7 +15,7 @@
 <a href="https://www.reddit.com/user/D4vRAM/"><img src="https://img.shields.io/badge/Reddit-u%2FD4vRAM-FFB000?style=for-the-badge&logo=reddit&logoColor=FFB000&labelColor=0E0B16" alt="Reddit"></a>
 </p>
 
-<p align="center"><sub><a href="README-EN.md">English</a> · <b>Español</b></sub></p>
+<p align="center"><sub><a href="README.md">English</a> · <b>Español</b></sub></p>
 
 <p align="center"><sub>Esto es una terminal: pulsa cada comando para abrirlo o cerrarlo.</sub></p>
 
