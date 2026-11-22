@@ -49,14 +49,14 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 <p><b>¿Por qué existe?</b> Hace años, cuando empezaba a trastear con esteganografía en Windows, usaba mucho el <i>OurSecret</i> original; hoy lleva tiempo discontinuado y sin soporte moderno.<br><b>Qué hice:</b> Una reimplementación <i>clean-room</i> desde cero en Rust para Linux (además de Windows y macOS), con CLI y GUI Tauri bilingüe (<code>ES</code>/<code>EN</code>), criptografía actual (Argon2id + BLAKE2b + AES-256-GCM) y modos <code>append</code> y <code>lsb</code> (±1 matching). No comparte código ni formato con el original: solo la inspiración.</p>
 
 </td><td width="50%" valign="top">
-<a href="https://github.com/D4vRAM369/InSalud"><img src="assets/card-insalud.svg" width="100%" alt="InSalud"></a>
+<a href="https://github.com/D4vRAM369/Mirlo-desktop"><img src="assets/card-mirlo.svg" width="100%" alt="Mirlo"></a>
 <p>
-<img src="https://img.shields.io/github/stars/D4vRAM369/InSalud?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
-<img src="https://img.shields.io/github/last-commit/D4vRAM369/InSalud?style=flat-square&color=FFB000&labelColor=0E0B16&label=actualizado" alt="last commit">
-<img src="https://img.shields.io/badge/License-MIT-FFB000?style=flat-square&labelColor=0E0B16" alt="License: MIT">
+<img src="https://img.shields.io/github/stars/D4vRAM369/Mirlo-desktop?style=flat-square&color=FFB000&labelColor=0E0B16&logo=github&logoColor=FFB000" alt="stars">
+<img src="https://img.shields.io/github/last-commit/D4vRAM369/Mirlo-desktop?style=flat-square&color=FFB000&labelColor=0E0B16&label=actualizado" alt="last commit">
+<img src="https://img.shields.io/badge/License-GPLv3-FFB000?style=flat-square&logo=gnu&logoColor=FFB000&labelColor=0E0B16" alt="License: GPLv3">
 </p>
-<p><img src="https://img.shields.io/badge/JavaScript-0E0B16?style=flat-square&logo=javascript&logoColor=FFB000" alt="JavaScript"> <img src="https://img.shields.io/badge/Vercel-0E0B16?style=flat-square&logo=vercel&logoColor=FFB000" alt="Vercel"> <img src="https://img.shields.io/badge/Civic%20Tech-0E0B16?style=flat-square&logo=openstreetmap&logoColor=FFB000" alt="Civic Tech"></p>
-<p><b>El problema:</b> Reclamar incidencias en la sanidad pública canaria (SCS) suele perderse entre formularios confusos, y no hay un lugar donde las personas puedan visibilizar sus casos de forma anónima.<br><b>Lo que hice:</b> Plataforma ciudadana en Gran Canaria con denuncia anónima, listado público por centro y guía legal hacia el organismo correcto (Decreto 8/2025), sin pedir nunca DNI ni Cl@ve. <a href="https://insalud-lpgc.vercel.app">Pruébala aquí</a>.</p>
+<p><img src="https://img.shields.io/badge/Rust-0E0B16?style=flat-square&logo=rust&logoColor=FFB000" alt="Rust"> <img src="https://img.shields.io/badge/Tauri-0E0B16?style=flat-square&logo=tauri&logoColor=FFB000" alt="Tauri"> <img src="https://img.shields.io/badge/Svelte-0E0B16?style=flat-square&logo=svelte&logoColor=FFB000" alt="Svelte"> <img src="https://img.shields.io/badge/SQLite-0E0B16?style=flat-square&logo=sqlite&logoColor=FFB000" alt="SQLite"></p>
+<p><b>El problema:</b> Muchas veces quería conservar fuera de Twitter los posts que metía en Guardados y organizarlos mejor, sin perder sus fotos y vídeos.<br><b>Lo que hice:</b> Un vault inspirado en <a href="https://github.com/D4vRAM369/ThreadsVault-desktop">ThreadsVault-desktop</a>, pero para X/Twitter: guarda en tu disco el texto, las fotos y los vídeos, con colecciones, etiquetas e importación y exportación.</p>
 
 </td></tr>
 <tr><td width="50%" valign="top">
