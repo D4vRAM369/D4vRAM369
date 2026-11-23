@@ -105,6 +105,9 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 </td></tr>
 </table>
 
+<p align="center"><img src="assets/mirlo-banner-es.png" width="100%" alt="Mirlo: tu bóveda local de posts de X"></p>
+<p align="center"><img src="assets/mirlo-share-menu-es.png" width="248" alt="Menú Compartir de X con la opción Enviar a Mirlo"></p>
+
 <details open>
 <summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+22 más</sub></summary>
 <br>

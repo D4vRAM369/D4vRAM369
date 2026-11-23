@@ -104,6 +104,9 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 </td></tr>
 </table>
 
+<p align="center"><img src="assets/mirlo-banner-en.png" width="100%" alt="Mirlo: your local vault for X posts"></p>
+<p align="center"><img src="assets/mirlo-share-menu-en.png" width="290" alt="X share menu with the Send to Mirlo option"></p>
+
 <details open>
 <summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+22 more</sub></summary>
 <br>
