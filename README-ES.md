@@ -105,18 +105,6 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 </td></tr>
 </table>
 
-<p align="center"><img src="assets/mirlo-banner-es.png" width="100%" alt="Mirlo: tu bóveda local de posts de X"></p>
-<table>
-<tr>
-<td width="50%"><img src="assets/mirlo-demo-search.jpg" width="100%" alt="Demo de Mirlo: búsqueda y filtros"></td>
-<td width="50%"><img src="assets/mirlo-demo-inbox.jpg" width="100%" alt="Demo de Mirlo: bandeja de posts guardados"></td>
-</tr>
-<tr>
-<td colspan="2"><img src="assets/mirlo-demo-history.jpg" width="100%" alt="Demo de Mirlo: historial de posts guardados"></td>
-</tr>
-</table>
-<p align="center"><img src="assets/mirlo-share-menu-es.png" width="248" alt="Menú Compartir de X con la opción Enviar a Mirlo"></p>
-
 <details open>
 <summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+22 más</sub></summary>
 <br>
