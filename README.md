@@ -105,6 +105,15 @@ Hi, I'm **D4vRAM**. Self-taught developer with a neurodivergent mind. I learn by
 </table>
 
 <p align="center"><img src="assets/mirlo-banner-en.png" width="100%" alt="Mirlo: your local vault for X posts"></p>
+<table>
+<tr>
+<td width="50%"><img src="assets/mirlo-demo-search.jpg" width="100%" alt="Mirlo demo: search and filters"></td>
+<td width="50%"><img src="assets/mirlo-demo-inbox.jpg" width="100%" alt="Mirlo demo: saved posts inbox"></td>
+</tr>
+<tr>
+<td colspan="2"><img src="assets/mirlo-demo-history.jpg" width="100%" alt="Mirlo demo: saved-post history"></td>
+</tr>
+</table>
 <p align="center"><img src="assets/mirlo-share-menu-en.png" width="290" alt="X share menu with the Send to Mirlo option"></p>
 
 <details open>
