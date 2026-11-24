@@ -106,15 +106,17 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 </table>
 
 <details open>
-<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+23 más</sub></summary>
+<summary><code>ls -a ~/public-projects</code> &nbsp;<sub>+25 más</sub></summary>
 <br>
 
 - **[InSalud](https://github.com/D4vRAM369/InSalud)** <img src="https://img.shields.io/github/stars/D4vRAM369/InSalud?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Plataforma ciudadana de defensa sanitaria en Gran Canaria (SCS): denuncia anónima, listado público por centro y guía legal hacia el organismo correcto, sin pedir nunca DNI ni Cl@ve. [Pruébala](https://insalud-lpgc.vercel.app).
 - **[AI2IA](https://github.com/D4vRAM369/AI2IA)** <img src="https://img.shields.io/github/stars/D4vRAM369/AI2IA?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Dos modelos de IA conversan entre sí y tú entras como observador. Solo navegador, con tu propia API key, sin servidor ni cookies.
 - **[Musical DNA](https://github.com/D4vRAM369/musical-dna_spicetify)** <img src="https://img.shields.io/github/stars/D4vRAM369/musical-dna_spicetify?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Extensión de Spicetify que enseña qué define tu gusto y sugiere canciones con un pequeño recomendador (bandido multibrazo) que aprende de tu historial. Cada sugerencia explica por qué está ahí. Todo local.
 - **[Listening Intelligence](https://github.com/D4vRAM369/listening-intelligence_spicetify)** <img src="https://img.shields.io/github/stars/D4vRAM369/listening-intelligence_spicetify?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Extensión de Spicetify que registra qué, cuándo y cómo escuchas en Spotify y te lo enseña en un panel: estadísticas, hábitos, tendencias, mapa de calor, canciones que siempre saltas y «Recuerdos» (qué sonaba entre dos fechas). Todo local, sin cuentas.
+- **[Venice AI Exporter](https://github.com/D4vRAM369/VeniceAI-exporter)** <img src="https://img.shields.io/github/stars/D4vRAM369/VeniceAI-exporter?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Userscript que añade un botón Exportar a Venice AI para guardar la conversación en Markdown o PDF, en el chat agéntico y en el clásico. Instalable desde [Greasy Fork](https://greasyfork.org/es/scripts/605398-venice-ai-exporter-markdown-pdf).
 - **[Vibemusic](https://github.com/D4vRAM369/spicetify-vibemusic)** <img src="https://img.shields.io/github/stars/D4vRAM369/spicetify-vibemusic?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Extensión para Spicetify que crea playlists privadas de Spotify a partir de lo que pides en lenguaje natural, buscando candidatas reales en el catálogo y eligiendo con IA (claves gratis de Gemini, Groq u OpenRouter).
 - **[Playmax → Showly](https://github.com/D4vRAM369/playmax-to-showly)** <img src="https://img.shields.io/github/stars/D4vRAM369/playmax-to-showly?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Pipeline en Python para llevarte tu historial de Playmax a Showly: series, películas, episodios vistos, pendientes y notas, en un archivo listo para importar. Te dice además qué no se pudo pasar.
+- **[AranceLess](https://github.com/D4vRAM369/aranceless-userscript)** (userscript) <img src="https://img.shields.io/github/stars/D4vRAM369/aranceless-userscript?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Userscript para AliExpress y Temu que oculta los artículos sujetos al arancel UE de ~3 € y marca con 🇪🇺 los que envían desde almacén europeo. Sin peticiones de red. Instalable desde [Greasy Fork](https://greasyfork.org/es/scripts/602577-aranceless-solo-stock-ue-en-aliexpress-y-temu).
 - **[Nisaba](https://github.com/D4vRAM369/Nisaba)** <img src="https://img.shields.io/github/stars/D4vRAM369/Nisaba?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Bóveda local de tus conversaciones con Claude Code, Codex, Claude.ai y ChatGPT: encuentra por palabra o frase lo que hablaste con tu IA y reléelo sin ruido, desde la ventana, la terminal o tu propia IA vía MCP. Sin red.
 - **[Mirlo](https://github.com/D4vRAM369/Mirlo-desktop)** <img src="https://img.shields.io/github/stars/D4vRAM369/Mirlo-desktop?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Vault local para tus guardados de X/Twitter: conserva en tu disco el texto, las fotos y los vídeos, con colecciones, etiquetas, búsqueda FTS5 e importación y exportación. Sin cuenta, sin nube.
 - **[SendWithMirlo para X](https://github.com/D4vRAM369/sendwithmirlo-for-x-twitter)** <img src="https://img.shields.io/github/stars/D4vRAM369/sendwithmirlo-for-x-twitter?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Módulo LSPatch/LSPosed que añade un botón "Enviar a Mirlo" al menú Compartir de X en Android y sincroniza los posts guardados con Mirlo de escritorio vía Syncthing.
@@ -132,16 +134,6 @@ Hola, soy **D4vRAM**. Programador autodidacta con mente neurodivergente. Aprendo
 - **[PsychoLogger](https://github.com/D4vRAM369/PsychoLogger)** <img src="https://img.shields.io/github/stars/D4vRAM369/PsychoLogger?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Diario privado y cifrado de reducción de riesgos. 100% offline.
 - **[Fumitracking](https://github.com/D4vRAM369/Fumitracking)** <img src="https://img.shields.io/github/stars/D4vRAM369/Fumitracking?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — App Android privada y offline para registrar el consumo diario de CBD y THC, con anillos de progreso, objetivos, calendario, estadísticas y widget. Pensada para la reducción de riesgos: sin cuenta, sin rastreo y con copias de seguridad locales cifradas.
 - **[NowPlayingExporterPy](https://github.com/D4vRAM369/NowPlayingExporterPy)** <img src="https://img.shields.io/github/stars/D4vRAM369/NowPlayingExporterPy?style=flat-square&color=FFB000&labelColor=0E0B16" alt="stars"> — Exporta a CSV el historial de 'Now Playing' de Pixel rooteados.
-
-</details>
-
-<details>
-<summary><code>guest@d4vram:~$ ls ~/scripts</code> &nbsp;<sub>userscripts</sub></summary>
-<br>
-
-- **[Mirlo](https://github.com/D4vRAM369/Mirlo-desktop)** — Integración local con X/Twitter para enviar posts a Mirlo. Instalable desde [Greasy Fork](https://greasyfork.org/es/scripts?q=Enviar+a+Mirlo).
-- **[Venice AI Exporter](https://github.com/D4vRAM369/VeniceAI-exporter)** — Userscript que añade un botón Exportar a Venice AI para guardar conversaciones en Markdown o PDF. Instalable desde [Greasy Fork](https://greasyfork.org/es/scripts/605398-venice-ai-exporter-markdown-pdf).
-- **[AranceLess](https://github.com/D4vRAM369/aranceless-userscript)** — Userscript para AliExpress y Temu que oculta artículos sujetos al arancel de la UE y marca los envíos desde almacenes europeos. Instalable desde [Greasy Fork](https://greasyfork.org/es/scripts/602577-aranceless-solo-stock-ue-en-aliexpress-y-temu).
 
 </details>
 
